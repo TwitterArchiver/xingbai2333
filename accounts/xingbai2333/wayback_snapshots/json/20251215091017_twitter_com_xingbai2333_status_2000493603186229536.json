@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2000398071935766929",
+    "created_at": "2025-12-15T09:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000493603186229536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988647634689720320",
+          "start": 0,
+          "username": "kunbakusensei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000493603186229536",
+    "in_reply_to_user_id": "1988647634689720320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000398071935766929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunbakusensei 摸摸摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2000397912719994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LXTZUbsAA3D3m.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2000397912724099072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LXTZVaUAAc_uH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2000398071935766929",
+        "created_at": "2025-12-15T09:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000493603186229536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988647634689720320",
+              "start": 0,
+              "username": "kunbakusensei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000493603186229536",
+        "in_reply_to_user_id": "1988647634689720320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000398071935766929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunbakusensei 摸摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000397912719994880",
+            "3_2000397912724099072"
+          ]
+        },
+        "author_id": "1988647634689720320",
+        "conversation_id": "2000398071935766929",
+        "created_at": "2025-12-15T02:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000398071935766929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huEhxLM4Ge",
+              "end": 49,
+              "expanded_url": "https://x.com/kunbakusensei/status/2000398071935766929/photo/1",
+              "media_key": "3_2000397912719994880",
+              "start": 26,
+              "url": "https://t.co/huEhxLM4Ge"
+            },
+            {
+              "display_url": "pic.x.com/huEhxLM4Ge",
+              "end": 49,
+              "expanded_url": "https://x.com/kunbakusensei/status/2000398071935766929/photo/1",
+              "media_key": "3_2000397912724099072",
+              "start": 26,
+              "url": "https://t.co/huEhxLM4Ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000398071935766929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "…… 大號12小時封鎖 只能看帖 其他啥也做不了了 https://t.co/huEhxLM4Ge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 515,
+          "like_count": 7332,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T16:38:48.000Z",
+        "description": "这个人什么都没有留下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/bungeinokunbaku",
+                "end": 23,
+                "expanded_url": "https://x.com/bungeinokunbaku",
+                "start": 0,
+                "url": "https://t.co/nlTAEMKyPZ"
+              }
+            ]
+          }
+        },
+        "id": "1988647634689720320",
+        "location": "IP場所:あなたの心 から0m離れて",
+        "name": "空白先生です🇹🇼🇭🇰🇺🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991346320192499712/_ut8Nl4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 45,
+          "like_count": 581,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/nlTAEMKyPZ",
+        "username": "kunbakusensei",
+        "verified": false
+      }
+    ]
+  }
+}

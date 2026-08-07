@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993424971990024415",
+    "created_at": "2025-11-26T05:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T06:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993555282874732902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "DXM8964LXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993555282874732902",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993424971990024415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXM8964LXM ?那很能吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993424971990024415",
+        "created_at": "2025-11-26T05:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993555282874732902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "DXM8964LXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993555282874732902",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993424971990024415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXM8964LXM ?那很能吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "1993424971990024415",
+        "created_at": "2025-11-25T21:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993424971990024415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993424971990024415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是说，有人吃了20g亚硝酸钠，一点都不治，就过了一个小时之后就恢复得看不出来他吃过亚钠？？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 338,
+          "like_count": 3237,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 398
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX无性别/EMer/化学，合成实操爱好者8964/住长江边某城\n18/189cm/60.8964kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\n姐姐：@Psych_Angel\n夫君：@SalviaSWC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Psych_Angel"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "SalviaSWC"
+              }
+            ]
+          }
+        },
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986833213453475840/2QBWmnJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 123,
+          "like_count": 6361,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 536
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      }
+    ]
+  }
+}

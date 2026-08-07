@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999797342103609785",
+    "created_at": "2025-12-13T15:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999865055186403513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "Ai_ovedose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999865055186403513",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999864864714723336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_ovedose 谢谢喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999797342103609785",
+        "created_at": "2025-12-13T15:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999865055186403513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "Ai_ovedose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999865055186403513",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999864864714723336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_ovedose 谢谢喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "1999797342103609785",
+        "created_at": "2025-12-13T15:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999864864714723336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999864864714723336",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999797342103609785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜哦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 503,
+          "like_count": 7155,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "重生版/互Fo",
+        "id": "1980612830824132609",
+        "location": "Hong Kong",
+        "name": "Vee",
+        "pinned_tweet_id": "1997642573490319755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989174075781226496/VdnzOkFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 340,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 285
+        },
+        "username": "Ai_ovedose",
+        "verified": true
+      }
+    ]
+  }
+}

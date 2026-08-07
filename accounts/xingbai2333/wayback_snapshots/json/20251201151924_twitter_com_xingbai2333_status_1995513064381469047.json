@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995502536619684334",
+    "created_at": "2025-12-01T15:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995513064381469047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995513064381469047",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995502536619684334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 咕噜咕噜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "16_1995502321585807360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7FyyfKW4AActd8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7FyyfKW4AActd8.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995502536619684334",
+        "created_at": "2025-12-01T15:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995513064381469047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995513064381469047",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995502536619684334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 咕噜咕噜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995502321585807360"
+          ]
+        },
+        "author_id": "1786055418684264448",
+        "conversation_id": "1995502536619684334",
+        "created_at": "2025-12-01T14:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995502536619684334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIui2BfslY",
+              "end": 39,
+              "expanded_url": "https://x.com/SIRliquid_/status/1995502536619684334/photo/1",
+              "media_key": "16_1995502321585807360",
+              "start": 16,
+              "url": "https://t.co/UIui2BfslY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995502536619684334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊，不知道发什么\n冒个泡💭 https://t.co/UIui2BfslY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 423,
+          "like_count": 5364,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 647
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "喜欢音乐🎶 || 喜欢有礼貌的人 || 泛性恋 || 友跨 || 不含糖 || 我好无聊来找我玩 || (待补充)\n(Fan Account) || 详细说明见置顶推👇",
+        "id": "1786055418684264448",
+        "location": "日本 東京 特雷森學園",
+        "name": "Ring.✦",
+        "pinned_tweet_id": "1987928237532459394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 349,
+          "like_count": 2075,
+          "listed_count": 1,
+          "media_count": 353,
+          "tweet_count": 1653
+        },
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

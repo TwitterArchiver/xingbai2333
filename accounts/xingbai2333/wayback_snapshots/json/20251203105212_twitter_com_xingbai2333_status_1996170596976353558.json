@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995897806234722606",
+    "created_at": "2025-12-03T10:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996170596976353558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996170596976353558",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995897806234722606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 姐姐补药啊喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995897792976596992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Lad85bMAA5jGv.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995897806234722606",
+        "created_at": "2025-12-03T10:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996170596976353558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996170596976353558",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995897806234722606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 姐姐补药啊喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995897792976596992"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "1995897806234722606",
+        "created_at": "2025-12-02T16:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995897806234722606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RomRvexePL",
+              "end": 46,
+              "expanded_url": "https://x.com/Swathy17531761/status/1995897806234722606/photo/1",
+              "media_key": "3_1995897792976596992",
+              "start": 23,
+              "url": "https://t.co/RomRvexePL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995897806234722606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15406,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个可能是我的最后一次发推。或者是这个月内。 https://t.co/RomRvexePL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 434,
+          "like_count": 5630,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 686
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。对象@MaoZhua520,\n\n🚪48好友位V/Q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "MaoZhua520"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1992242368830140537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 61,
+          "like_count": 7,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 181
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

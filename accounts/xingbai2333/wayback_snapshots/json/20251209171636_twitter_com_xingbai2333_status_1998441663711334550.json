@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998359364462354562",
+    "created_at": "2025-12-09T17:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T18:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998441663711334550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998441663711334550",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998359364462354562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 好贵喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998359364462354562",
+        "created_at": "2025-12-09T17:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998441663711334550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998441663711334550",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998359364462354562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 好贵喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945070018905145344",
+        "conversation_id": "1998359364462354562",
+        "created_at": "2025-12-09T11:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998359364462354562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998359364462354562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "煞笔学校，还要花钱才能用上热水😠\n1升的热水要1块钱，洗个头加吹风 10块钱就没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 479,
+          "like_count": 6494,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 909
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "176.50kg的可爱猫娘♡// 每天分享日常(有趣的梗图💬// 4k.ex1音游人 // 偶尔玩玩音乐🎵 // 绳师S❤️ // ！ (不是黄推,不od,不引战,不转帖,不鉴证,无负能量) (评论不常看,友好私信一定会回) (点个关注再走好嘛🥺)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🏳️‍⚧️ (清纯女大)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990725243397439488/UJwD6zWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8224,
+          "following_count": 161,
+          "like_count": 3763,
+          "listed_count": 8,
+          "media_count": 197,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

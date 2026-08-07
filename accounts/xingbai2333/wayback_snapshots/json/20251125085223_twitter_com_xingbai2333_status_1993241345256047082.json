@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993176991559045385",
+    "created_at": "2025-11-25T08:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993241345256047082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785117616266235904",
+          "start": 0,
+          "username": "qingyun88557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993241345256047082",
+    "in_reply_to_user_id": "1785117616266235904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993221500758114412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyun88557 嗯呐，咱会加油的说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993176991559045385",
+        "created_at": "2025-11-25T08:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993241345256047082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785117616266235904",
+              "start": 0,
+              "username": "qingyun88557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993241345256047082",
+        "in_reply_to_user_id": "1785117616266235904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993221500758114412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyun88557 嗯呐，咱会加油的说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785117616266235904",
+        "conversation_id": "1993176991559045385",
+        "created_at": "2025-11-25T07:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993221500758114412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993221500758114412",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993176991559045385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 摸摸头U・ᴥ・U，希望小星白能快快好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 330
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T01:23:24.000Z",
+        "description": "感觉生活过着过着就麻了，但每次都被麻辣拌救回来（男，但友跨，虽然不是同类，但希望能帮到）（在等一个人，不知道能不能回来，但我希望ta能安好）",
+        "id": "1785117616266235904",
+        "location": "Japan",
+        "name": "月栖",
+        "pinned_tweet_id": "1984980725075165460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944280558219276292/E0zs5NAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 544,
+          "like_count": 1787,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 479
+        },
+        "username": "qingyun88557",
+        "verified": false
+      }
+    ]
+  }
+}

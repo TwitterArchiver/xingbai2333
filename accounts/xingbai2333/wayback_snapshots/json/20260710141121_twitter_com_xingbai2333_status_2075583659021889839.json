@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2075519204166676830",
+    "created_at": "2026-07-10T14:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075583659021889839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075583659021889839",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075519204166676830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 专注达是精一吧？真有人会冒这个风险卖嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2075519193156628480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25taibMAAEB46.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2075519197711679488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25trgbwAAXJv9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2352,
+        "media_key": "3_2075519195547406336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25tjcbkAAiM_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2352,
+        "media_key": "3_2075519193198596096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25tasbkAA_w1K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2075519204166676830",
+        "created_at": "2026-07-10T14:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075583659021889839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075583659021889839",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075519204166676830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 专注达是精一吧？真有人会冒这个风险卖嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075519193156628480",
+            "3_2075519197711679488",
+            "3_2075519195547406336",
+            "3_2075519193198596096"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2075519204166676830",
+        "created_at": "2026-07-10T09:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075519204166676830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519193156628480",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519197711679488",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519195547406336",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519193198596096",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075519204166676830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 718,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人冒充我卖专注达，还骗别人钱我真服了买家找到我头上，我也不知道咋回事 https://t.co/cfFsErchDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 737,
+          "like_count": 10198,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 3039
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZylfPF｜Q:3755457720｜我的tg:https://t.co/1e7qTaQHLq｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 59,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 36,
+                "url": "https://t.co/kXreZylfPF"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 101,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 78,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1068,
+          "like_count": 8915,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

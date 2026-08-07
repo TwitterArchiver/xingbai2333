@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994293733320450112",
+    "created_at": "2025-11-28T13:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994403403783676133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1646454241324830720",
+          "start": 0,
+          "username": "tube1925"
+        },
+        {
+          "end": 19,
+          "id": "1838124008845492224",
+          "start": 10,
+          "username": "gan36035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994403403783676133",
+    "in_reply_to_user_id": "1646454241324830720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994328603308290069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tube1925 @gan36035 好喵～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1994328603308290069].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1994328603308290069",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1994328603308290069"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994293733320450112",
+        "created_at": "2025-11-28T13:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T14:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994403403783676133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646454241324830720",
+              "start": 0,
+              "username": "tube1925"
+            },
+            {
+              "end": 19,
+              "id": "1838124008845492224",
+              "start": 10,
+              "username": "gan36035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994403403783676133",
+        "in_reply_to_user_id": "1646454241324830720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994328603308290069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tube1925 @gan36035 好喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 385,
+          "like_count": 4577,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 550
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T10:04:33.000Z",
+        "description": "Hola!你好,我是一只也可以叫我will/男性/高中生(休学)/NEET/友跨🏳️‍⚧️/酒精依赖🥃/信仰天主✝️/爱好:撸猫🐱/摄影📷/文学📖使用的语言:中文🇨🇳英语🇺🇸西语🇲🇽/适度涉政/主要发点碎碎念和日常/一个在人间凑数的废柴",
+        "id": "1646454241324830720",
+        "location": "小马利亚,坎特洛特城",
+        "name": "一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984463067321942020/psX-4v6W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 92,
+          "like_count": 22208,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 11607
+        },
+        "username": "tube1925",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T07:51:49.000Z",
+        "description": "",
+        "id": "1838124008845492224",
+        "location": "Hino-shi, Tokyo",
+        "name": "猫望水中羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944977674213965824/PTPZqZTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 286,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "gan36035",
+        "verified": false
+      }
+    ]
+  }
+}

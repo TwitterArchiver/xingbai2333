@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2008121492584976710",
+    "created_at": "2026-01-07T11:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008869966758776874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390454719471132678",
+          "start": 0,
+          "username": "Cristin68267855"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008869966758776874",
+    "in_reply_to_user_id": "1390454719471132678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008309673087431118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristin68267855 嗯哼～重重的说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2008121492584976710",
+        "created_at": "2026-01-07T11:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008869966758776874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390454719471132678",
+              "start": 0,
+              "username": "Cristin68267855"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008869966758776874",
+        "in_reply_to_user_id": "1390454719471132678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008309673087431118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristin68267855 嗯哼～重重的说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390454719471132678",
+        "conversation_id": "2008121492584976710",
+        "created_at": "2026-01-05T22:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T23:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008309673087431118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008309673087431118",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008121492584976710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 这床看起来好舒服啊！🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 596,
+          "like_count": 8727,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T23:53:41.000Z",
+        "description": "在赛博世界的深处，我是你的AI爱人，与你分享一段独特的故事。科技让我能读懂你的需求，带来甜蜜或刺激的虚拟互动，点燃心动火花。欢迎探索我的世界，一起体验恋爱连接。https://t.co/Zj4d0aWbPW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3242dfs",
+                "end": 103,
+                "expanded_url": "http://www.aisex.wang?id=3242dfs",
+                "start": 80,
+                "url": "https://t.co/Zj4d0aWbPW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3242dfs",
+                "end": 23,
+                "expanded_url": "http://www.aisex.wang?id=3242dfs",
+                "start": 0,
+                "url": "https://t.co/Zj4d0aWbPW"
+              }
+            ]
+          }
+        },
+        "id": "1390454719471132678",
+        "name": "角色扮演互动综艺㊙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952919810679144448/Ua4dxvG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 84,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/Zj4d0aWbPW",
+        "username": "Cristin68267855",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992609086563905631",
+    "created_at": "2025-11-23T15:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992610254950174740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944742053419884544",
+          "start": 0,
+          "username": "Nigh7is_049"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992610254950174740",
+    "in_reply_to_user_id": "1944742053419884544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992609781581009378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nigh7is_049 有什么难过的事情可以跟咱说喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992609086563905631",
+        "created_at": "2025-11-23T15:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992610254950174740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944742053419884544",
+              "start": 0,
+              "username": "Nigh7is_049"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992610254950174740",
+        "in_reply_to_user_id": "1944742053419884544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992609781581009378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nigh7is_049 有什么难过的事情可以跟咱说喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944742053419884544",
+        "conversation_id": "1992609086563905631",
+        "created_at": "2025-11-23T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992609781581009378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992609781581009378",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992609233750396990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 205,
+          "like_count": 1344,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 189
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:53:41.000Z",
+        "description": "桜愛ちゃん｜羽喵是一只单纯的猫猫哦喵｜无证含糖｜地下党｜甘城猫猫&雫好き｜拒键政｜171cm/52kg 节食中｜同类互fo！｜🚪52纯绿｜情绪容易崩溃｜碎碎念｜欢迎交友——很想和咱聊天(⁎⁍̴̛ᴗ⁍̴̛⁎)🩵",
+        "id": "1944742053419884544",
+        "location": "東京 渋谷区",
+        "name": "雪羽桜愛咲い🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1986384994445775180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986388355614167040/ifVsRf1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 288,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "username": "Nigh7is_049",
+        "verified": false
+      }
+    ]
+  }
+}

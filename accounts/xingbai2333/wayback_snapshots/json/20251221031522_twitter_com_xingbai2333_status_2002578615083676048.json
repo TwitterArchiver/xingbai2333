@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002452773699559916",
+    "created_at": "2025-12-21T03:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T04:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002578615083676048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002578615083676048",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002452773699559916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 雪糕诶嘿嘿！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2002452770415370242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8okL2wa4AI8X7I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2268,
+        "media_key": "3_2002452770855796736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8okL4ZbQAAtbEE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002452773699559916",
+        "created_at": "2025-12-21T03:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T04:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002578615083676048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002578615083676048",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002452773699559916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 雪糕诶嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002452770415370242",
+            "3_2002452770855796736"
+          ]
+        },
+        "author_id": "1550811468009963521",
+        "conversation_id": "2002452773699559916",
+        "created_at": "2025-12-20T18:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002452773699559916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fTvCjNQio",
+              "end": 31,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2002452773699559916/photo/1",
+              "media_key": "3_2002452770415370242",
+              "start": 8,
+              "url": "https://t.co/1fTvCjNQio"
+            },
+            {
+              "display_url": "pic.x.com/1fTvCjNQio",
+              "end": 31,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2002452773699559916/photo/1",
+              "media_key": "3_2002452770855796736",
+              "start": 8,
+              "url": "https://t.co/1fTvCjNQio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002452773699559916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请大家吃雪糕喵 https://t.co/1fTvCjNQio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 534,
+          "like_count": 7740,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/后端Java开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 126,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 103,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8Fl1lo"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "pinned_tweet_id": "1934498789944902108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 813,
+          "like_count": 6923,
+          "listed_count": 6,
+          "media_count": 425,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/t9zy8Fl1lo",
+        "username": "zhi_cheng233",
+        "verified": false
+      }
+    ]
+  }
+}

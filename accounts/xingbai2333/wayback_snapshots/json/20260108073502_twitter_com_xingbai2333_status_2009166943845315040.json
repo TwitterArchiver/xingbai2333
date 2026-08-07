@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2008997379710833150",
+    "created_at": "2026-01-08T07:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009166943845315040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764643439701008384",
+          "start": 0,
+          "username": "oriiioriii_ori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009166943845315040",
+    "in_reply_to_user_id": "1764643439701008384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008997379710833150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oriiioriii_ori 生日快乐～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2093,
+        "media_key": "3_2008997376737050624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-FkeFMagAAP5MC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2008997379710833150",
+        "created_at": "2026-01-08T07:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009166943845315040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764643439701008384",
+              "start": 0,
+              "username": "oriiioriii_ori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009166943845315040",
+        "in_reply_to_user_id": "1764643439701008384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008997379710833150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oriiioriii_ori 生日快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008997376737050624"
+          ]
+        },
+        "author_id": "1764643439701008384",
+        "conversation_id": "2008997379710833150",
+        "created_at": "2026-01-07T20:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008997379710833150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmEjqBDyfO",
+              "end": 39,
+              "expanded_url": "https://x.com/oriiioriii_ori/status/2008997379710833150/photo/1",
+              "media_key": "3_2008997376737050624",
+              "start": 16,
+              "url": "https://t.co/cmEjqBDyfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008997379710833150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3951,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日ヾ(*ΦωΦ)ツ🎈 https://t.co/cmEjqBDyfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 601,
+          "like_count": 8817,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T13:30:34.000Z",
+        "description": "||☆ 轉生成人類的貓目前在當V✨️\n||☆ FanName：貓抓板\n||☆ ハハ @wvvge1033\n||☆ 李威諭 @ORImaomao\n||☆ RenVaichu - 製作人💫\n||☆ 工商/連動邀約信箱 oriori010199@gmail.com\n||☆ 兒女 @DONTUNANA @77_yuunana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "wvvge1033"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "ORImaomao"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "DONTUNANA"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "77_yuunana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ORI-maomao?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ORI-maomao?si=IvxuoadPT4sursU3",
+                "start": 0,
+                "url": "https://t.co/9LZoXKmzGS"
+              }
+            ]
+          }
+        },
+        "id": "1764643439701008384",
+        "location": "貓星球",
+        "name": "ORI 央莉",
+        "pinned_tweet_id": "1913425931714040281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006958908729077765/PABd58Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 107,
+          "like_count": 7337,
+          "listed_count": 11,
+          "media_count": 1136,
+          "tweet_count": 3631
+        },
+        "url": "https://t.co/9LZoXKmzGS",
+        "username": "oriiioriii_ori",
+        "verified": true
+      }
+    ]
+  }
+}

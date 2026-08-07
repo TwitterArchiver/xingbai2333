@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992119367811911877",
+    "created_at": "2025-11-24T01:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992771221998784697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935973896739794944",
+          "start": 0,
+          "username": "quancifang02"
+        },
+        {
+          "end": 26,
+          "id": "1679982917806882816",
+          "start": 14,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992771221998784697",
+    "in_reply_to_user_id": "1935973896739794944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992770179839967723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quancifang02 @limao382525 ＞𐋣＜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992119367811911877",
+        "created_at": "2025-11-24T01:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992771221998784697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935973896739794944",
+              "start": 0,
+              "username": "quancifang02"
+            },
+            {
+              "end": 26,
+              "id": "1679982917806882816",
+              "start": 14,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992771221998784697",
+        "in_reply_to_user_id": "1935973896739794944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992770179839967723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quancifang02 @limao382525 ＞𐋣＜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935973896739794944",
+        "conversation_id": "1992119367811911877",
+        "created_at": "2025-11-24T01:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992770179839967723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            },
+            {
+              "end": 25,
+              "id": "1744679108737712128",
+              "start": 13,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992770179839967723",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992137367038366152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 @xingbai2333 好臭的数字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 212,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 207
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:12:29.000Z",
+        "description": "",
+        "id": "1935973896739794944",
+        "name": "不光怪陆离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992150295871475712/gWBMq-C7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 86,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 273
+        },
+        "username": "quancifang02",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！)",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 103,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 269
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

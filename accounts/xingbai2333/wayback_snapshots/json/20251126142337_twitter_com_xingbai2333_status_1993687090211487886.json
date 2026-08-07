@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993661136714236309",
+    "created_at": "2025-11-26T14:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993687090211487886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993687090211487886",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993661136714236309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 中圈贴贴！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993661123053408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6roOoIa0AA6Dtu.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993661136714236309",
+        "created_at": "2025-11-26T14:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993687090211487886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993687090211487886",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993661136714236309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 中圈贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993661123053408256"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993661136714236309",
+        "created_at": "2025-11-26T12:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993661136714236309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/LF3OdPIPRS"
+            },
+            {
+              "display_url": "pic.x.com/NmQzLTy01p",
+              "end": 64,
+              "expanded_url": "https://x.com/limao382525/status/1993661136714236309/photo/1",
+              "media_key": "3_1993661123053408256",
+              "start": 41,
+              "url": "https://t.co/NmQzLTy01p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993661136714236309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/LF3OdPIPRS https://t.co/NmQzLTy01p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 353,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 418
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！) 匿名信箱喵~https://t.co/A6bxIwanUx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9B%BC%E6%B…",
+                "end": 107,
+                "expanded_url": "https://ngl.link/%E6%9B%BC%E6%B3%A2%E4%B8%8D%E4%BC%9A%E5%94%B1%E6%AD%8C",
+                "start": 84,
+                "url": "https://t.co/A6bxIwanUx"
+              }
+            ]
+          }
+        },
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 126,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 475
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

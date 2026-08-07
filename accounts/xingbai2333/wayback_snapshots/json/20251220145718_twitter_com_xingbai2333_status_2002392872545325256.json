@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002339724774801682",
+    "created_at": "2025-12-20T14:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002392872545325256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819688659584729088",
+          "start": 0,
+          "username": "nianzhi227924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002392872545325256",
+    "in_reply_to_user_id": "1819688659584729088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002339724774801682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianzhi227924 ?补药啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002339724774801682",
+        "created_at": "2025-12-20T14:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002392872545325256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819688659584729088",
+              "start": 0,
+              "username": "nianzhi227924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002392872545325256",
+        "in_reply_to_user_id": "1819688659584729088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002339724774801682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianzhi227924 ?补药啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819688659584729088",
+        "conversation_id": "2002339724774801682",
+        "created_at": "2025-12-20T11:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002339724774801682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002339724774801682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "于是再次偷窥他人的完美生活之后，精神状态完全爆炸，买盐惹，等到货给朋友们测评......尊重他人命运喵...小家伙们，生活不到万不得已，不可能采取极端手段w～咱是两个月前刚被戒网瘾学校放出来的小坏蛋....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 535,
+          "like_count": 7670,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T10:56:09.000Z",
+        "description": "咱....才不是杂鱼喵！是1喵！只是网络是烧0喵！虽然想要木桶饭陪咱过日子....但是还是没能说服自己去勇敢爱QAQ",
+        "id": "1819688659584729088",
+        "location": "江苏省连云港市",
+        "name": "nianzhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000420570517897216/JBwfYiKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 16,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 66
+        },
+        "username": "nianzhi227924",
+        "verified": false
+      }
+    ]
+  }
+}

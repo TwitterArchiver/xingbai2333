@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992596262638796903",
+    "created_at": "2025-11-25T03:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993165769639862407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879792731507281920",
+          "start": 0,
+          "username": "KLLnb666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993165769639862407",
+    "in_reply_to_user_id": "1879792731507281920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992955127171600551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KLLnb666 是要把咱手机型号开盒了嘛？！("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-25T03:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993165769639862407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879792731507281920",
+              "start": 0,
+              "username": "KLLnb666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993165769639862407",
+        "in_reply_to_user_id": "1879792731507281920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992955127171600551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KLLnb666 是要把咱手机型号开盒了嘛？！("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879792731507281920",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-24T13:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992955127171600551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992955127171600551",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992596262638796903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 盲猜是小米澎湃os 2，且手机是不低于小米15，14，13，系列，红米K80，k70，系列，k60pro，至尊系列，红米turbo 3，Turbo 4，Turbo 4 Pro，系列，Note 15系列，小米mix flip，小米mix fold4，fold3系列。因为这些具备超级小爱能力与你手机左上角用药有关，以澎湃os 2更新为准"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 300,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 314
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:28:16.000Z",
+        "description": "",
+        "id": "1879792731507281920",
+        "location": "中国山东省",
+        "name": "兔子",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "KLLnb666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2043667299555852762",
+    "created_at": "2026-04-16T03:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044622078566158708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838124008845492224",
+          "start": 0,
+          "username": "gan36035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044622078566158708",
+    "in_reply_to_user_id": "1838124008845492224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044421315235606696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan36035 ？看看烧烤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2043667299555852762",
+        "created_at": "2026-04-16T03:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044622078566158708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838124008845492224",
+              "start": 0,
+              "username": "gan36035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044622078566158708",
+        "in_reply_to_user_id": "1838124008845492224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044421315235606696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan36035 ？看看烧烤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838124008845492224",
+        "conversation_id": "2043667299555852762",
+        "created_at": "2026-04-15T14:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044421315235606696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044421315235606696",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043667299555852762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 🤔我在烧烤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 712,
+          "like_count": 9874,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T07:51:49.000Z",
+        "description": "",
+        "id": "1838124008845492224",
+        "location": "Hino-shi, Tokyo",
+        "name": "猫望水中羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944977674213965824/PTPZqZTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 360,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 139
+        },
+        "username": "gan36035",
+        "verified": false
+      }
+    ]
+  }
+}

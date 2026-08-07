@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2000920064510603326",
+    "created_at": "2025-12-17T13:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001282602431607256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001282602431607256",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000920064510603326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000920021795536899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SyKJMXAAMrQ4u.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2000920064510603326",
+        "created_at": "2025-12-17T13:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001282602431607256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001282602431607256",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000920064510603326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000920021795536899"
+          ]
+        },
+        "author_id": "1634807884268855297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000920064510603326",
+        "created_at": "2025-12-16T13:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000920064510603326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBb5gU9ORR",
+              "end": 42,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2000920064510603326/photo/1",
+              "media_key": "3_2000920021795536899",
+              "start": 19,
+              "url": "https://t.co/sBb5gU9ORR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000920064510603326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学过生日，在宿舍搞了只烤全羊（？？ https://t.co/sBb5gU9ORR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 528,
+          "like_count": 7473,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,A Student,MtF,Like to Play Chunithm | hrt:2025/6/13 | Best sister: @zhi_cheng233 | 越过高山,即为希望 | 🏳️‍⚧️ | ⊂⁠(⁠•⁠‿⁠•⁠⊂⁠ ⁠)⁠*⁠.⁠✧|逃生仓:@Alex_Steve710",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "zhi_cheng233"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "Alex_Steve710"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikuhome.ewsn.ltd",
+                "end": 23,
+                "expanded_url": "http://mikuhome.ewsn.ltd",
+                "start": 0,
+                "url": "https://t.co/7FwLwaVPS2"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "广东 中山 IP属地：Cloudflare",
+        "name": "Steve_Alex🍥",
+        "pinned_tweet_id": "1948019068809707580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999990957270253568/1CijNEzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 517,
+          "like_count": 6445,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/7FwLwaVPS2",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

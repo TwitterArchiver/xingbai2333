@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994013986249994618",
+    "created_at": "2025-11-27T12:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994022747635421413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976659813863227392",
+          "start": 0,
+          "username": "qian_YuqianMi"
+        },
+        {
+          "end": 27,
+          "id": "1679982917806882816",
+          "start": 15,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994022747635421413",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994022310265885089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian_YuqianMi @limao382525 (◍＞◡＜◍)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994013986249994618",
+        "created_at": "2025-11-27T12:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994022747635421413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            },
+            {
+              "end": 27,
+              "id": "1679982917806882816",
+              "start": 15,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994022747635421413",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994022310265885089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi @limao382525 (◍＞◡＜◍)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994013986249994618",
+        "created_at": "2025-11-27T12:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994022310265885089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            },
+            {
+              "end": 25,
+              "id": "1679982917806882816",
+              "start": 13,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994022310265885089",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994021943247524093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 @limao382525 谢谢宝宝呀🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 377,
+          "like_count": 4126,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 492
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 277,
+          "like_count": 2093,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 516
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！) 匿名信箱喵~https://t.co/A6bxIwanUx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9B%BC%E6%B…",
+                "end": 107,
+                "expanded_url": "https://ngl.link/%E6%9B%BC%E6%B3%A2%E4%B8%8D%E4%BC%9A%E5%94%B1%E6%AD%8C",
+                "start": 84,
+                "url": "https://t.co/A6bxIwanUx"
+              }
+            ]
+          }
+        },
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 133,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 551
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

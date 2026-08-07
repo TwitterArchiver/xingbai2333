@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2003804290280988982",
+    "created_at": "2025-12-25T11:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T12:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004148584615498075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeinokunbaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004148584615498075",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003804290280988982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeinokunbaku 空白子行动胜利喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2003804277471657984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87xX64bQAAodcp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003804278696407040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87xX_cbcAAhqmp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2003804290280988982",
+        "created_at": "2025-12-25T11:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004148584615498075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeinokunbaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004148584615498075",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003804290280988982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeinokunbaku 空白子行动胜利喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003804277471657984",
+            "3_2003804278696407040"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003804290280988982",
+        "created_at": "2025-12-24T12:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003804290280988982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1s8eWWIuYL",
+              "end": 36,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/2003804290280988982/photo/1",
+              "media_key": "3_2003804277471657984",
+              "start": 13,
+              "url": "https://t.co/1s8eWWIuYL"
+            },
+            {
+              "display_url": "pic.x.com/1s8eWWIuYL",
+              "end": 36,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/2003804290280988982/photo/1",
+              "media_key": "3_2003804278696407040",
+              "start": 13,
+              "url": "https://t.co/1s8eWWIuYL"
+            },
+            {
+              "display_url": "x.com/bungeinokunbak…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/bungeinokunbaku/status/2003762056097574985",
+              "start": 37,
+              "url": "https://t.co/UNtWVhqgrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003804290280988982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1254,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003762056097574985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼事都難不倒空白子 ！ https://t.co/1s8eWWIuYL https://t.co/UNtWVhqgrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 548,
+          "like_count": 8147,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "係一般路過的小男娘反賊 內容:政治·梗圖·日常 梗圖係網上揾d 不喜勿噴 定時清fo\n日常のサブ人格：@sorasirokotyan\n意中の人：@leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "sorasirokotyan"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "leaderxiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@legalenhancem…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@legalenhancementanddevelop6753?si=eoPa0tXcEjVBDsGt",
+                "start": 0,
+                "url": "https://t.co/Msrb3CGuX7"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "PRD-GBA 🇨🇳🇭🇰🇲🇴——📍Canton",
+        "name": "🌆⛩️🍵文芸の空白🇭🇰🇯🇵🇹🇼",
+        "pinned_tweet_id": "2003506954803773749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003391396326309890/-OVeOBFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 491,
+          "like_count": 5852,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/Msrb3CGuX7",
+        "username": "bungeinokunbaku",
+        "verified": false
+      }
+    ]
+  }
+}

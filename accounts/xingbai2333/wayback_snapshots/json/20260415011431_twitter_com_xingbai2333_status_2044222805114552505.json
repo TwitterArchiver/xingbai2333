@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2043931804860854678",
+    "created_at": "2026-04-15T01:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044222805114552505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805253994249695232",
+          "start": 0,
+          "username": "buriburiaji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044222805114552505",
+    "in_reply_to_user_id": "1805253994249695232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043931804860854678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buriburiaji xm腿腿喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043931792978370560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2BIvGaYAAKLn_.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2043931804860854678",
+        "created_at": "2026-04-15T01:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044222805114552505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805253994249695232",
+              "start": 0,
+              "username": "buriburiaji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044222805114552505",
+        "in_reply_to_user_id": "1805253994249695232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043931804860854678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buriburiaji xm腿腿喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043931792978370560"
+          ]
+        },
+        "author_id": "1805253994249695232",
+        "conversation_id": "2043931804860854678",
+        "created_at": "2026-04-14T05:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043931804860854678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONI6hw10hG",
+              "end": 29,
+              "expanded_url": "https://x.com/buriburiaji/status/2043931804860854678/photo/1",
+              "media_key": "3_2043931792978370560",
+              "start": 6,
+              "url": "https://t.co/ONI6hw10hG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043931804860854678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 9050,
+          "like_count": 557,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "新鞋... https://t.co/ONI6hw10hG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 710,
+          "like_count": 9868,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2637
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T14:57:53.000Z",
+        "description": "kigurumi初心者 | 竹筴鱼 | 本体→@ciguoe_che|大連/東京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "ciguoe_che"
+              }
+            ]
+          }
+        },
+        "id": "1805253994249695232",
+        "location": "黄海北部",
+        "name": "しまあじc",
+        "pinned_tweet_id": "1999725057694925039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003486267309457412/JOTXnZRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 732,
+          "like_count": 2347,
+          "listed_count": 15,
+          "media_count": 69,
+          "tweet_count": 473
+        },
+        "username": "buriburiaji",
+        "verified": false
+      }
+    ]
+  }
+}

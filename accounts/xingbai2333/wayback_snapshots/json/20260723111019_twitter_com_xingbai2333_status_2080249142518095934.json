@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2079608275579154665",
+    "created_at": "2026-07-23T11:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080249142518095934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1544496439770103808",
+          "start": 0,
+          "username": "LynoRoot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080249142518095934",
+    "in_reply_to_user_id": "1544496439770103808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079726242241376734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LynoRoot 现在给他们擦了擦 qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2079608275579154665",
+        "created_at": "2026-07-23T11:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080249142518095934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1544496439770103808",
+              "start": 0,
+              "username": "LynoRoot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080249142518095934",
+        "in_reply_to_user_id": "1544496439770103808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079726242241376734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LynoRoot 现在给他们擦了擦 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544496439770103808",
+        "conversation_id": "2079608275579154665",
+        "created_at": "2026-07-22T00:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079726242241376734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079726242241376734",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079608275579154665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 可能是充电触点有灰尘，一边没冲上喵~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 736,
+          "like_count": 10216,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-06T01:40:39.000Z",
+        "description": "努力着变得温柔 普通通过音游玩家 爱你们\n逃生通道：@nature_teaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "nature_teaa"
+              }
+            ]
+          }
+        },
+        "id": "1544496439770103808",
+        "location": "看看你后面呢",
+        "name": "水溶茶叶🍃（a.k.a. Teaa）",
+        "pinned_tweet_id": "1934250923842482538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956084735366848515/fk63VS0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 751,
+          "like_count": 15617,
+          "listed_count": 1,
+          "media_count": 587,
+          "tweet_count": 4140
+        },
+        "url": "",
+        "username": "LynoRoot",
+        "verified": false
+      }
+    ]
+  }
+}

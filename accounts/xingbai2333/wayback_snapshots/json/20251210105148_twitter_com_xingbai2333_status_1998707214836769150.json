@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998628923412984250",
+    "created_at": "2025-12-10T10:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998707214836769150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        },
+        {
+          "end": 23,
+          "id": "1688101533198475264",
+          "start": 14,
+          "username": "Chise_wo"
+        },
+        {
+          "end": 32,
+          "id": "1821304109451931648",
+          "start": 24,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998707214836769150",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998707125485478333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya @Chise_wo @Fisa_wo 小情侣ᗜ𖥦ᗜ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998628923412984250",
+        "created_at": "2025-12-10T10:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998707214836769150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            },
+            {
+              "end": 23,
+              "id": "1688101533198475264",
+              "start": 14,
+              "username": "Chise_wo"
+            },
+            {
+              "end": 32,
+              "id": "1821304109451931648",
+              "start": 24,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998707214836769150",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998707125485478333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya @Chise_wo @Fisa_wo 小情侣ᗜ𖥦ᗜ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667798970700283904",
+        "conversation_id": "1998628923412984250",
+        "created_at": "2025-12-10T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998707125485478333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            },
+            {
+              "end": 18,
+              "id": "1821304109451931648",
+              "start": 10,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998707125485478333",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998628923412984250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo @Fisa_wo 小情侣❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 483,
+          "like_count": 6607,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / 无证mtf🏳️‍⚧️(25.2.25)（不建政/No Politics）\n(https://t.co/uTEFVtrfsV)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Sokei_ko_nya",
+                "end": 112,
+                "expanded_url": "https://www.youtube.com/@Sokei_ko_nya",
+                "start": 89,
+                "url": "https://t.co/uTEFVtrfsV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "1987885329454703058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984276932469600256/m07O6gSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 608,
+          "like_count": 31273,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "……",
+        "id": "1688101533198475264",
+        "name": "拧巴的命",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995004763780648965/3bjXgFg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 1054,
+          "like_count": 17202,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 4879
+        },
+        "username": "Chise_wo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "喜欢大家❤️喜欢初音❤️喜欢自己❤️| 小号❤️:@fisa_ling（女装）\n老婆❤️:@Chise_wo             \n🚫键政！！见证！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "fisa_ling"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Chise_wo"
+              }
+            ]
+          }
+        },
+        "id": "1821304109451931648",
+        "location": "Japan",
+        "name": "翎",
+        "pinned_tweet_id": "1993696090265460847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994726714845663232/aM7xRvCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 1449,
+          "like_count": 16435,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 3294
+        },
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

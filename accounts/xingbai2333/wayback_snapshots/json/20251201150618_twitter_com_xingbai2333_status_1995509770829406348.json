@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995296893816148296",
+    "created_at": "2025-12-01T15:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995509770829406348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796067856142213120",
+          "start": 0,
+          "username": "realnmudml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995509770829406348",
+    "in_reply_to_user_id": "1796067856142213120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995296893816148296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realnmudml 补药啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995296869254340608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7C37llaoAAKhrL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995296893816148296",
+        "created_at": "2025-12-01T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995509770829406348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796067856142213120",
+              "start": 0,
+              "username": "realnmudml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995509770829406348",
+        "in_reply_to_user_id": "1796067856142213120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995296893816148296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realnmudml 补药啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995296869254340608"
+          ]
+        },
+        "author_id": "1796067856142213120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995296893816148296",
+        "created_at": "2025-12-01T01:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995296893816148296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vxMhOil76",
+              "end": 29,
+              "expanded_url": "https://x.com/realnmudml/status/1995296893816148296/photo/1",
+              "media_key": "3_1995296869254340608",
+              "start": 6,
+              "url": "https://t.co/8vxMhOil76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995296893816148296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4579,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早晨在宾馆 https://t.co/8vxMhOil76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 421,
+          "like_count": 5350,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 645
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 12,
+          "like_count": 108,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

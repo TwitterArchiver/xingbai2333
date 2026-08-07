@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2077411280592511370",
+    "created_at": "2026-07-16T13:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077740458646925792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596190117273763842",
+          "start": 0,
+          "username": "Chongchong31029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077740458646925792",
+    "in_reply_to_user_id": "1596190117273763842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077411280592511370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chongchong31029 😭😭😭😭😭你们听我解释不是这个样子的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077411269158821888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRyiu6a4AAi9ao.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2077411280592511370",
+        "created_at": "2026-07-16T13:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077740458646925792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596190117273763842",
+              "start": 0,
+              "username": "Chongchong31029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077740458646925792",
+        "in_reply_to_user_id": "1596190117273763842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077411280592511370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chongchong31029 😭😭😭😭😭你们听我解释不是这个样子的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077411269158821888"
+          ]
+        },
+        "author_id": "1596190117273763842",
+        "conversation_id": "2077411280592511370",
+        "created_at": "2026-07-15T15:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077411280592511370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1744679108737712128",
+              "start": 8,
+              "username": "xingbai2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTa8HZplpO",
+              "end": 44,
+              "expanded_url": "https://x.com/Chongchong31029/status/2077411280592511370/photo/1",
+              "media_key": "3_2077411269158821888",
+              "start": 21,
+              "url": "https://t.co/QTa8HZplpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077411280592511370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来断章取义了😋@xingbai2333 https://t.co/QTa8HZplpO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 736,
+          "like_count": 10201,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "160 50kg 无证含糖2025.11 hrt 不鉴证，重度焦虑症依赖，泪失禁，对不起...正在努力改变负能量，可以尽情骚扰我，同类互fo，",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chongchong31029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chongchong31029",
+                "start": 0,
+                "url": "https://t.co/LO85kwergb"
+              }
+            ]
+          }
+        },
+        "id": "1596190117273763842",
+        "location": "叶叶身边",
+        "name": "花汀酒🍥",
+        "pinned_tweet_id": "2025439889060495656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050904595006889984/JDRrTnpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 363,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/LO85kwergb",
+        "username": "Chongchong31029",
+        "verified": false
+      }
+    ]
+  }
+}

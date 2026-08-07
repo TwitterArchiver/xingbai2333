@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2011828109792985123",
+    "created_at": "2026-01-16T06:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012047144480563560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4880352669",
+          "start": 0,
+          "username": "berrrry_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012047144480563560",
+    "in_reply_to_user_id": "4880352669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011828109792985123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berrrry_na 好奇😯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2011828107364462592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tzASia8AA1S5z.jpg",
+        "width": 1000
+      },
+      {
+        "height": 310,
+        "media_key": "3_2011828106915692547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tzAQ3bQAMB0Eh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2011828109792985123",
+        "created_at": "2026-01-16T06:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012047144480563560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4880352669",
+              "start": 0,
+              "username": "berrrry_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012047144480563560",
+        "in_reply_to_user_id": "4880352669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011828109792985123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrrry_na 好奇😯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011828107364462592",
+            "3_2011828106915692547"
+          ]
+        },
+        "author_id": "4880352669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011828109792985123",
+        "created_at": "2026-01-15T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011828109792985123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNXGIh37aP",
+              "end": 32,
+              "expanded_url": "https://x.com/berrrry_na/status/2011828109792985123/photo/1",
+              "media_key": "3_2011828107364462592",
+              "start": 9,
+              "url": "https://t.co/GNXGIh37aP"
+            },
+            {
+              "display_url": "pic.x.com/GNXGIh37aP",
+              "end": 32,
+              "expanded_url": "https://x.com/berrrry_na/status/2011828109792985123/photo/1",
+              "media_key": "3_2011828106915692547",
+              "start": 9,
+              "url": "https://t.co/GNXGIh37aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011828109792985123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "別被好奇心害死了 https://t.co/GNXGIh37aP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 648,
+          "like_count": 9153,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "永遠18歲可愛xyn🏳️‍⚧️（官方設定）/日期是07.30/M、sub、bottom+調皮的brat😈/表面靦腆到想躲被子裡😳，內心卻色到不行，來逗我玩吧？💕/泛性戀/誰來調教我當個乖女孩🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/berrrr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/berrrry-na.bsky.social",
+                "start": 0,
+                "url": "https://t.co/JLdIx3yYUs"
+              }
+            ]
+          }
+        },
+        "id": "4880352669",
+        "location": "因特網絡是我家",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "2006410014760517689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012017194952278016/B_swOGdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 327,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/JLdIx3yYUs",
+        "username": "berrrry_na",
+        "verified": false
+      }
+    ]
+  }
+}

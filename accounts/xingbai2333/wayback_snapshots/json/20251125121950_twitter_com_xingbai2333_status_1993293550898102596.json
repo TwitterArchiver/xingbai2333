@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993184741982715969",
+    "created_at": "2025-11-25T12:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993293550898102596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1539448307985944576",
+          "start": 0,
+          "username": "AlyssaNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993293550898102596",
+    "in_reply_to_user_id": "1539448307985944576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993184741982715969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlyssaNeko 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1993184738681479168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6k29aDW4AACRuu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993184741982715969",
+        "created_at": "2025-11-25T12:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993293550898102596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1539448307985944576",
+              "start": 0,
+              "username": "AlyssaNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993293550898102596",
+        "in_reply_to_user_id": "1539448307985944576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993184741982715969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlyssaNeko 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993184738681479168"
+          ]
+        },
+        "author_id": "1539448307985944576",
+        "conversation_id": "1993184741982715969",
+        "created_at": "2025-11-25T05:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993184741982715969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDaMlFtiqT",
+              "end": 32,
+              "expanded_url": "https://x.com/AlyssaNeko/status/1993184741982715969/photo/1",
+              "media_key": "3_1993184738681479168",
+              "start": 9,
+              "url": "https://t.co/WDaMlFtiqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993184741982715969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天损失两个挂件 https://t.co/WDaMlFtiqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 318,
+          "like_count": 2685,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 360
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T03:21:11.000Z",
+        "description": "🪻艾蕾莎(莎莎） 💮樱羽艾玛（桜羽工マ）善良/纯洁/乖 bushi，22年7月🍥持证含糖MTF，167/55，出柜了，努力社交，没有攻击性~🌈，学习奇怪诱导暗示知识中，药理💊，乐高🪅，绘画☄️，手工💐，美食🥞，💮对象/梅露露 汐雾aya🍥@xiwuaya，🍁闺蜜/导师 椎名@Shina_Kaede",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "xiwuaya"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "Shina_Kaede"
+              }
+            ]
+          }
+        },
+        "id": "1539448307985944576",
+        "location": "New Zealand",
+        "name": "艾蕾莎Alyssa🍥",
+        "pinned_tweet_id": "1989607972478108125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745836025891721216/R1PQNBUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 1457,
+          "like_count": 16459,
+          "listed_count": 13,
+          "media_count": 2099,
+          "tweet_count": 13667
+        },
+        "username": "AlyssaNeko",
+        "verified": false
+      }
+    ]
+  }
+}

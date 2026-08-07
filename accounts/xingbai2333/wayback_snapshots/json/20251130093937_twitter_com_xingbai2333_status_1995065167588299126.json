@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995065165017161728"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995065167588299126",
+    "created_at": "2025-11-30T09:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T10:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995065167588299126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967195247060140032",
+          "start": 0,
+          "username": "ipaddress22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JiDrwSAYta",
+          "end": 44,
+          "expanded_url": "https://x.com/xingbai2333/status/1995065167588299126/photo/1",
+          "media_key": "3_1995065165017161728",
+          "start": 21,
+          "url": "https://t.co/JiDrwSAYta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995065167588299126",
+    "in_reply_to_user_id": "1967195247060140032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@ipaddress22 ᗜ𖥦ᗜ好评喵！ https://t.co/JiDrwSAYta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995065165017161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_lMoCaoAAdscj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995065165017161728"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995065167588299126",
+        "created_at": "2025-11-30T09:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995065167588299126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967195247060140032",
+              "start": 0,
+              "username": "ipaddress22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiDrwSAYta",
+              "end": 44,
+              "expanded_url": "https://x.com/xingbai2333/status/1995065167588299126/photo/1",
+              "media_key": "3_1995065165017161728",
+              "start": 21,
+              "url": "https://t.co/JiDrwSAYta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995065167588299126",
+        "in_reply_to_user_id": "1967195247060140032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ipaddress22 ᗜ𖥦ᗜ好评喵！ https://t.co/JiDrwSAYta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 407,
+          "like_count": 5113,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 605
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T11:54:41.000Z",
+        "description": "日雌340(稳定不断货，可做批发)/孕针360/雌二醇贴410/韩国补佳乐75/色普龙310/口服孕酮300，还有其他的药都有售卖   qq:399927705 qq群:763112758 TG号:https://t.co/szhQgIXAZm TG群https://t.co/tKlqAkbJy8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ipaddress22",
+                "end": 122,
+                "expanded_url": "http://t.me/ipaddress22",
+                "start": 99,
+                "url": "https://t.co/szhQgIXAZm"
+              },
+              {
+                "display_url": "t.me/+XvAAdBVL-AlmM…",
+                "end": 149,
+                "expanded_url": "https://t.me/+XvAAdBVL-AlmMTVl",
+                "start": 126,
+                "url": "https://t.co/tKlqAkbJy8"
+              }
+            ]
+          }
+        },
+        "id": "1967195247060140032",
+        "name": "猫猫日雌🍥",
+        "pinned_tweet_id": "1989297200585912509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983952540866899971/SGa4JID0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 634,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 212
+        },
+        "username": "ipaddress22",
+        "verified": false
+      }
+    ]
+  }
+}

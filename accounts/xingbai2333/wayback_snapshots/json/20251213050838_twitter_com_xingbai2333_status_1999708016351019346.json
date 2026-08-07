@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999697235798557028",
+    "created_at": "2025-12-13T05:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999708016351019346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999708016351019346",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999697235798557028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 棒棒喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999697235798557028",
+        "created_at": "2025-12-13T05:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999708016351019346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999708016351019346",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999697235798557028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 棒棒喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1999697235798557028",
+        "created_at": "2025-12-13T04:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999697235798557028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huanli233/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huanli233/status/1999367205423841566",
+              "start": 17,
+              "url": "https://t.co/tfQUTvxmrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999697235798557028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999367205423841566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经一个月没割了你们能夸夸我吗？ https://t.co/tfQUTvxmrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 492,
+          "like_count": 6895,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 94,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

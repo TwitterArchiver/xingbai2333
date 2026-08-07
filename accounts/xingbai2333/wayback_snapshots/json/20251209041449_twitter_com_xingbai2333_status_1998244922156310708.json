@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998203534765158792",
+    "created_at": "2025-12-09T04:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998244922156310708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998244922156310708",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998244411898286421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 暖暖喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998203534765158792",
+        "created_at": "2025-12-09T04:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998244922156310708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998244922156310708",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998244411898286421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 暖暖喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263115394144821248",
+        "conversation_id": "1998203534765158792",
+        "created_at": "2025-12-09T04:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998244411898286421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998244411898286421",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998203534765158792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 暖一暖～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 466,
+          "like_count": 6376,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 868
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 173/54 | 常驻南昌 | 家长党 | hrt 25.08.31 | 小证25.11.28 | 断糖保留生育能力中 | 同类请找我互fo（忘记fo了请私信我）| 重度抑郁治疗中 | 崩铁、Minecraft | （偶尔有负能量）不定期更新日常",
+        "id": "1263115394144821248",
+        "name": "鸢栀🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 88,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 176
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2078747317365342304",
+    "created_at": "2026-07-19T11:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078802093771809095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 26,
+          "id": "2016246570312990720",
+          "start": 16,
+          "username": "YuChenawa"
+        },
+        {
+          "end": 37,
+          "id": "1608637128132685825",
+          "start": 27,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 47,
+          "id": "1763577841588056064",
+          "start": 38,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078802093771809095",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078747317365342304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @YuChenawa @nyaepheia @yxrchina 大面面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2980,
+        "media_key": "3_2078747231856001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkxl_yagAA5HXT.jpg",
+        "width": 3974
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2078747231574958080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkxl-vaIAAduMc.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3950,
+        "media_key": "3_2078747231520489472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkxl-ibAAAd8aj.jpg",
+        "width": 2962
+      },
+      {
+        "height": 3002,
+        "media_key": "3_2078747231524651008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkxl-jagAAVc9V.jpg",
+        "width": 4003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2078747317365342304",
+        "created_at": "2026-07-19T11:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078802093771809095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 26,
+              "id": "2016246570312990720",
+              "start": 16,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 37,
+              "id": "1608637128132685825",
+              "start": 27,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 47,
+              "id": "1763577841588056064",
+              "start": 38,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078802093771809095",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078747317365342304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @YuChenawa @nyaepheia @yxrchina 大面面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078747231856001024",
+            "3_2078747231574958080",
+            "3_2078747231520489472",
+            "3_2078747231524651008"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078747317365342304",
+        "created_at": "2026-07-19T07:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078747317365342304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2016246570312990720",
+              "start": 20,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 45,
+              "id": "1608637128132685825",
+              "start": 35,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 56,
+              "id": "1763577841588056064",
+              "start": 47,
+              "username": "yxrchina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXucsngW3j",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2078747317365342304/photo/1",
+              "media_key": "3_2078747231856001024",
+              "start": 137,
+              "url": "https://t.co/JXucsngW3j"
+            },
+            {
+              "display_url": "pic.x.com/JXucsngW3j",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2078747317365342304/photo/1",
+              "media_key": "3_2078747231574958080",
+              "start": 137,
+              "url": "https://t.co/JXucsngW3j"
+            },
+            {
+              "display_url": "pic.x.com/JXucsngW3j",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2078747317365342304/photo/1",
+              "media_key": "3_2078747231520489472",
+              "start": 137,
+              "url": "https://t.co/JXucsngW3j"
+            },
+            {
+              "display_url": "pic.x.com/JXucsngW3j",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2078747317365342304/photo/1",
+              "media_key": "3_2078747231524651008",
+              "start": 137,
+              "url": "https://t.co/JXucsngW3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078747317365342304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 30,
+                "id": "2016246570312990720",
+                "start": 20,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 45,
+                "id": "1608637128132685825",
+                "start": 35,
+                "username": "nyaepheia"
+              },
+              {
+                "end": 56,
+                "id": "1763577841588056064",
+                "start": 47,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "text": "大面面(ﾉ´ヮ´)ﾉ*:･ﾟ✧昨天抓到了@YuChenawa 吸过来的@nyaepheia 和@yxrchina喵～大家都好可爱😋\n\n陪小可爱们逛了一圈玄武湖喵🥰作为本地人在最熟悉的领域现编了一条路线ww～虽然都是熟悉的风景但咱可以发挥毕生所学当导游…所以聊天聊的好开心😚\n\n然后跑去苹果店欣赏蓝粉白壁纸）晚上吃了顿萨莉亚喵～萨门永远可靠😘"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大面面(ﾉ´ヮ´)ﾉ*:･ﾟ✧昨天抓到了@YuChenawa 吸过来的@nyaepheia 和@yxrchina喵～大家都好可爱😋\n\n陪小可爱们逛了一圈玄武湖喵🥰作为本地人在最熟悉的领域现编了一条路线ww～虽然都是熟悉的风景但咱可以发挥毕生所学当导游…所以聊天聊的好开心😚 https://t.co/JXucsngW3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 736,
+          "like_count": 10199,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 3055
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 6675,
+          "like_count": 16951,
+          "listed_count": 11,
+          "media_count": 353,
+          "tweet_count": 4451
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "這裡是雨辰!/简中繁中英语OK/顺男咪/LGBTQIA+全友好!(想和小药娘剧烈贴贴！)/請和我社交,我會儘可能認真回復你們的內容的,也歡迎私信騷擾我/低俗恶俗人请远离我谢谢!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 459,
+          "like_count": 3286,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1129
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/7pvajR9Q0p \n/ɪˈfiːə/ she/they\n评论账号@epheiamoe\n存档https://t.co/l9TdYP6fRz\n\nhrt since26.4.1\n可访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "yxrchina"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/7pvajR9Q0p"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 83,
+                "expanded_url": "http://nyaepheia.pages.dev",
+                "start": 60,
+                "url": "https://t.co/l9TdYP6fRz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 23,
+                "expanded_url": "https://nyaepheia.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/PFVuXbAihV"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2078766913560481947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 959,
+          "like_count": 36532,
+          "listed_count": 3,
+          "media_count": 856,
+          "tweet_count": 7018
+        },
+        "url": "https://t.co/PFVuXbAihV",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "syyann.vercel.app",
+                "end": 23,
+                "expanded_url": "https://syyann.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0k3EylxPZD"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Lover @nyaepheia",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1888,
+          "like_count": 27316,
+          "listed_count": 4,
+          "media_count": 371,
+          "tweet_count": 8817
+        },
+        "url": "https://t.co/0k3EylxPZD",
+        "username": "yxrchina",
+        "verified": true
+      }
+    ]
+  }
+}

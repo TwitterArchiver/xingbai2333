@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993226630630924598",
+    "created_at": "2025-11-25T09:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993243703796989997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993243703796989997",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993226630630924598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 偷吃偷吃～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1993226598460592128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ldB94akAAUs6G.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993226630630924598",
+        "created_at": "2025-11-25T09:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993243703796989997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993243703796989997",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993226630630924598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 偷吃偷吃～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993226598460592128"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993226630630924598",
+        "created_at": "2025-11-25T07:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993226630630924598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jv6yiVCXie",
+              "end": 28,
+              "expanded_url": "https://x.com/maoxian1527/status/1993226630630924598/photo/1",
+              "media_key": "3_1993226598460592128",
+              "start": 5,
+              "url": "https://t.co/jv6yiVCXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993226630630924598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽吃喵🤤 https://t.co/jv6yiVCXie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 313,
+          "like_count": 2476,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 339
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 喵呜…是一只可爱小猫咪🤍 是小女孩哦喵🤍简体🤍同类互fo喵🤍此号多为社交🤍@mao_xian1527🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "mao_xian1527"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華人民共和國",
+        "name": "猫弦nekogen🎀（欢迎来互fo喵）",
+        "pinned_tweet_id": "1990667639837110569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991779484425654272/hgjKN6HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 177,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 165
+        },
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

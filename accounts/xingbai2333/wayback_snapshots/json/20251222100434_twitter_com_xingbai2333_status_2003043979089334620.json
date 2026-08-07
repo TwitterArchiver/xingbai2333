@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002776584986755333",
+    "created_at": "2025-12-22T10:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003043979089334620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1876343315412742144",
+          "start": 0,
+          "username": "xaa386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003043979089334620",
+    "in_reply_to_user_id": "1876343315412742144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002776584986755333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaa386 不可以哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2002776578623963136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tKr-VagAAwK0M.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002776584986755333",
+        "created_at": "2025-12-22T10:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003043979089334620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1876343315412742144",
+              "start": 0,
+              "username": "xaa386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003043979089334620",
+        "in_reply_to_user_id": "1876343315412742144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002776584986755333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaa386 不可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002776578623963136"
+          ]
+        },
+        "author_id": "1876343315412742144",
+        "conversation_id": "2002776584986755333",
+        "created_at": "2025-12-21T16:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002776584986755333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQO9g5yBUu",
+              "end": 32,
+              "expanded_url": "https://x.com/xaa386/status/2002776584986755333/photo/1",
+              "media_key": "3_2002776578623963136",
+              "start": 9,
+              "url": "https://t.co/rQO9g5yBUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002776584986755333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累，想吃亚硝酸钠 https://t.co/rQO9g5yBUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 540,
+          "like_count": 7845,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T19:01:28.000Z",
+        "description": "我是奈雪🍥出生2003/08/06🍥小证含糖2023/01/02🍥欢迎同类贴贴🤤🍥我的好宝宝兼老婆：@ShrimpKawaiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "ShrimpKawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "1876343315412742144",
+        "name": "奈雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975457879365910528/UL_xvM03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 99,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "xaa386",
+        "verified": false
+      }
+    ]
+  }
+}

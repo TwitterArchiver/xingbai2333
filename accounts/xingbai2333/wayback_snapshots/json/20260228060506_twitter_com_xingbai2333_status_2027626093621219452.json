@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2025262092543263087",
+    "created_at": "2026-02-28T06:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027626093621219452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1463442397220597765",
+          "start": 0,
+          "username": "exchensir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027626093621219452",
+    "in_reply_to_user_id": "1463442397220597765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025861806812803419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exchensir 撅撅你的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2025262092543263087",
+        "created_at": "2026-02-28T06:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027626093621219452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1463442397220597765",
+              "start": 0,
+              "username": "exchensir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027626093621219452",
+        "in_reply_to_user_id": "1463442397220597765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025861806812803419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exchensir 撅撅你的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463442397220597765",
+        "conversation_id": "2025262092543263087",
+        "created_at": "2026-02-23T09:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025861806812803419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025861806812803419",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025262092543263087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 欢迎回来，啥时候给我撅一下下呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 698,
+          "like_count": 9404,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2388
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-24T09:40:39.000Z",
+        "description": "#0773  只是一个兴趣使然的捆绑爱好者罢了      qq735446245 。",
+        "id": "1463442397220597765",
+        "location": "桂林",
+        "name": "桂海情岚",
+        "pinned_tweet_id": "1754955730028052649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588456004345163782/VYtN4t6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 127,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 528
+        },
+        "username": "exchensir",
+        "verified": false
+      }
+    ]
+  }
+}

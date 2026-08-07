@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993995808312840538",
+    "created_at": "2025-11-27T11:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994003082968223917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994003082968223917",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993995808312840538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993995808312840538",
+        "created_at": "2025-11-27T11:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994003082968223917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994003082968223917",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993995808312840538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1993995808312840538",
+        "created_at": "2025-11-27T10:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993995808312840538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993995808312840538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想起来一件事 印象很深刻\n大概5月买了一瓶试剂（拿来吃）是顺丰的快递所以小哥给我打了电话，而我看那电话号码很害怕，不敢接，直接把他手机号拿去轰炸了一下午，后来看到配送失败的提示，我才知道自己干了畜生事，然后我打电话给他 让他帮我放驿站 说了几声谢谢他很开心，大概他刚刚累的要死，手机卡的打不出去一个电话，我又成了夜晚里安慰他的人。后来我再也没买过顺丰的快递。\n当时我真的一眼就觉得是民警电话 毫无理由的\n出于赎罪，我给自己改了三刀，但是有很委屈我觉得自己是受害者，因为我看到的确确实实是警察的问候，我没有理由接起这个陌生的号码。\n我就是一个精神病，被迫伤害别人，糟糕极了\n而且还借这个借口给自己妄想迫害做开脱\n反od拿去当教材骂吧.....（我当时并没有吃药）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来一件事 印象很深刻\n大概5月买了一瓶试剂（拿来吃）是顺丰的快递所以小哥给我打了电话，而我看那电话号码很害怕，不敢接，直接把他手机号拿去轰炸了一下午，后来看到配送失败的提示，我才知道自己干了畜生事，然后我打电话给他 让他帮我放驿站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 377,
+          "like_count": 4075,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 486
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "临近退役oier（11.30）转Oder（戒ing）\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说（之前爱看太宰治） \n（可能时无多日）\n171/50kg偏瘦，无营养不良 胸围71腰围60肌无力 精神病\n无限制交友互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVHsVh"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 86,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/FUXWMVHsVh",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

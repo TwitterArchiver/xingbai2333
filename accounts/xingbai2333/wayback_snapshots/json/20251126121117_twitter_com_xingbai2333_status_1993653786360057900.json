@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993639466565808544",
+    "created_at": "2025-11-26T12:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993653786360057900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993653786360057900",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993639466565808544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 中圈贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993639453076951040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rUhRLbEAAnLO9.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993639466565808544",
+        "created_at": "2025-11-26T12:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993653786360057900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993653786360057900",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993639466565808544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 中圈贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993639453076951040"
+          ]
+        },
+        "author_id": "1031743711737040897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993639466565808544",
+        "created_at": "2025-11-26T11:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993639466565808544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Gi3cpY2if2"
+            },
+            {
+              "display_url": "pic.x.com/VAzOqKmiOe",
+              "end": 64,
+              "expanded_url": "https://x.com/LittleQiKitty/status/1993639466565808544/photo/1",
+              "media_key": "3_1993639453076951040",
+              "start": 41,
+              "url": "https://t.co/VAzOqKmiOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993639466565808544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Gi3cpY2if2 https://t.co/VAzOqKmiOe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 351,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 407
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo 无糖 随时翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜唔…主人好厉害…所以是你嘛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4LnQ"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "1990805741188624633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420086692208640/EVNlcOqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 494,
+          "like_count": 467,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/6DDlaD4LnQ",
+        "username": "LittleQiKitty",
+        "verified": false
+      }
+    ]
+  }
+}

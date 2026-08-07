@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2045888721212543009",
+    "created_at": "2026-04-19T15:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045888721212543009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1831350388861345793",
+          "start": 3,
+          "username": "WakabaHiime9969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045888721212543009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045860233780850942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WakabaHiime9969: 马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&amp;仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2045888721212543009",
+        "created_at": "2026-04-19T15:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045888721212543009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1831350388861345793",
+              "start": 3,
+              "username": "WakabaHiime9969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045888721212543009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045860233780850942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WakabaHiime9969: 马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&amp;仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2045860233780850942",
+        "created_at": "2026-04-19T13:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045860233780850942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045860233780850942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信\n⭐对于一等奖、二等奖中奖者，我可以免费陪聊10min（在我有空的时候，前提是你愿意w）\n最后谢谢大家的支持啦w，4.22晚上开奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 346,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "马上要100fo了喵！给大家抽个奖喵(≧∀≦)♪\n一等奖：rmb69.69 *1名\n二等奖：补子一盒+本人亲笔信(可定制内容&amp;仅限快递可达地区)   或：折现rmb33.10。*1名\n三等奖：rmb5.20 *3名\n【参与条件】转帖+点赞+评论+关注喵\n⭐所有中奖者均可获取本人微信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 717,
+          "like_count": 9923,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2683
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "ワカバ 緋イ芽 ｜07｜171/52  ??/66/84｜希望能交到好朋友喵｜🏳️‍⚧️Trans-Lesbian｜💊精品神药享受者｜大龄天残｜不懂太社交 · 奇异搞笑发言请原谅qwq｜🍥🎆GAHT 26.03.26｜人間になりたく、女の子になりたいですわ",
+        "id": "1831350388861345793",
+        "location": "東京湾",
+        "name": "Hiime🍡🍥",
+        "pinned_tweet_id": "2045860233780850942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043667757011714048/Yj_x1rzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 188,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 182
+        },
+        "username": "WakabaHiime9969",
+        "verified": true
+      }
+    ]
+  }
+}

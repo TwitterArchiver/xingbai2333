@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998708463195877532",
+    "created_at": "2025-12-11T07:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999017408779235672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871177296763314176",
+          "start": 0,
+          "username": "Allknowbody2"
+        },
+        {
+          "end": 29,
+          "id": "1831363594556211200",
+          "start": 14,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999017408779235672",
+    "in_reply_to_user_id": "1871177296763314176",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998973850298757175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allknowbody2 @JyushitiYizuka ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998708463195877532",
+        "created_at": "2025-12-11T07:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999017408779235672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871177296763314176",
+              "start": 0,
+              "username": "Allknowbody2"
+            },
+            {
+              "end": 29,
+              "id": "1831363594556211200",
+              "start": 14,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999017408779235672",
+        "in_reply_to_user_id": "1871177296763314176",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998973850298757175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allknowbody2 @JyushitiYizuka ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871177296763314176",
+        "conversation_id": "1998708463195877532",
+        "created_at": "2025-12-11T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998973850298757175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            },
+            {
+              "end": 28,
+              "id": "1831363594556211200",
+              "start": 13,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998973850298757175",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998732878062993890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 @JyushitiYizuka 年纪很大的情侣（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 482,
+          "like_count": 6645,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T12:53:32.000Z",
+        "description": "大号@allknowbody 喜欢看乐子推文，不是百河豚（火影忍者手游超影朴正熙吧黄牌🐞友泛右友好，小号@hvyjbhjj78253 亲友墙：@elysia19990926\n@Arishia_404 @X_user_17900 @ElP15_ 萝莉@wcecya群https://t.co/DAjaFJ67Lo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "allknowbody"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "hvyjbhjj78253"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "elysia19990926"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Arishia_404"
+              },
+              {
+                "end": 113,
+                "start": 100,
+                "username": "X_user_17900"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "ElP15_"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "username": "wcecya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/allknowbody2",
+                "end": 155,
+                "expanded_url": "https://t.me/allknowbody2",
+                "start": 132,
+                "url": "https://t.co/DAjaFJ67Lo"
+              }
+            ]
+          }
+        },
+        "id": "1871177296763314176",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "乐子人の桐谷遥🟨🔴🟨",
+        "pinned_tweet_id": "1997555820008206653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997710352092717056/7zgm7WFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 684,
+          "like_count": 1166,
+          "listed_count": 2,
+          "media_count": 6387,
+          "tweet_count": 15743
+        },
+        "username": "Allknowbody2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998553360207925248/RInTmQ8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 1179,
+          "like_count": 34923,
+          "listed_count": 4,
+          "media_count": 1273,
+          "tweet_count": 20662
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994798309324800288",
+    "created_at": "2025-12-01T07:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995389415510945865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987842335536005120",
+          "start": 0,
+          "username": "chaikh222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995389415510945865",
+    "in_reply_to_user_id": "1987842335536005120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995370507953377536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaikh222 谢谢喵～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1995370507953377536].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1995370507953377536",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1995370507953377536"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994798309324800288",
+        "created_at": "2025-12-01T07:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995389415510945865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987842335536005120",
+              "start": 0,
+              "username": "chaikh222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995389415510945865",
+        "in_reply_to_user_id": "1987842335536005120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995370507953377536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaikh222 谢谢喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 413,
+          "like_count": 5224,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 623
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T11:18:58.000Z",
+        "description": "留一盞溫柔小燈給深夜的你🕯️｜普通高中生｜只說很輕的話｜不談政不談金｜廣告&叫妓請繞道🙏｜看到你就悄悄幫點讚👍@Leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1987842335536005120",
+        "location": "點贊👍",
+        "name": "茶",
+        "pinned_tweet_id": "1993337903808962717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993349512937771008/joLKrcXS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 147,
+          "like_count": 5564,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 266
+        },
+        "username": "chaikh222",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999368372698689536"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999368375584371013",
+    "created_at": "2025-12-12T06:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999368375584371013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1aA82BuYL",
+          "end": 29,
+          "expanded_url": "https://x.com/xingbai2333/status/1999368375584371013/photo/1",
+          "media_key": "3_1999368372698689536",
+          "start": 6,
+          "url": "https://t.co/U1aA82BuYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999368375584371013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱心小蛋糕 https://t.co/U1aA82BuYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999368372698689536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78u8R3bMAABZBu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999368372698689536"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999368375584371013",
+        "created_at": "2025-12-12T06:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999368375584371013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1aA82BuYL",
+              "end": 29,
+              "expanded_url": "https://x.com/xingbai2333/status/1999368375584371013/photo/1",
+              "media_key": "3_1999368372698689536",
+              "start": 6,
+              "url": "https://t.co/U1aA82BuYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999368375584371013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱心小蛋糕 https://t.co/U1aA82BuYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 490,
+          "like_count": 6795,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

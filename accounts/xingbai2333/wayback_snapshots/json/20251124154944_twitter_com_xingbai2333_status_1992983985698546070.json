@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992983410839793919",
+    "created_at": "2025-11-24T15:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992983985698546070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699107168807706625",
+          "start": 0,
+          "username": "yueqingzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992983985698546070",
+    "in_reply_to_user_id": "1699107168807706625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992983410839793919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueqingzou 抱抱姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992983410839793919",
+        "created_at": "2025-11-24T15:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992983985698546070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699107168807706625",
+              "start": 0,
+              "username": "yueqingzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992983985698546070",
+        "in_reply_to_user_id": "1699107168807706625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992983410839793919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueqingzou 抱抱姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699107168807706625",
+        "conversation_id": "1992983410839793919",
+        "created_at": "2025-11-24T15:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992983410839793919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992983410839793919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整雌爆惹……好想要抱抱好想要抱抱好想要抱抱……快抱抱晓乐喵☆\n（撒娇#）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 268,
+          "like_count": 2033,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 270
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:09:03.000Z",
+        "description": "音游账号@leqingzou☆希望和大家交朋友互fo哟~/hrt2022.12.2🏳️‍⚧️/🈚证/some blood/大学生/熬夜党/家暴党/地址:成都/oopz频道：782238569",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "leqingzou"
+              }
+            ]
+          }
+        },
+        "id": "1699107168807706625",
+        "name": "晓乐\\🍥/",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737532618386939905/UbibjytX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1797,
+          "like_count": 5579,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2131
+        },
+        "username": "yueqingzou",
+        "verified": false
+      }
+    ]
+  }
+}

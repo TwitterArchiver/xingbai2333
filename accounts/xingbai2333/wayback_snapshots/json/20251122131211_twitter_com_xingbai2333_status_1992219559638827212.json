@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1987885329454703058",
+    "created_at": "2025-11-22T13:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992219559638827212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992219559638827212",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987885329454703058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya 加油加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987885311658278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZjKJ-bwAAv5EI.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987885315504377856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZjKYTakAAZ6A3.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1987885329454703058",
+        "created_at": "2025-11-22T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992219559638827212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992219559638827212",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987885329454703058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya 加油加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987885311658278912",
+            "3_1987885315504377856"
+          ]
+        },
+        "author_id": "1667798970700283904",
+        "conversation_id": "1987885329454703058",
+        "created_at": "2025-11-10T14:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987885329454703058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovtjFNcq32",
+              "end": 32,
+              "expanded_url": "https://x.com/Sokei_ko_nya/status/1987885329454703058/photo/1",
+              "media_key": "3_1987885311658278912",
+              "start": 9,
+              "url": "https://t.co/ovtjFNcq32"
+            },
+            {
+              "display_url": "pic.x.com/ovtjFNcq32",
+              "end": 32,
+              "expanded_url": "https://x.com/Sokei_ko_nya/status/1987885329454703058/photo/1",
+              "media_key": "3_1987885315504377856",
+              "start": 9,
+              "url": "https://t.co/ovtjFNcq32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987885329454703058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 717,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我，走了一半啦！ https://t.co/ovtjFNcq32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 136,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(25.2.25)   🍥←soon\n(https://t.co/uTEFVtrfsV)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Sokei_ko_nya",
+                "end": 102,
+                "expanded_url": "https://www.youtube.com/@Sokei_ko_nya",
+                "start": 79,
+                "url": "https://t.co/uTEFVtrfsV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "1987885329454703058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984276932469600256/m07O6gSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 490,
+          "like_count": 21798,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

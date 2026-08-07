@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992905620140552514",
+    "created_at": "2025-11-24T13:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992953668421980370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        },
+        {
+          "end": 22,
+          "id": "1977759027573735424",
+          "start": 9,
+          "username": "tsukiumiRyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992953668421980370",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992946726051918170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui @tsukiumiRyue 补药紫餐呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992905620140552514",
+        "created_at": "2025-11-24T13:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992953668421980370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            },
+            {
+              "end": 22,
+              "id": "1977759027573735424",
+              "start": 9,
+              "username": "tsukiumiRyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992953668421980370",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992946726051918170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui @tsukiumiRyue 补药紫餐呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "1992905620140552514",
+        "created_at": "2025-11-24T13:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992946726051918170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977759027573735424",
+              "start": 0,
+              "username": "tsukiumiRyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992946726051918170",
+        "in_reply_to_user_id": "1977759027573735424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992905620140552514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsukiumiRyue 我是自残阶级的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 247,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 240
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "路边一条 没流量 临近退役oier转Oder\n高二在读 高强度（高压低分）\n特长：c+，代理，写垃圾话（负能高）\nMTF &ba日服开服牢玩家||梓厨高浓度发癫警告（没有淡游）\n只听术 爱看轻小说（之前爱看太宰治） 被80之后线下装人机\n（可能时无多日）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919058584857411585/9ANZVgDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 61,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T15:37:07.000Z",
+        "description": "喵｜intj｜167｜xyn🍥hrt25.10.29｜上海｜mtx｜生日2009.03.11｜n2考取中｜私信加q｜主人@leaderxiu｜東京大學",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "leaderxiu"
+              }
+            ]
+          }
+        },
+        "id": "1977759027573735424",
+        "location": "Memories of the Witch",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "1988659146615582737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990535544246542336/h2Z9c6LW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 612,
+          "like_count": 10010,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 616
+        },
+        "username": "tsukiumiRyue",
+        "verified": false
+      }
+    ]
+  }
+}

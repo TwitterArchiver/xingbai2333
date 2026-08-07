@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992127957834530865",
+    "created_at": "2025-11-23T14:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992601377236021384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "sprLumi"
+        },
+        {
+          "end": 24,
+          "id": "1845454917236031495",
+          "start": 9,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 37,
+          "id": "1125017516055482368",
+          "start": 25,
+          "username": "String_fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992601377236021384",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992519881355575492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sprLumi @Dontbesadforit @String_fish ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992127957834530865",
+        "created_at": "2025-11-23T14:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992601377236021384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            },
+            {
+              "end": 24,
+              "id": "1845454917236031495",
+              "start": 9,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 37,
+              "id": "1125017516055482368",
+              "start": 25,
+              "username": "String_fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992601377236021384",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992519881355575492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi @Dontbesadforit @String_fish ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1992127957834530865",
+        "created_at": "2025-11-23T09:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992519881355575492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 28,
+              "id": "1125017516055482368",
+              "start": 16,
+              "username": "String_fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992519881355575492",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992519746059940225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @String_fish 被我按在讲台上操了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 195,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 174
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "◇ 𝐴𝑙𝑙 𝑀𝑦 𝐿𝑖𝑓𝑒 ◇ @HobartR6 @_FurryFur_ ◇ 泰补180包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "HobartR6"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "𝙨𝙥𝙧𝙇𝙪𝙢𝙞💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992462935785136128/2DCOadzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 897,
+          "like_count": 1187,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 477
+        },
+        "username": "sprLumi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "死掉就可以了",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 933,
+          "like_count": 56565,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 7544
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-05T12:40:52.000Z",
+        "description": "Salted fish\n一条咸鱼。\n @kage_papuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "kage_papuki"
+              }
+            ]
+          }
+        },
+        "id": "1125017516055482368",
+        "name": "Arius sul G String",
+        "pinned_tweet_id": "1906695939617878398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1909,
+          "like_count": 86899,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 2788
+        },
+        "username": "String_fish",
+        "verified": false
+      }
+    ]
+  }
+}

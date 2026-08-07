@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2053826979284332738",
+    "created_at": "2026-05-22T23:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057960215166038018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1035602916378402816",
+          "start": 0,
+          "username": "youlingshijiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057960215166038018",
+    "in_reply_to_user_id": "1035602916378402816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053840931456188655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youlingshijiu 有时间咱去看看办一张喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2053826979284332738",
+        "created_at": "2026-05-22T23:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057960215166038018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1035602916378402816",
+              "start": 0,
+              "username": "youlingshijiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057960215166038018",
+        "in_reply_to_user_id": "1035602916378402816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053840931456188655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlingshijiu 有时间咱去看看办一张喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1035602916378402816",
+        "conversation_id": "2053826979284332738",
+        "created_at": "2026-05-11T14:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053840931456188655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053840931456188655",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053826979284332738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 万事达是可以的，境内外的卡大部分都可以充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 684,
+          "like_count": 9956,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-31T18:59:10.000Z",
+        "description": "梦想成为某个领域的工程师，我很好说话请多多找我玩🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uling19.com",
+                "end": 23,
+                "expanded_url": "https://uling19.com",
+                "start": 0,
+                "url": "https://t.co/yDY2Jb2Sjv"
+              }
+            ]
+          }
+        },
+        "id": "1035602916378402816",
+        "location": "優伶拾酒星",
+        "name": "優伶拾酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489142940333191171/mg3Gp21l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 134,
+          "like_count": 1118,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/yDY2Jb2Sjv",
+        "username": "youlingshijiu",
+        "verified": false
+      }
+    ]
+  }
+}

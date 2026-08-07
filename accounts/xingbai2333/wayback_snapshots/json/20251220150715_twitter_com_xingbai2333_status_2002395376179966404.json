@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002331657731260874",
+    "created_at": "2025-12-20T15:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002395376179966404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958584589875879936",
+          "start": 0,
+          "username": "Vodkajiajia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002395376179966404",
+    "in_reply_to_user_id": "1958584589875879936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002331657731260874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vodkajiajia 外圈贴贴！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2002331652266000384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m2B2fWAAAZQV2.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002331657731260874",
+        "created_at": "2025-12-20T15:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002395376179966404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958584589875879936",
+              "start": 0,
+              "username": "Vodkajiajia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002395376179966404",
+        "in_reply_to_user_id": "1958584589875879936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002331657731260874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vodkajiajia 外圈贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002331652266000384"
+          ]
+        },
+        "author_id": "1958584589875879936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2002331657731260874",
+        "created_at": "2025-12-20T10:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002331657731260874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ddLjUN14Pi"
+            },
+            {
+              "display_url": "pic.x.com/LuL6SuxRQh",
+              "end": 64,
+              "expanded_url": "https://x.com/Vodkajiajia/status/2002331657731260874/photo/1",
+              "media_key": "3_2002331652266000384",
+              "start": 41,
+              "url": "https://t.co/LuL6SuxRQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002331657731260874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ddLjUN14Pi https://t.co/LuL6SuxRQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 535,
+          "like_count": 7699,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T17:38:57.000Z",
+        "description": "这里是嘉嘉喵～坐标杭州｜无证含糖｜已炸柜｜性别：Bigender｜平时发点色色照片/视频/日常/调酒（还会发点牢骚）｜感谢喜欢和关注ᯠ _ ̫ _ ᯄ｜同类互fo♡",
+        "id": "1958584589875879936",
+        "name": "嘉嘉Offline🍥（互fo）",
+        "pinned_tweet_id": "1991444531376701872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958584920206712836/5JKm-M_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 344,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 521
+        },
+        "username": "Vodkajiajia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998194022729609680",
+    "created_at": "2025-12-09T04:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998241940752785596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497213290706968576",
+          "start": 0,
+          "username": "Sylvielove2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998241940752785596",
+    "in_reply_to_user_id": "1497213290706968576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998194022729609680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvielove2022 早呀砂糖姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "戒指",
+        "height": 2048,
+        "media_key": "3_1998193832861863936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7sCtEAbkAAUTPv.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998194022729609680",
+        "created_at": "2025-12-09T04:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998241940752785596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497213290706968576",
+              "start": 0,
+              "username": "Sylvielove2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998241940752785596",
+        "in_reply_to_user_id": "1497213290706968576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998194022729609680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvielove2022 早呀砂糖姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998193832861863936"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "conversation_id": "1998194022729609680",
+        "created_at": "2025-12-09T00:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998194022729609680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLC5qDqAS9",
+              "end": 49,
+              "expanded_url": "https://x.com/Sylvielove2022/status/1998194022729609680/photo/1",
+              "media_key": "3_1998193832861863936",
+              "start": 26,
+              "url": "https://t.co/dLC5qDqAS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998194022729609680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安安呀，米娜桑~\n(PID:131233923) https://t.co/dLC5qDqAS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 464,
+          "like_count": 6356,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 860
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "你好，我是白砂糖，称呼我扬扬也可以，无证且暂不含糖，平时喜欢在互联网四处游荡，不擅长发表自己的言论，但很乐意倾听，因为不是很擅长安慰人，所以有时会用AI来辅助回复，如果你对我感到有兴趣的话，我很乐意与你成为朋友，共同寻找些话题。扩Q的话，请私聊哦",
+        "id": "1497213290706968576",
+        "location": "河南郑州",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969425877261041664/Om2cjwgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1414,
+          "like_count": 12894,
+          "listed_count": 0,
+          "media_count": 1739,
+          "tweet_count": 5371
+        },
+        "username": "Sylvielove2022",
+        "verified": false
+      }
+    ]
+  }
+}

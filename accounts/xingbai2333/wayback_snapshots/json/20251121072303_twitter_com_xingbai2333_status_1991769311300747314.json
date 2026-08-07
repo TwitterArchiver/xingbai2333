@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1991469389435318422",
+    "created_at": "2025-11-21T07:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991769311300747314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1244424427313348608",
+          "start": 0,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991769311300747314",
+    "in_reply_to_user_id": "1244424427313348608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991469389435318422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Errrrese 小爱同学喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991469385987637248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Me2vTbwAArJu2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1991469389435318422",
+        "created_at": "2025-11-21T07:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991769311300747314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991769311300747314",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991469389435318422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese 小爱同学喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991469385987637248"
+          ]
+        },
+        "author_id": "1244424427313348608",
+        "conversation_id": "1991469389435318422",
+        "created_at": "2025-11-20T11:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991469389435318422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGiOj2iHm9",
+              "end": 34,
+              "expanded_url": "https://x.com/Errrrese/status/1991469389435318422/photo/1",
+              "media_key": "3_1991469385987637248",
+              "start": 11,
+              "url": "https://t.co/zGiOj2iHm9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991469389435318422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7843,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我键盘上最没用的按键 https://t.co/zGiOj2iHm9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "二十年後又是一條好漢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4zVdahr8MmdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4zVdahr8MmdmZjI1",
+                "start": 0,
+                "url": "https://t.co/DBOWYkUPbU"
+              }
+            ]
+          }
+        },
+        "id": "1244424427313348608",
+        "location": "사리원",
+        "name": "中推老资历",
+        "pinned_tweet_id": "1973619917556723808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973387374425153536/qntaO7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3121,
+          "following_count": 2042,
+          "like_count": 83813,
+          "listed_count": 18,
+          "media_count": 2275,
+          "tweet_count": 26148
+        },
+        "url": "https://t.co/DBOWYkUPbU",
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

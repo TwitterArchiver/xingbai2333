@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993863714278428787",
+    "created_at": "2025-11-27T02:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T03:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993863714278428787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754494415152766976",
+          "start": 3,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993863714278428787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993848645905731907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NagiExpress: 我草大半夜给我气清醒了\n跟某人在推文里聊了几天\n于是想私信了解了解对方\n结果对方不知道为什么一直没回\n于是我打开chat\n发现\n我草为什么这人给我发的私信只能在chat里看到\n而且chat里面还有无数人给我发的私信我压根看不到\n\n各位请务必翻翻…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1849,
+        "media_key": "3_1993848641744732162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uSxpsXAAI4tcH.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993848643116216320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uSxuzWMAA_TP_.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993863714278428787",
+        "created_at": "2025-11-27T02:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993863714278428787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754494415152766976",
+              "start": 3,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993863714278428787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993848645905731907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NagiExpress: 我草大半夜给我气清醒了\n跟某人在推文里聊了几天\n于是想私信了解了解对方\n结果对方不知道为什么一直没回\n于是我打开chat\n发现\n我草为什么这人给我发的私信只能在chat里看到\n而且chat里面还有无数人给我发的私信我压根看不到\n\n各位请务必翻翻…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993848641744732162",
+            "3_1993848643116216320"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "1993848645905731907",
+        "created_at": "2025-11-27T01:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993848645905731907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Vb7xhs4XC",
+              "end": 166,
+              "expanded_url": "https://x.com/NagiExpress/status/1993848645905731907/photo/1",
+              "media_key": "3_1993848641744732162",
+              "start": 143,
+              "url": "https://t.co/0Vb7xhs4XC"
+            },
+            {
+              "display_url": "pic.x.com/0Vb7xhs4XC",
+              "end": 166,
+              "expanded_url": "https://x.com/NagiExpress/status/1993848645905731907/photo/1",
+              "media_key": "3_1993848643116216320",
+              "start": 143,
+              "url": "https://t.co/0Vb7xhs4XC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993848645905731907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我草大半夜给我气清醒了\n跟某人在推文里聊了几天\n于是想私信了解了解对方\n结果对方不知道为什么一直没回\n于是我打开chat\n发现\n我草为什么这人给我发的私信只能在chat里看到\n而且chat里面还有无数人给我发的私信我压根看不到\n\n各位请务必翻翻自己的chat\n很可能有人正在等你回复呢 https://t.co/0Vb7xhs4XC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 363,
+          "like_count": 3829,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 453
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "本次列车为直快车，前方到站：上桥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "1988056374941798527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 1931,
+          "like_count": 17483,
+          "listed_count": 6,
+          "media_count": 1511,
+          "tweet_count": 15405
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

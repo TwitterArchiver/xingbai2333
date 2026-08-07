@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992926378317279268",
+    "created_at": "2025-11-24T13:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992950496492134462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992950496492134462",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992926378317279268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa 抱抱姐姐，咱下次别这样了喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992926355021869056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hL9f6XsAAJD1N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992926378317279268",
+        "created_at": "2025-11-24T13:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992950496492134462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992950496492134462",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992926378317279268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa 抱抱姐姐，咱下次别这样了喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992926355021869056"
+          ]
+        },
+        "author_id": "1983213298708574208",
+        "conversation_id": "1992926378317279268",
+        "created_at": "2025-11-24T12:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992926378317279268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoWZ0jIFuW",
+              "end": 88,
+              "expanded_url": "https://x.com/cosmorisa/status/1992926378317279268/photo/1",
+              "media_key": "3_1992926355021869056",
+              "start": 65,
+              "url": "https://t.co/eoWZ0jIFuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992926378317279268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对不起大家，我真的对不起大家的好意😭😭😭我没听话，我把自己割出血了，当时真的控制不住了。我再也不能说自己是不割手的好宝了😭😭😭 https://t.co/eoWZ0jIFuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 245,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 231
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "07年大只夜猫子(变小中)｜BPD venttwt｜喜欢哲学、社科、艺术、设计｜热爱后现代、后安那其Ⓐ哲学｜警察不要找我，激动会紫砂｜性别虚无主义者🏴 LGBTQ+🏳️‍🌈Ally｜大五:高O/两极化C/低E/情景化A/高N｜INXP-T｜逃避高中自学ing｜Signal:cosmo.200｜同类快来互fo！🥺",
+        "id": "1983213298708574208",
+        "location": "Earth",
+        "name": "CosMorisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983813859032158208/VjhU6-7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 236,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 348
+        },
+        "username": "cosmorisa",
+        "verified": false
+      }
+    ]
+  }
+}

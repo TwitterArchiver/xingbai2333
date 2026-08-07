@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992440311394787667",
+    "created_at": "2025-11-23T12:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992564755907891426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992564755907891426",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992440311394787667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 视奸曼波！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992440311394787667",
+        "created_at": "2025-11-23T12:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992564755907891426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992564755907891426",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992440311394787667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 视奸曼波！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679982917806882816",
+        "conversation_id": "1992440311394787667",
+        "created_at": "2025-11-23T03:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992440311394787667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992440311394787667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人找曼波玩的时候曼波会一遍又一遍的翻看大家说过的话(视奸自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 181,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 151
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！)",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 91,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 217
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

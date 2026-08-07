@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995129701711618103",
+    "created_at": "2025-11-30T16:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995163926720655564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995163926720655564",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995129701711618103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995129701711618103",
+        "created_at": "2025-11-30T16:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995163926720655564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995163926720655564",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995129701711618103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735017872353808385",
+        "conversation_id": "1995129701711618103",
+        "created_at": "2025-11-30T13:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995129701711618103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995129701711618103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此账号将长期停更\n一方面…限流严重\n另一方面…我要准备高考咯\n好歹曾经也是优等生来着\n总之就是班主任一边压力（轻轻地）一边委以重任让我帮扶新同学，说雯雯之前作为新同学融入很快（难道不是因为我和班主任提前认识嘛？）\n\n嘛…我会一直在的\n…\n虽然没几个人理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 409,
+          "like_count": 5194,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 614
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//即将成年//2025.7.23平常的一天//友善的都会回fo//私信扩列找我玩🥺//我家猫猫@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国驻华办事处",
+        "name": "尹家白雯雯",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993274180163502080/y3iK_vDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 349,
+          "like_count": 4486,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 738
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998705812617965570"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998705815411359907",
+    "created_at": "2025-12-10T10:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998705815411359907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zO1v0MpL5n",
+          "end": 49,
+          "expanded_url": "https://x.com/xingbai2333/status/1998705815411359907/photo/1",
+          "media_key": "3_1998705812617965570",
+          "start": 26,
+          "url": "https://t.co/zO1v0MpL5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998705815411359907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的嘛～真的嘛～ www\n还有哦 咱不是笨蛋的说！ https://t.co/zO1v0MpL5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_1998705812617965570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zUWNOaMAIyWYp.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998705812617965570"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998705815411359907",
+        "created_at": "2025-12-10T10:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998705815411359907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zO1v0MpL5n",
+              "end": 49,
+              "expanded_url": "https://x.com/xingbai2333/status/1998705815411359907/photo/1",
+              "media_key": "3_1998705812617965570",
+              "start": 26,
+              "url": "https://t.co/zO1v0MpL5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998705815411359907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的嘛～真的嘛～ www\n还有哦 咱不是笨蛋的说！ https://t.co/zO1v0MpL5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 483,
+          "like_count": 6604,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

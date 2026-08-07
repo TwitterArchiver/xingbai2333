@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2007052694725578946",
+    "created_at": "2026-01-02T15:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007114554275434842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990869239574736896",
+          "start": 0,
+          "username": "MaoZhua520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007114554275434842",
+    "in_reply_to_user_id": "1990869239574736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007052694725578946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoZhua520 是小猫猫！ 抓走了喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 720,
+        "media_key": "13_2007052637775212544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007052637775212544/img/OIjIVSbmNdvPLFGn.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007052637775212544/vid/avc1/320x320/fKsD6-Mj1qY_6kpZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007052637775212544/vid/avc1/540x540/EM_YY_ZV35HGzikJ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007052637775212544/vid/avc1/720x720/Sm4sLSyPhUnwwEse.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007052637775212544/pl/-Ho1H3BhDi2RTEJ4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2007052694725578946",
+        "created_at": "2026-01-02T15:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007114554275434842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990869239574736896",
+              "start": 0,
+              "username": "MaoZhua520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007114554275434842",
+        "in_reply_to_user_id": "1990869239574736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007052694725578946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZhua520 是小猫猫！ 抓走了喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007052637775212544"
+          ]
+        },
+        "author_id": "1990869239574736896",
+        "conversation_id": "2007052694725578946",
+        "created_at": "2026-01-02T11:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007052694725578946"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "MTF"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "药娘"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOAYa5xCvT",
+              "end": 65,
+              "expanded_url": "https://x.com/MaoZhua520/status/2007052694725578946/video/1",
+              "media_key": "13_2007052637775212544",
+              "start": 42,
+              "url": "https://t.co/gOAYa5xCvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007052694725578946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵呜？喵喵喵？喵喵喵？喵喵喵喵喵喵喵喵喵，嗷呜喵？喵呜？#MTF #药娘 #跨性别 https://t.co/gOAYa5xCvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 586,
+          "like_count": 8616,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1822
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:46:43.000Z",
+        "description": "一只MTF（跨性别）我是雌坠小可爱！本人有严重抑郁，但是抑郁症的时候喜欢用雌性激素扎自己才舒服才有安全感！pwq🏳️‍⚧️pwqQWQ有很多生命中无法接受的痛苦！只想真心被爱一辈子！也希望有同类愿意现实中和我在一起走到最后，然而我也想帮助自己更多的MTF同类 对象： @yu_kirins",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "yu_kirins"
+              }
+            ]
+          }
+        },
+        "id": "1990869239574736896",
+        "location": "520km",
+        "name": "🏳️‍⚧️猫の爪呸萝呸萝🍥",
+        "pinned_tweet_id": "2003678620334850135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991942147986321408/gwvUQZmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 142,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 120
+        },
+        "username": "MaoZhua520",
+        "verified": false
+      }
+    ]
+  }
+}

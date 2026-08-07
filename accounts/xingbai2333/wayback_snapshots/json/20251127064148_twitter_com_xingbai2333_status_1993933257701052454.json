@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993653762645524889",
+    "created_at": "2025-11-27T06:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993933257701052454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993933257701052454",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993653762645524889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 姐姐不行喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993653762645524889",
+        "created_at": "2025-11-27T06:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993933257701052454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993933257701052454",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993653762645524889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 姐姐不行喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "1993653762645524889",
+        "created_at": "2025-11-26T12:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993653762645524889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993653762645524889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日那天就去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 375,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 478
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "Drive you to the RHYTHM FLOW.\n「EZ2AC Techythm」「Project CroXoveR」Main Developer & Sound Director\nDAOLITUNE UI Design\nCN⭕️EN⭕️JP❌\n音游人,画师,或任何寻求合作的人会回关\n合作请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH7Csi"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元/音游空间站",
+        "name": "YJGAME/DJ TO3RO 公式",
+        "pinned_tweet_id": "1943320906400776455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942915559550853120/UGwtS9v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1020,
+          "like_count": 35080,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 9877
+        },
+        "url": "https://t.co/PmgsVH7Csi",
+        "username": "YJGAME0189",
+        "verified": false
+      }
+    ]
+  }
+}

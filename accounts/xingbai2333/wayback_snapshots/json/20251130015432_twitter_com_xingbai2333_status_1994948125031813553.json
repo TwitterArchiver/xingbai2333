@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994798309324800288",
+    "created_at": "2025-11-30T01:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994948125031813553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994948125031813553",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994841491005739394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 谢谢姐姐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994798309324800288",
+        "created_at": "2025-11-30T01:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994948125031813553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994948125031813553",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994841491005739394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 谢谢姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735017872353808385",
+        "conversation_id": "1994798309324800288",
+        "created_at": "2025-11-29T18:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994841491005739394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994841491005739394",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994798309324800288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜呀～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 403,
+          "like_count": 5027,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 593
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯//☁️ A cloud in the sky shaped like my love for you.//南极洲外逃企鹅//地科只学了一晚居然能省一?!//情绪障碍//INF…P或J随缘//即将成年//2025.7.23平常的一天//友善的都会回fo//私信扩列找我玩🥺//我家猫猫@amecandy_x🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "amecandy_x"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲企鹅之国驻华办事处",
+        "name": "尹家白雯雯",
+        "pinned_tweet_id": "1986436953705971880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993274180163502080/y3iK_vDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 347,
+          "like_count": 4440,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 733
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

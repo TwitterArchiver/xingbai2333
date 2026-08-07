@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992568905404223521",
+    "created_at": "2025-11-23T12:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992569554812489972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935719415175372801",
+          "start": 0,
+          "username": "qikiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992569554812489972",
+    "in_reply_to_user_id": "1935719415175372801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992568905404223521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiqwq 不行喵～亚硝酸钠危险喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992568905404223521",
+        "created_at": "2025-11-23T12:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992569554812489972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935719415175372801",
+              "start": 0,
+              "username": "qikiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992569554812489972",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992568905404223521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiqwq 不行喵～亚硝酸钠危险喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935719415175372801",
+        "conversation_id": "1992568905404223521",
+        "created_at": "2025-11-23T12:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992568905404223521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992568905404223521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是太性情了，爱我就给我整点亚硝酸钠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 185,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 155
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "| MTF🍥 | hrt:25.5.16 | 有1.想4 | 音游 | 欧美电音 术力口 | oder | 自暴自弃 | 不在学校营业 | 抑郁焦虑易性症心境情感障碍 | 伴侣:@yysukiqiki | puppy :@cirn039 | kitty:@daoketa10 |宝宝:@liang080423 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "yysukiqiki"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "username": "cirn039"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "daoketa10"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "liang080423"
+              }
+            ]
+          }
+        },
+        "id": "1935719415175372801",
+        "location": "Japantown, San Francisco",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1985273338705432635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 341,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 827
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

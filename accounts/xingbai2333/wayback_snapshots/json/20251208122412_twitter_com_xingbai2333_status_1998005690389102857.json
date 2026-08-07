@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1997953492858855672",
+    "created_at": "2025-12-08T12:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998005690389102857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1997568530481549312",
+          "start": 0,
+          "username": "YK9701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998005690389102857",
+    "in_reply_to_user_id": "1997568530481549312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997970195391139887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YK9701 抱抱ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1997953492858855672",
+        "created_at": "2025-12-08T12:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998005690389102857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1997568530481549312",
+              "start": 0,
+              "username": "YK9701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998005690389102857",
+        "in_reply_to_user_id": "1997568530481549312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997970195391139887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YK9701 抱抱ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997568530481549312",
+        "conversation_id": "1997953492858855672",
+        "created_at": "2025-12-08T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997970195391139887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997970195391139887",
+        "in_reply_to_user_id": "1997568530481549312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997970147156558191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 抱抱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 450,
+          "like_count": 6181,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 802
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T07:27:22.000Z",
+        "description": "为这个不完美的故事，画上句点吧",
+        "id": "1997568530481549312",
+        "name": "YukiSnow",
+        "pinned_tweet_id": "1997631422106878420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997568762841833472/eNm4TgNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 213,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 141
+        },
+        "username": "YK9701",
+        "verified": false
+      }
+    ]
+  }
+}

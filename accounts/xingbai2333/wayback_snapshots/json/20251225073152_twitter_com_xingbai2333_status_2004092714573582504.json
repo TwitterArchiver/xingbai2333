@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2003712920270913885",
+    "created_at": "2025-12-25T07:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004092714573582504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004092714573582504",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003712920270913885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 好厉害呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2003712920270913885",
+        "created_at": "2025-12-25T07:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004092714573582504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004092714573582504",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003712920270913885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 好厉害呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2003712920270913885",
+        "created_at": "2025-12-24T06:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T07:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003712920270913885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003712920270913885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "距离2026年已经不到一个星期了\n在这里写一下年度小结吧\n1.在2025年刚满18岁的时候入职了米家(虽然曾被三次拒绝\n2.在米家工作了不到一年的时间成为了店长(虽然只是小米合作伙伴\n3.在外网社交平台拥有4500+粉丝并且与大约50 位粉丝进行线下交流\n4.年收入达到16w+并且拥有存款\n5.用攒的钱给自己换上了iPhone 15pro(虽然不是最新款"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 64136,
+          "like_count": 305,
+          "quote_count": 7,
+          "reply_count": 43,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "距离2026年已经不到一个星期了\n在这里写一下年度小结吧\n1.在2025年刚满18岁的时候入职了米家(虽然曾被三次拒绝\n2.在米家工作了不到一年的时间成为了店长(虽然只是小米合作伙伴\n3.在外网社交平台拥有4500+粉丝并且与大约50 位粉丝进行线下交流\n4.年收入达到16w+并且拥有存款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 548,
+          "like_count": 8171,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999397701537136644/7_l653ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 688,
+          "like_count": 39526,
+          "listed_count": 6,
+          "media_count": 843,
+          "tweet_count": 5716
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

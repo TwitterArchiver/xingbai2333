@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2028401964216951025",
+    "created_at": "2026-03-03T04:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028694655077155103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696546023949385728",
+          "start": 0,
+          "username": "erer627804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028694655077155103",
+    "in_reply_to_user_id": "1696546023949385728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028450023332302892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erer627804 就是成年了可以马上先考科一嘛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2028401964216951025",
+        "created_at": "2026-03-03T04:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028694655077155103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696546023949385728",
+              "start": 0,
+              "username": "erer627804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028694655077155103",
+        "in_reply_to_user_id": "1696546023949385728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028450023332302892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erer627804 就是成年了可以马上先考科一嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696546023949385728",
+        "conversation_id": "2028401964216951025",
+        "created_at": "2026-03-02T12:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028450023332302892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028450023332302892",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028401964216951025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 可以先学科一，每天一小时，半个月就可以了，成年了报名直接考，然后练科二科三"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 713,
+          "like_count": 9554,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T15:31:23.000Z",
+        "description": "游荡在电子世界的幸运幽灵，希望我的存在能给你带来好运~（你的电子猫猫）会互fo哒~\n                    匿名提问：https://t.co/e1bUr9FJWP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erer627804",
+                "end": 90,
+                "expanded_url": "https://ngl.link/erer627804",
+                "start": 67,
+                "url": "https://t.co/e1bUr9FJWP"
+              }
+            ]
+          }
+        },
+        "id": "1696546023949385728",
+        "location": "ip广州",
+        "name": "二二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696549047627362304/f-frzJ3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 466,
+          "like_count": 2041,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1957
+        },
+        "username": "erer627804",
+        "verified": false
+      }
+    ]
+  }
+}

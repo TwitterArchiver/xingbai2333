@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2003836330678374725",
+    "created_at": "2025-12-25T07:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004092355637580056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004092355637580056",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003836330678374725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 摸摸呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2003836330678374725",
+        "created_at": "2025-12-25T07:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T08:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004092355637580056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004092355637580056",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003836330678374725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 摸摸呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2003836330678374725",
+        "created_at": "2025-12-24T14:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003836330678374725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003836330678374725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1495,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去x班考察（这个班的举报的其实）\n走楼梯上就听见 od来了 我还没反应过来是叫我  见到了初中同学  转头就回教室了他\n后续听闻 他们说我 天天od 每节课都要吃一大把 吃完狂笑 ....\n我吃的是精品神药 不是奶片 吃不了那么多的！（回来忍不住又狂笑）\n哈哈哈哈喵 好傻哔啊 怎么信的还能传得开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 548,
+          "like_count": 8160,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1553
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "常在春风中，活在药效里\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999720927802822656/qk4jCmtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 148,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

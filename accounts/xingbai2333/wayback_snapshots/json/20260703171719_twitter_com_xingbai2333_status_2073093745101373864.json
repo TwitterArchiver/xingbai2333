@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2073081133521420788",
+    "created_at": "2026-07-03T17:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073093745101373864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898849785559580672",
+          "start": 0,
+          "username": "Sakura_RinSaki"
+        },
+        {
+          "end": 31,
+          "id": "1604837080663617537",
+          "start": 16,
+          "username": "Natsukikawaii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073093745101373864",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073081133521420788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_RinSaki @Natsukikawaii_ 笨蛋怎么能吃这个！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2073081126646906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUQTRBbAAARHKL.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2073081133521420788",
+        "created_at": "2026-07-03T17:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073093745101373864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 31,
+              "id": "1604837080663617537",
+              "start": 16,
+              "username": "Natsukikawaii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073093745101373864",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073081133521420788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki @Natsukikawaii_ 笨蛋怎么能吃这个！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073081126646906880"
+          ]
+        },
+        "author_id": "1898849785559580672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2073081133521420788",
+        "created_at": "2026-07-03T16:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073081133521420788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKmemZgyuC",
+              "end": 98,
+              "expanded_url": "https://x.com/Sakura_RinSaki/status/2073081133521420788/photo/1",
+              "media_key": "3_2073081126646906880",
+              "start": 75,
+              "url": "https://t.co/NKmemZgyuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073081133521420788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗚嗚嗚\n今天今天絨絨跟夏希外出的時候\n夏希問咱：為什麼頭上紫紫的\n然後咱說：因為昨天吃鹽哇。。\n然後然後 就被打腦袋了 QAQ\n是家暴 家暴 ！！！ https://t.co/NKmemZgyuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2060660435687534650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 727,
+          "like_count": 10193,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 3016
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "原名夏凜咲丨hrt 26.02.10丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023464511045632/DroogT9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 129,
+          "like_count": 5616,
+          "listed_count": 10,
+          "media_count": 275,
+          "tweet_count": 4651
+        },
+        "url": "",
+        "username": "Sakura_RinSaki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-19T13:52:40.000Z",
+        "description": "門檻🚪520\n提供陪聊 偶爾會發大尺度照片\n銀行轉帳請私訊我\n-\n可投餵夏希ᐡ ̳ᴗ ̫ ᴗ ̳ᐡ（綠界⬇️）\n使用綠界入門檻請告訴我你是誰\nhttps://t.co/yCcMwWvRCU\n\n@Sakura_RinSaki 老婆大人♥︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "Sakura_RinSaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a.ecpay.tw/aPtD",
+                "end": 94,
+                "expanded_url": "http://a.ecpay.tw/aPtD",
+                "start": 71,
+                "url": "https://t.co/yCcMwWvRCU"
+              }
+            ]
+          }
+        },
+        "id": "1604837080663617537",
+        "location": "大宋 - 白帝城",
+        "name": "夏希.‎˖٭*",
+        "pinned_tweet_id": "2043719412763828694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043815957572038656/OBZDbXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 62,
+          "like_count": 3173,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "Natsukikawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

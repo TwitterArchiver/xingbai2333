@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992587083723227136"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992587087678509484",
+    "created_at": "2025-11-23T13:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992587087678509484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFAoIEeI3g",
+          "end": 34,
+          "expanded_url": "https://x.com/xingbai2333/status/1992587087678509484/photo/1",
+          "media_key": "3_1992587083723227136",
+          "start": 11,
+          "url": "https://t.co/rFAoIEeI3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992587087678509484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精品神药? 好喝喵！ https://t.co/rFAoIEeI3g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1992587083723227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cXZT1awAAc4na.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992587083723227136"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992587087678509484",
+        "created_at": "2025-11-23T13:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992587087678509484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFAoIEeI3g",
+              "end": 34,
+              "expanded_url": "https://x.com/xingbai2333/status/1992587087678509484/photo/1",
+              "media_key": "3_1992587083723227136",
+              "start": 11,
+              "url": "https://t.co/rFAoIEeI3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992587087678509484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精品神药? 好喝喵！ https://t.co/rFAoIEeI3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 187,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 159
+        },
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

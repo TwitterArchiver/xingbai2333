@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002412529319096698",
+    "created_at": "2025-12-22T03:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T04:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002940528904847838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1672461374180450305",
+          "start": 0,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002940528904847838",
+    "in_reply_to_user_id": "1672461374180450305",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002788161299313113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6mhzph qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002412529319096698",
+        "created_at": "2025-12-22T03:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T04:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002940528904847838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1672461374180450305",
+              "start": 0,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002940528904847838",
+        "in_reply_to_user_id": "1672461374180450305",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002788161299313113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6mhzph qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672461374180450305",
+        "conversation_id": "2002412529319096698",
+        "created_at": "2025-12-21T17:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002788161299313113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002788161299313113",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002412529319096698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 笨蛋～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 539,
+          "like_count": 7823,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想要成为大家的情绪垃圾桶🗑️                                                              07年小孩～ / ♏ /🇮 🇳 🇫 🇵 / 互fo / #树洞 / 心理敏感 /  苦逼早八生(*'へ'*) / 是永远的艾拉厨！｜下面链接有好玩的喵↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "树洞"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO8XWO"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距你520m",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997890740387733504/lVBQP_Wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 131,
+          "like_count": 720,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/U7b6ZO8XWO",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

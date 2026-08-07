@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2006706988277969218",
+    "created_at": "2026-01-02T08:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007010128118346020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007010128118346020",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006706988277969218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 2026第一顿疯狂星期四qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006706799257468928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lBM7IaQAA0uI_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2006706988277969218",
+        "created_at": "2026-01-02T08:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007010128118346020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007010128118346020",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006706988277969218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 2026第一顿疯狂星期四qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006706799257468928"
+          ]
+        },
+        "author_id": "1843975943419047936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006706988277969218",
+        "created_at": "2026-01-01T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006706988277969218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DYzRSlX3d",
+              "end": 34,
+              "expanded_url": "https://x.com/leaderxiu/status/2006706988277969218/photo/1",
+              "media_key": "3_2006706799257468928",
+              "start": 11,
+              "url": "https://t.co/3DYzRSlX3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006706988277969218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰好開心,元旦第一天 https://t.co/3DYzRSlX3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 586,
+          "like_count": 8586,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "發日常普通高中生  \n現在為轉帖多 l  和我互Fo我主頁刷到都點贊🤍\n（點贊不了，就是被限了૮₍ ˶•‸•˶₎ა）\n小號鎖推（@chaikh222）l  政治🚫🚫🚫\n（哪天我不在了要不是被差人抓了要不是VPN炸了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "chaikh222"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去（淡推中…）",
+        "pinned_tweet_id": "2001314477996658707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001512019598675968/mjnuB-tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 505,
+          "like_count": 48166,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 3193
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

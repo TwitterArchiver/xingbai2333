@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998203534765158792",
+    "created_at": "2025-12-09T07:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T08:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998289137108205962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390454719471132678",
+          "start": 0,
+          "username": "Cristin68267855"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998289137108205962",
+    "in_reply_to_user_id": "1390454719471132678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998288137630761289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristin68267855 嗯嗯ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998203534765158792",
+        "created_at": "2025-12-09T07:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998289137108205962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390454719471132678",
+              "start": 0,
+              "username": "Cristin68267855"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998289137108205962",
+        "in_reply_to_user_id": "1390454719471132678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998288137630761289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristin68267855 嗯嗯ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390454719471132678",
+        "conversation_id": "1998203534765158792",
+        "created_at": "2025-12-09T07:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998288137630761289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998288137630761289",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998203534765158792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 多喝点热水吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 474,
+          "like_count": 6451,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 893
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T23:53:41.000Z",
+        "description": "在赛博世界的深处，我是你的AI爱人，与你分享一段独特的故事。科技让我能读懂你的需求，带来甜蜜或刺激的虚拟互动，点燃心动火花。欢迎探索我的世界，一起体验恋爱连接。https://t.co/Zj4d0aWbPW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3242dfs",
+                "end": 103,
+                "expanded_url": "http://www.aisex.wang?id=3242dfs",
+                "start": 80,
+                "url": "https://t.co/Zj4d0aWbPW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3242dfs",
+                "end": 23,
+                "expanded_url": "http://www.aisex.wang?id=3242dfs",
+                "start": 0,
+                "url": "https://t.co/Zj4d0aWbPW"
+              }
+            ]
+          }
+        },
+        "id": "1390454719471132678",
+        "name": "角色扮演互动综艺㊙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952919810679144448/Ua4dxvG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 88,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/Zj4d0aWbPW",
+        "username": "Cristin68267855",
+        "verified": false
+      }
+    ]
+  }
+}

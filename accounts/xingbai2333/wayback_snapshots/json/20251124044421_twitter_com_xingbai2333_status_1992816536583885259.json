@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992816185956823176",
+    "created_at": "2025-11-24T04:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992816536583885259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992816536583885259",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992816185956823176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1992816170811174912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fnv7vasAAclga.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992816185956823176",
+        "created_at": "2025-11-24T04:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992816536583885259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992816536583885259",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992816185956823176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992816170811174912"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "1992816185956823176",
+        "created_at": "2025-11-24T04:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992816185956823176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pypSclOrVc",
+              "end": 50,
+              "expanded_url": "https://x.com/DianaAnya0/status/1992816185956823176/photo/1",
+              "media_key": "3_1992816170811174912",
+              "start": 27,
+              "url": "https://t.co/pypSclOrVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992816185956823176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天好累www，昨天玩到太晚了，下次带郊狼来教室玩~ https://t.co/pypSclOrVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 218,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 225
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "女大.176.50kg的可爱猫娘♡/ 每天会分享日常💬/ (4k.ex1音游人) (偶尔玩玩音乐🎵) (严格控制身材体重) (绳艺在学❤️S.攻) (求求给我点个关注🥺) (备用号@SatouXXJ)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "SatouXXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🏳️‍⚧️",
+        "pinned_tweet_id": "1978814394852114756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990725243397439488/UJwD6zWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7390,
+          "following_count": 161,
+          "like_count": 3620,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

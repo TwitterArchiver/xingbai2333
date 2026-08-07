@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992253825722507321",
+    "created_at": "2025-11-22T15:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T16:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992261280175140916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        },
+        {
+          "end": 26,
+          "id": "1794131217463615488",
+          "start": 11,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992261280175140916",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992259407577850063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ @satsushou_sonn 那很麻烦了喵。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992253825722507321",
+        "created_at": "2025-11-22T15:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992261280175140916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 26,
+              "id": "1794131217463615488",
+              "start": 11,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992261280175140916",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992259407577850063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ @satsushou_sonn 那很麻烦了喵。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "1992253825722507321",
+        "created_at": "2025-11-22T15:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T16:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992259407577850063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            },
+            {
+              "end": 28,
+              "id": "1794131217463615488",
+              "start": 13,
+              "username": "satsushou_sonn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "网证和网号正式启用，原则上自愿使用！, 视频播放量 90122、弹幕量 173、点赞数 726、投硬币枚数 24、收藏人数 458、转发人数 429, 视频作者 小白Smooth, 作者简介 ，相关视频：一个网络身份证而已，被宣传成洪水猛兽。本质是它损害了某些人的利益罢了，比如互联网平台、网红公司、公关公司。我支持推广，把坏人关进笼子里，好人才能得救。，感谢境外反贼，让我知道要去申请网号网证，已经申请好了，网友使用FaceTime后，被反诈中心来电，国家网络身份认证来了，怎么用？，麻豆传媒涉黄团队被捣毁，期间祸害无数少女，使她们坠入万丈深渊#真实案件#社会#网络安全，手把手教你网络身份认证，警察地铁口查身份证遭律师拒绝并怒怼警察执法违法，“网号+网证”给你的身份信息“加密”！，分享三个最新解封微信账号的方法！，苹果会把你的数据交给政府吗？我在这里找到了答案…...",
+              "display_url": "bilibili.com/video/BV13JgNz…",
+              "end": 52,
+              "expanded_url": "http://www.bilibili.com/video/BV13JgNz3EDZ/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1992259430810017793/C6n3wp8B?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1992259430810017793/C6n3wp8B?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "网证和网号正式启用，原则上自愿使用！_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV13JgNz3EDZ/",
+              "url": "https://t.co/6xy593Q4EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992259407577850063",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992257808801333429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 @satsushou_sonn https://t.co/6xy593Q4EE\n这个（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 143,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 117
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入\n生产日期2010.3.16\n无证含糖",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970142306306285568/T-ZSp293_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 1382,
+          "like_count": 33430,
+          "listed_count": 2,
+          "media_count": 440,
+          "tweet_count": 2925
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "是可爱的洛兮酱哦 ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "洛兮酱",
+        "pinned_tweet_id": "1943127317129445560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989661530221420544/tnK988L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 4138,
+          "like_count": 1849,
+          "listed_count": 13,
+          "media_count": 311,
+          "tweet_count": 5631
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995470462449774592"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995470464894873913",
+    "created_at": "2025-12-01T12:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995470464894873913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5jxVZ9KAO",
+          "end": 48,
+          "expanded_url": "https://x.com/xingbai2333/status/1995470464894873913/photo/1",
+          "media_key": "3_1995470462449774592",
+          "start": 25,
+          "url": "https://t.co/G5jxVZ9KAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995470464894873913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像是初二的时候?ᗜ𖥦ᗜ\n不对！咱才没有翻车车～ https://t.co/G5jxVZ9KAO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_1995470462449774592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FV0CoacAAs0m3.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995470462449774592"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995470464894873913",
+        "created_at": "2025-12-01T12:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995470464894873913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5jxVZ9KAO",
+              "end": 48,
+              "expanded_url": "https://x.com/xingbai2333/status/1995470464894873913/photo/1",
+              "media_key": "3_1995470462449774592",
+              "start": 25,
+              "url": "https://t.co/G5jxVZ9KAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995470464894873913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像是初二的时候?ᗜ𖥦ᗜ\n不对！咱才没有翻车车～ https://t.co/G5jxVZ9KAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 413,
+          "like_count": 5243,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 627
+        },
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

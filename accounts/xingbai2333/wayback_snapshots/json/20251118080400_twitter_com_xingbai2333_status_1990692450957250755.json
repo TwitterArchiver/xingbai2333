@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1990691769491853743",
+    "created_at": "2025-11-18T08:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990692450957250755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990692450957250755",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990691769491853743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 抱抱你喵～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990691753738055681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BbmlbbMAEgwKL.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990691754346229760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BbmnsbMAA98F3.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1990691769491853743",
+        "created_at": "2025-11-18T08:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990692450957250755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990692450957250755",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990691769491853743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 抱抱你喵～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990691753738055681",
+            "3_1990691754346229760"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "1990691769491853743",
+        "created_at": "2025-11-18T08:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990691769491853743"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "药娘"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ar8HktVxD",
+              "end": 166,
+              "expanded_url": "https://x.com/Swathy17531761/status/1990691769491853743/photo/1",
+              "media_key": "3_1990691753738055681",
+              "start": 143,
+              "url": "https://t.co/7Ar8HktVxD"
+            },
+            {
+              "display_url": "pic.x.com/7Ar8HktVxD",
+              "end": 166,
+              "expanded_url": "https://x.com/Swathy17531761/status/1990691769491853743/photo/1",
+              "media_key": "3_1990691754346229760",
+              "start": 143,
+              "url": "https://t.co/7Ar8HktVxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990691769491853743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉昨天想紫砂偷偷趁朋友洗澡跑了出去我吃了16粒这个。后面朋友知道了要找我不回来就报警。我害怕警察来。朋友找到我给我送去医院洗胃了。因为很麻烦之前也有过。准备全吃了这个药，我是xyn。我感觉我有。抑郁症焦虑症焦虑症。脑子整天都在想怎么去异世界，我也天天哭，不知道怎么办了 #药娘 #男娘 https://t.co/7Ar8HktVxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 54,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。找不到工作。一直在流浪喵。两天后是我的生日喵，想要咱的🚪给个心意就可以啦＋q/v，",
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1978813582495064514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 59,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 94
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993269333649498267",
+    "created_at": "2025-11-25T12:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993290266195939767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993290266195939767",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993270385396306325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 该爱了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "16_1993270322997706752",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6mEzEebQAAmzLM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6mEzEebQAAmzLM.mp4"
+          }
+        ],
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993269333649498267",
+        "created_at": "2025-11-25T12:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993290266195939767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993290266195939767",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993270385396306325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 该爱了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1993270322997706752"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "conversation_id": "1993269333649498267",
+        "created_at": "2025-11-25T10:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993270385396306325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2Gx5rdo6K",
+              "end": 37,
+              "expanded_url": "https://x.com/limao382525/status/1993270385396306325/photo/1",
+              "media_key": "16_1993270322997706752",
+              "start": 14,
+              "url": "https://t.co/d2Gx5rdo6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993270385396306325",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993269333649498267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "曼波不是好猫！！！哈！！！ https://t.co/d2Gx5rdo6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 317,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 354
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！) 匿名信箱喵~https://t.co/A6bxIwanUx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9B%BC%E6%B…",
+                "end": 107,
+                "expanded_url": "https://ngl.link/%E6%9B%BC%E6%B3%A2%E4%B8%8D%E4%BC%9A%E5%94%B1%E6%AD%8C",
+                "start": 84,
+                "url": "https://t.co/A6bxIwanUx"
+              }
+            ]
+          }
+        },
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 110,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 370
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

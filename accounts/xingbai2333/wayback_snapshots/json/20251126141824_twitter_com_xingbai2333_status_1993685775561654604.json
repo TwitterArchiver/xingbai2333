@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993684782509605153",
+    "created_at": "2025-11-26T14:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993685775561654604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926459207613599745",
+          "start": 0,
+          "username": "k0ns10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993685775561654604",
+    "in_reply_to_user_id": "1926459207613599745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993684782509605153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k0ns10 视奸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993684782509605153",
+        "created_at": "2025-11-26T14:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993685775561654604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926459207613599745",
+              "start": 0,
+              "username": "k0ns10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993685775561654604",
+        "in_reply_to_user_id": "1926459207613599745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993684782509605153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k0ns10 视奸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926459207613599745",
+        "conversation_id": "1993684782509605153",
+        "created_at": "2025-11-26T14:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993684782509605153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k0ns10/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/k0ns10/status/1993649671475249457",
+              "start": 15,
+              "url": "https://t.co/2O73jGJcgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993684782509605153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993649671475249457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一个Bilibili账号 https://t.co/2O73jGJcgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 353,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 413
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:04:18.000Z",
+        "description": "🏳️‍⚧️✌️MtF(未HRT)\n🌏🍜𝙸♡Asia 🇯🇵人\n🇨🇳📚 在学习中文\n💻⌨️OSS Dev.\n🖥️🎮VRC,Minecraft\n👋💯互fo\n♻️🦋うじりす=推 @SoujiyaKurina\n💕🎀ドMネコ\n⚠️➡️ @k0nstoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "SoujiyaKurina"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "k0nstoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kons10.github.io",
+                "end": 23,
+                "expanded_url": "https://kons10.github.io",
+                "start": 0,
+                "url": "https://t.co/KDfMcCyH49"
+              }
+            ]
+          }
+        },
+        "id": "1926459207613599745",
+        "location": "栃木県 小山市",
+        "name": "こんせんと⁉️‼️‼️🩵",
+        "pinned_tweet_id": "1970991894630105382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992970281678413824/8xw6Aixl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 928,
+          "like_count": 12559,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/KDfMcCyH49",
+        "username": "k0ns10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2006950486352736619",
+    "created_at": "2026-01-02T15:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007113488926400662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "385760660",
+          "start": 0,
+          "username": "psyofsouthwest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007113488926400662",
+    "in_reply_to_user_id": "385760660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007113370076635185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyofsouthwest 好老的梗("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2006950486352736619",
+        "created_at": "2026-01-02T15:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007113488926400662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "385760660",
+              "start": 0,
+              "username": "psyofsouthwest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007113488926400662",
+        "in_reply_to_user_id": "385760660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007113370076635185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyofsouthwest 好老的梗("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "385760660",
+        "conversation_id": "2006950486352736619",
+        "created_at": "2026-01-02T15:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007113370076635185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这波是问了，但没完全问啊～部分视频素材来源：@自来卷三木, 视频播放量 566473、弹幕量 62、点赞数 8555、投硬币枚数 66、收藏人数 708、转发人数 1779, 视频作者 李没梗, 作者简介 你不知道的梗我都有！欢迎大家私信投稿哦~~，相关视频：四年再见面！师傅说要好好感谢我！，我的工作最终解释权归@自来卷三木，父母在骂你的时候突然嘴瓢了，师傅你是做什么工作的？ 被《疯狂动物城》联名广告笑死！，此时无声胜有声…，师傅到底是做什么工作的？既然你们诚心诚意地发问了，那我就！，师傅你是做什么的？俺是开坦克的，我一定会救你出去的！，脖子右拧原视频，你是做什么工作的？【读评论】",
+              "display_url": "m.bilibili.com/video/BV1Xr4y1…",
+              "end": 36,
+              "expanded_url": "https://m.bilibili.com/video/BV1Xr4y1r77S",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2007113431581892608/x3jbCbFr?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2007113431581892608/x3jbCbFr?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "这是什么梗：师傅，你是做什么工作的？_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Xr4y1r77S/",
+              "url": "https://t.co/KZJHNpXXYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007113370076635185",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007113145597493509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 https://t.co/KZJHNpXXYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 586,
+          "like_count": 8610,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-06T02:34:45.000Z",
+        "description": "不定期发布自杀干预的内容，联系可发送邮件至：psyofsouthwest@proton.me",
+        "id": "385760660",
+        "location": "赫歇城中区圣武巷33号",
+        "name": "拱北靠北",
+        "pinned_tweet_id": "1868779309206225163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910615440520364032/ss8bnLH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 4219,
+          "like_count": 63209,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 12393
+        },
+        "username": "psyofsouthwest",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998961759051456894",
+    "created_at": "2025-12-11T11:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999085667079651599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999085667079651599",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998961759051456894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 抱抱喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998961759051456894",
+        "created_at": "2025-12-11T11:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999085667079651599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999085667079651599",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998961759051456894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263115394144821248",
+        "conversation_id": "1998961759051456894",
+        "created_at": "2025-12-11T03:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998961759051456894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998961759051456894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 988,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回顾一下这段时间吧\n8月31日开始hrt\n11月15日测激素六项和肝功能\n开始逐步减色\n11月22日炸柜，被我爸发现是mtf\n11月22日被迫开始逐步减药\n11月28日我爸把我的情况告诉了我妈\n                   开始治疗重度抑郁症\n12月6日第一次自残，弄出了血痕\n12月7日第一次尝试紫砂，被我爸拉回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 486,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 173/54 | 常驻南昌 | 家长党 | 自行hrt 25.08.31-25.12.11 | 小证25.11.28 | 断糖保留生育能力中 | 同类请找我互fo（忘记fo了请私信我）| 重度抑郁治疗中 | 崩铁、Minecraft | （偶尔有负能量）不定期更新日常",
+        "id": "1263115394144821248",
+        "name": "鸢栀🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 112,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 255
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

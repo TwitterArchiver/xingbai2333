@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2036461349178618257",
+    "created_at": "2026-03-24T16:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036477734352986559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993628897645408256",
+          "start": 0,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036477734352986559",
+    "in_reply_to_user_id": "1993628897645408256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036461349178618257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr0mis3_c 笨蛋嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3828,
+        "media_key": "3_2036461330077720580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEL2ykIaIAQrHLg.jpg",
+        "width": 2493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2036461349178618257",
+        "created_at": "2026-03-24T16:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036477734352986559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993628897645408256",
+              "start": 0,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036477734352986559",
+        "in_reply_to_user_id": "1993628897645408256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036461349178618257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr0mis3_c 笨蛋嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036461330077720580"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2036461349178618257",
+        "created_at": "2026-03-24T15:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036461349178618257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZKRMjhRi5",
+              "end": 59,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2036461349178618257/photo/1",
+              "media_key": "3_2036461330077720580",
+              "start": 36,
+              "url": "https://t.co/oZKRMjhRi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036461349178618257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像染上割手了怎么办\n今天只是因为好奇浅浅试了试，好像有点上瘾... https://t.co/oZKRMjhRi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 722,
+          "like_count": 9800,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2 | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 想交友版~\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 125,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 102,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 234,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 157
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

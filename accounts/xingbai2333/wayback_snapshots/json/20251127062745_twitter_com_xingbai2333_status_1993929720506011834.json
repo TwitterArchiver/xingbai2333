@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993927424489468286",
+    "created_at": "2025-11-27T06:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993929720506011834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958584589875879936",
+          "start": 0,
+          "username": "Vodkajiajia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993929720506011834",
+    "in_reply_to_user_id": "1958584589875879936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993927424489468286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vodkajiajia 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1993927416159555584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vaa7QaUAAm7H5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993927424489468286",
+        "created_at": "2025-11-27T06:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993929720506011834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958584589875879936",
+              "start": 0,
+              "username": "Vodkajiajia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993929720506011834",
+        "in_reply_to_user_id": "1958584589875879936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993927424489468286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vodkajiajia 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993927416159555584"
+          ]
+        },
+        "author_id": "1958584589875879936",
+        "conversation_id": "1993927424489468286",
+        "created_at": "2025-11-27T06:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993927424489468286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16dcFZZPSt",
+              "end": 35,
+              "expanded_url": "https://x.com/Vodkajiajia/status/1993927424489468286/photo/1",
+              "media_key": "3_1993927416159555584",
+              "start": 12,
+              "url": "https://t.co/16dcFZZPSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993927424489468286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这日子怎么时候是个头哎 https://t.co/16dcFZZPSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 370,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 470
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T17:38:57.000Z",
+        "description": "这里是嘉嘉喵～坐标杭州｜无证含糖｜已炸柜｜性别：Bigender｜平时发点色色照片/视频/日常/调酒（还会发点牢骚）｜感谢喜欢和关注ᯠ _ ̫ _ ᯄ｜同类互fo♡",
+        "id": "1958584589875879936",
+        "name": "嘉嘉Offline🍥（互fo）",
+        "pinned_tweet_id": "1991444531376701872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958584920206712836/5JKm-M_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 336,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 471
+        },
+        "username": "Vodkajiajia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018628052436279297"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2018628055347163168",
+    "created_at": "2026-02-03T10:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018628055347163168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1855413035890028544",
+          "start": 19,
+          "username": "MZiyu81757"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QC10wUGZkN",
+          "end": 66,
+          "expanded_url": "https://x.com/xingbai2333/status/2018628055347163168/photo/1",
+          "media_key": "3_2018628052436279297",
+          "start": 43,
+          "url": "https://t.co/QC10wUGZkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018628055347163168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己一个人难过的时候就看看星空吧～\n(@MZiyu81757 送的小礼物 很喜欢哦) https://t.co/QC10wUGZkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018628052436279297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAObhL8aYAEeVuw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018628052436279297"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018628055347163168",
+        "created_at": "2026-02-03T10:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018628055347163168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1855413035890028544",
+              "start": 19,
+              "username": "MZiyu81757"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC10wUGZkN",
+              "end": 66,
+              "expanded_url": "https://x.com/xingbai2333/status/2018628055347163168/photo/1",
+              "media_key": "3_2018628052436279297",
+              "start": 43,
+              "url": "https://t.co/QC10wUGZkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018628055347163168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己一个人难过的时候就看看星空吧～\n(@MZiyu81757 送的小礼物 很喜欢哦) https://t.co/QC10wUGZkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 671,
+          "like_count": 9339,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T00:52:03.000Z",
+        "description": "泥嚎，请跟我聊天💬(⁠≧⁠▽⁠≦⁠)\n熟练度：中文（A） 英语（A）日语（B）(⁠•⁠ ⁠▽⁠ ⁠•⁠;⁠)\n欢迎大伙骚扰与闲聊，有些社恐，求收留！！！(⁠ ⁠≧⁠Д⁠≦⁠)\nhttps://t.co/I1W0OpyiqJ←⁠_⁠←此乃匿名消息链接，欢迎骚扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muziyu_ziyu",
+                "end": 111,
+                "expanded_url": "https://ngl.link/muziyu_ziyu",
+                "start": 88,
+                "url": "https://t.co/I1W0OpyiqJ"
+              }
+            ]
+          }
+        },
+        "id": "1855413035890028544",
+        "location": "美好的二次元世界",
+        "name": "木子昱&MuZiyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871950235607711744/WqcBvG_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 150,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 825
+        },
+        "username": "MZiyu81757",
+        "verified": false
+      }
+    ]
+  }
+}

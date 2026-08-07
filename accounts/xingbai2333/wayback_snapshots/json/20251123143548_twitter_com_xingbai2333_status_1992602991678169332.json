@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992530867978395929",
+    "created_at": "2025-11-23T14:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992602991678169332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992602991678169332",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992530867978395929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992530867978395929",
+        "created_at": "2025-11-23T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992602991678169332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992602991678169332",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992530867978395929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "1992530867978395929",
+        "created_at": "2025-11-23T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992530867978395929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyc20090/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/yyc20090/status/1992458928463233361",
+              "start": 49,
+              "url": "https://t.co/zWFgCrDMk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992530867978395929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992458928463233361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想多来点人互fo喵 男生女生都可以来 我很好说话平时可以来找我玩捏₍˄·͈༝·͈˄*₎◞ ̑̑🥺 https://t.co/zWFgCrDMk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 198,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 178
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入\n生产日期2010.3.16\n无证含糖",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970142306306285568/T-ZSp293_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 1385,
+          "like_count": 33492,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 2940
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

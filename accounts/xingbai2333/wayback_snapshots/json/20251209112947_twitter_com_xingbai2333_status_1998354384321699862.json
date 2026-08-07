@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998251000952705135",
+    "created_at": "2025-12-09T11:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998354384321699862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493409182141206531",
+          "start": 0,
+          "username": "JQKAwhocares"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998354384321699862",
+    "in_reply_to_user_id": "1493409182141206531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998312025072840948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQKAwhocares 好喝好喝ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998251000952705135",
+        "created_at": "2025-12-09T11:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998354384321699862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493409182141206531",
+              "start": 0,
+              "username": "JQKAwhocares"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998354384321699862",
+        "in_reply_to_user_id": "1493409182141206531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998312025072840948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQKAwhocares 好喝好喝ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493409182141206531",
+        "conversation_id": "1998251000952705135",
+        "created_at": "2025-12-09T08:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998312025072840948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998312025072840948",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998251000952705135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 这个好喝喵，前天刚喝过，黑糖好喝喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 477,
+          "like_count": 6458,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 896
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T02:18:13.000Z",
+        "description": "临床医学生/男娘/性取向也是男娘/男娘最棒了 想要🤤🤤🤤想要🤤🤤🤤好看的腿子🤤🤤🤤阴暗的怪笑🤤🤤🤤想要🤤白皙的皮肤🤤🤤想要🤤圆润的🐻🐻",
+        "id": "1493409182141206531",
+        "location": "Los Angeles, CA",
+        "name": "Cyber Coffin🫘🤤",
+        "pinned_tweet_id": "1953092266966565288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993001345067159552/EMzKICOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 153,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 563
+        },
+        "username": "JQKAwhocares",
+        "verified": false
+      }
+    ]
+  }
+}

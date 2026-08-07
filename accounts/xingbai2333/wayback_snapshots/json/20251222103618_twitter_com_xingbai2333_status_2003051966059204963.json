@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003051958698213376"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003051966059204963",
+    "created_at": "2025-12-22T10:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003051966059204963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QC8nTkCHW2",
+          "end": 40,
+          "expanded_url": "https://x.com/xingbai2333/status/2003051966059204963/photo/1",
+          "media_key": "3_2003051958698213376",
+          "start": 17,
+          "url": "https://t.co/QC8nTkCHW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003051966059204963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛蛙好好吃qwq\n不过吃一顿好贵 https://t.co/QC8nTkCHW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2003051958698213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xFJNDbgAATTCs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003051958698213376"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003051966059204963",
+        "created_at": "2025-12-22T10:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003051966059204963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC8nTkCHW2",
+              "end": 40,
+              "expanded_url": "https://x.com/xingbai2333/status/2003051966059204963/photo/1",
+              "media_key": "3_2003051958698213376",
+              "start": 17,
+              "url": "https://t.co/QC8nTkCHW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003051966059204963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛蛙好好吃qwq\n不过吃一顿好贵 https://t.co/QC8nTkCHW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 541,
+          "like_count": 7879,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992596262638796903",
+    "created_at": "2025-11-24T04:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992811268110266875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1329664321358479360",
+          "start": 0,
+          "username": "xuxiaoxiaom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992811268110266875",
+    "in_reply_to_user_id": "1329664321358479360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992796195702657521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxiaoxiaom 摸摸姐姐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-24T04:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992811268110266875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1329664321358479360",
+              "start": 0,
+              "username": "xuxiaoxiaom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992811268110266875",
+        "in_reply_to_user_id": "1329664321358479360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992796195702657521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxiaoxiaom 摸摸姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329664321358479360",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-24T03:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992796195702657521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992796195702657521",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992596262638796903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 (=^･ω･^=)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 218,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 212
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T05:54:51.000Z",
+        "description": "祈世间所梦，皆宁静长久～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starry.best",
+                "end": 23,
+                "expanded_url": "http://www.starry.best",
+                "start": 0,
+                "url": "https://t.co/wQxVUrFF7R"
+              }
+            ]
+          }
+        },
+        "id": "1329664321358479360",
+        "name": "筱筱🍥",
+        "pinned_tweet_id": "1661991045733949440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991794850610442240/7SA-WBnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 2333,
+          "like_count": 2075,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/wQxVUrFF7R",
+        "username": "xuxiaoxiaom",
+        "verified": true
+      }
+    ]
+  }
+}

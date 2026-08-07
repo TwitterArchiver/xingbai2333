@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2051477004822925632",
+    "created_at": "2026-05-05T01:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051481914197062027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1854736085068517376",
+          "start": 0,
+          "username": "SimpleUX_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051481914197062027",
+    "in_reply_to_user_id": "1854736085068517376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051477004822925632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SimpleUX_2024 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1457,
+        "media_key": "3_2051477002562228224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhPdvKa0AAvbIJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2051477004822925632",
+        "created_at": "2026-05-05T01:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051481914197062027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1854736085068517376",
+              "start": 0,
+              "username": "SimpleUX_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051481914197062027",
+        "in_reply_to_user_id": "1854736085068517376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051477004822925632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SimpleUX_2024 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051477002562228224"
+          ]
+        },
+        "author_id": "1854736085068517376",
+        "conversation_id": "2051477004822925632",
+        "created_at": "2026-05-05T01:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051477004822925632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2M7PgcLPUO",
+              "end": 44,
+              "expanded_url": "https://x.com/SimpleUX_2024/status/2051477004822925632/photo/1",
+              "media_key": "3_2051477002562228224",
+              "start": 21,
+              "url": "https://t.co/2M7PgcLPUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051477004822925632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夏日晴海账号已被锁定，恢复时间待定... https://t.co/2M7PgcLPUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 664,
+          "like_count": 9934,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "SimpleUX is simple,pure, and has outstanding performance, makingit easier for you to use your device.",
+        "id": "1854736085068517376",
+        "name": "SimpleUX_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024890746214776834/KE1io_c9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 87,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "username": "SimpleUX_2024",
+        "verified": false
+      }
+    ]
+  }
+}

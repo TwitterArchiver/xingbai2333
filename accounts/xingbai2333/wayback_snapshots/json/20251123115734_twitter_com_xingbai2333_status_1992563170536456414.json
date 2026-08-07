@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992492784251740498",
+    "created_at": "2025-11-23T11:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992563170536456414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814598522895020033",
+          "start": 0,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992563170536456414",
+    "in_reply_to_user_id": "1814598522895020033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992492784251740498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoTrans112233 抱抱姐姐喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992492784251740498",
+        "created_at": "2025-11-23T11:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992563170536456414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992563170536456414",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992492784251740498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 抱抱姐姐喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814598522895020033",
+        "conversation_id": "1992492784251740498",
+        "created_at": "2025-11-23T07:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992492784251740498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992492784251740498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔嗯…下周就要去西安复诊了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 179,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 148
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "简介在置顶喵|无证含糖|HRT起始25.5.5🍥| 08.6.13|高三牲|穷|省吃俭用买糖|求施舍| 是优等生喔|目标是先上大学…| 已经炸柜|被家长冷暴力|粘人|喜欢和同类贴贴哇| 不设门槛|同类可直接私我要qq号喔| 非同类要加咱联系方式请先资助一顿饭……",
+        "id": "1814598522895020033",
+        "location": "距离你520m",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1986253194083901903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 388,
+          "like_count": 1072,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 605
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2012046763327439145",
+    "created_at": "2026-01-16T19:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T20:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012245542810882418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012245542810882418",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012159651886821801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 谢谢姐姐哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2012046763327439145",
+        "created_at": "2026-01-16T19:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012245542810882418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012245542810882418",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012159651886821801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 谢谢姐姐哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031743711737040897",
+        "conversation_id": "2012046763327439145",
+        "created_at": "2026-01-16T13:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012159651886821801"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "恭喜恭喜",
+              "probability": 0.3812,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012159651886821801",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012046763327439145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 652,
+          "like_count": 9195,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo  2025.12.22翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜唔…主人好厉害…所以是你嘛 ｜ Whatsapp纯绿58，微信纯绿38，QQ可调戏28，TG18，取累计最大值",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4LnQ"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "2001249873061142989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000209374351163392/Y690dLwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 929,
+          "like_count": 471,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/6DDlaD4LnQ",
+        "username": "LittleQiKitty",
+        "verified": true
+      }
+    ]
+  }
+}

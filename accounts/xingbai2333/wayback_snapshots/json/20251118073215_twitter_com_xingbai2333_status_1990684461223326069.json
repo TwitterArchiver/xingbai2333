@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1990277607154499592",
+    "created_at": "2025-11-18T07:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990684461223326069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990684461223326069",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990277607154499592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 别喵！很危险的说！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990277595443896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57i7ZjaIAANdsF.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1990277607154499592",
+        "created_at": "2025-11-18T07:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990684461223326069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990684461223326069",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990277607154499592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 别喵！很危险的说！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990277595443896320"
+          ]
+        },
+        "author_id": "1314388633869152259",
+        "conversation_id": "1990277607154499592",
+        "created_at": "2025-11-17T04:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990277607154499592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "srs"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2dPv82vu1",
+              "end": 41,
+              "expanded_url": "https://x.com/Swathy17531761/status/1990277607154499592/photo/1",
+              "media_key": "3_1990277595443896320",
+              "start": 18,
+              "url": "https://t.co/C2dPv82vu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990277607154499592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 24180,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 87,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "准备动手割蛋蛋了 #srs #药娘 https://t.co/C2dPv82vu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 51,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。找不到工作。一直在流浪喵。两天后是我的生日喵，想要咱的🚪给个心意就可以啦＋q/v，",
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1978813582495064514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 59,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 93
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

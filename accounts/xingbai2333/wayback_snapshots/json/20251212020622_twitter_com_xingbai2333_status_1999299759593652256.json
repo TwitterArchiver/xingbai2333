@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1997953492858855672",
+    "created_at": "2025-12-12T02:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T03:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999299759593652256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582901114395324417",
+          "start": 0,
+          "username": "uni_Marauder"
+        },
+        {
+          "end": 24,
+          "id": "1975125847339315200",
+          "start": 14,
+          "username": "ji00000zi"
+        },
+        {
+          "end": 37,
+          "id": "1703345227279609856",
+          "start": 25,
+          "username": "Oracle49371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999299759593652256",
+    "in_reply_to_user_id": "1582901114395324417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999281148510474596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uni_Marauder @ji00000zi @Oracle49371 嗯～已经可以正常用咯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1997953492858855672",
+        "created_at": "2025-12-12T02:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999299759593652256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582901114395324417",
+              "start": 0,
+              "username": "uni_Marauder"
+            },
+            {
+              "end": 24,
+              "id": "1975125847339315200",
+              "start": 14,
+              "username": "ji00000zi"
+            },
+            {
+              "end": 37,
+              "id": "1703345227279609856",
+              "start": 25,
+              "username": "Oracle49371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999299759593652256",
+        "in_reply_to_user_id": "1582901114395324417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999281148510474596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uni_Marauder @ji00000zi @Oracle49371 嗯～已经可以正常用咯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582901114395324417",
+        "conversation_id": "1997953492858855672",
+        "created_at": "2025-12-12T00:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T01:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999281148510474596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975125847339315200",
+              "start": 0,
+              "username": "ji00000zi"
+            },
+            {
+              "end": 23,
+              "id": "1744679108737712128",
+              "start": 11,
+              "username": "xingbai2333"
+            },
+            {
+              "end": 36,
+              "id": "1703345227279609856",
+              "start": 24,
+              "username": "Oracle49371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999281148510474596",
+        "in_reply_to_user_id": "1975125847339315200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998277148155781480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00000zi @xingbai2333 @Oracle49371 今天似乎可以正常使用了，在X打开试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 490,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T01:06:56.000Z",
+        "description": "",
+        "id": "1582901114395324417",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "クライスト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611881634890158080/M-tYQba__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "uni_Marauder",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:08:02.000Z",
+        "description": "退役xyn？ 精神状态还行？ 可以找我打三角洲 06 168 60\n神秘坐标 0771\n前3个千of号去世，现在老实了\n乱七八糟涩涩发电号 @ji0000zi  这号暂时不用了(被标记了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "ji0000zi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/ZVJNbGmUi6"
+              }
+            ]
+          }
+        },
+        "id": "1975125847339315200",
+        "location": "4km",
+        "name": "💊好吃的小猫咪🍥",
+        "pinned_tweet_id": "1976962525620236672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140604539342848/oYEsf5X1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 96,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/ZVJNbGmUi6",
+        "username": "ji00000zi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T09:49:40.000Z",
+        "description": "这个人很懒，但是还没有死。大学生，hrt于2025/9/16，获得小证于2025/10/21",
+        "id": "1703345227279609856",
+        "name": "Oracle_F🍥",
+        "pinned_tweet_id": "1998221375111385365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999096806664450048/i_jovcKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 103,
+          "like_count": 800,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 584
+        },
+        "username": "Oracle49371",
+        "verified": false
+      }
+    ]
+  }
+}

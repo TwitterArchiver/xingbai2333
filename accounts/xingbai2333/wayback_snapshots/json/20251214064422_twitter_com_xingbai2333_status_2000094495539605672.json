@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999811862414958639",
+    "created_at": "2025-12-14T06:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000094495539605672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000094495539605672",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999991505428087264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 贴贴～！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999811862414958639",
+        "created_at": "2025-12-14T06:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000094495539605672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000094495539605672",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999991505428087264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 贴贴～！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634807884268855297",
+        "conversation_id": "1999811862414958639",
+        "created_at": "2025-12-13T23:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999991505428087264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999991505428087264",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999811862414958639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 外圈贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 510,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,A Student,MtF,Like to Play Chunithm | hrt:2025/6/13 | Best sister: @zhi_cheng233 | 越过高山,即为希望 | 🏳️‍⚧️ | ⊂⁠(⁠•⁠‿⁠•⁠⊂⁠ ⁠)⁠*⁠.⁠✧|逃生仓:@Alex_Steve710",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "zhi_cheng233"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "Alex_Steve710"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikuhome.ewsn.ltd",
+                "end": 23,
+                "expanded_url": "http://mikuhome.ewsn.ltd",
+                "start": 0,
+                "url": "https://t.co/7FwLwaVPS2"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "广东 中山 IP属地:Aliyun HK",
+        "name": "Steve_Alex🍥",
+        "pinned_tweet_id": "1948019068809707580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999990957270253568/1CijNEzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 501,
+          "like_count": 5914,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/7FwLwaVPS2",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

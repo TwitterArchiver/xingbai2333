@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1996501297193951654",
+    "created_at": "2025-12-04T15:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996600049896464509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996600049896464509",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996575655442493702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 嗯呐～没事啦哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1996501297193951654",
+        "created_at": "2025-12-04T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996600049896464509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996600049896464509",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996575655442493702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 嗯呐～没事啦哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843975943419047936",
+        "conversation_id": "1996501297193951654",
+        "created_at": "2025-12-04T13:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996575655442493702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996575655442493702",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996501297193951654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 抱抱星白🫂,好些了嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 436,
+          "like_count": 5765,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 711
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "發日常｜普通高中生｜會發表下自己嘅見解｜廣告&叫妓請繞道🙏｜關注我刷到都點讚👍｜溫暖號🫂（@chaikh222）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "chaikh222"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去",
+        "pinned_tweet_id": "1980703611522101288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996091468692553731/DbeLS0cB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 414,
+          "like_count": 34316,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 2254
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

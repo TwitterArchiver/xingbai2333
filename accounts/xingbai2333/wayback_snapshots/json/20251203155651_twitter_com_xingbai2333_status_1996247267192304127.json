@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1996081495132586317",
+    "created_at": "2025-12-03T15:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996247267192304127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996247267192304127",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996193038390252025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA VRC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1996081495132586317",
+        "created_at": "2025-12-03T15:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996247267192304127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996247267192304127",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996193038390252025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA VRC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "1996081495132586317",
+        "created_at": "2025-12-03T12:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996193038390252025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996193038390252025",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996081495132586317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 都玩什么捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 434,
+          "like_count": 5680,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 695
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stcr2304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stcr2304",
+                "start": 0,
+                "url": "https://t.co/u1lxDXQeX0"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935336561887076352/EYsfHVDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 1171,
+          "like_count": 55494,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/u1lxDXQeX0",
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

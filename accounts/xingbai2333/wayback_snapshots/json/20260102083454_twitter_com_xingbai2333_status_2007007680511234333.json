@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2006974607652434045",
+    "created_at": "2026-01-02T08:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007007680511234333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "344165300",
+          "start": 0,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007007680511234333",
+    "in_reply_to_user_id": "344165300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006974607652434045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senchannya 什么是补佳乐qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2006974607652434045",
+        "created_at": "2026-01-02T08:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007007680511234333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "344165300",
+              "start": 0,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007007680511234333",
+        "in_reply_to_user_id": "344165300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974607652434045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senchannya 什么是补佳乐qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "344165300",
+        "conversation_id": "2006974607652434045",
+        "created_at": "2026-01-02T06:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006974607652434045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006974607652434045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 840,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我成为药娘的历程：\n我怎么长的不阳刚啊，一点也不帅，听说长发男强势，留个长发试试\nWQ我怎么有点。可爱？我当啥男的，当女的多好\n（B站）我以为这我小癖好呢，世界上真有男娘啊\n什么是补佳乐，雌激素啊，我了解了解\n反正我不生孩子不想活久，冲了\n原来还有注射剂，那直接一步到位就好了\n我是女孩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 580,
+          "like_count": 8577,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "https://t.co/yGbV7dZ56F\n     🚪78，多加可随机触发彩蛋（但是概率低的可怜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sen49029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sen49029",
+                "start": 0,
+                "url": "https://t.co/yGbV7dZ56F"
+              }
+            ]
+          }
+        },
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003133499650498560/Qa3lYq4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 232,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 405
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

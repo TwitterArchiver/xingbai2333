@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992590503381221506",
+    "created_at": "2025-11-23T13:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992593919109128205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990869239574736896",
+          "start": 0,
+          "username": "MaoZhua520"
+        },
+        {
+          "end": 27,
+          "id": "1314388633869152259",
+          "start": 12,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992593919109128205",
+    "in_reply_to_user_id": "1990869239574736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992593469978837322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoZhua520 @Swathy17531761 抱抱哦，咱要让小汐好好的说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992590503381221506",
+        "created_at": "2025-11-23T13:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992593919109128205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990869239574736896",
+              "start": 0,
+              "username": "MaoZhua520"
+            },
+            {
+              "end": 27,
+              "id": "1314388633869152259",
+              "start": 12,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992593919109128205",
+        "in_reply_to_user_id": "1990869239574736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992593469978837322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZhua520 @Swathy17531761 抱抱哦，咱要让小汐好好的说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990869239574736896",
+        "conversation_id": "1992590503381221506",
+        "created_at": "2025-11-23T13:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992593469978837322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            },
+            {
+              "end": 28,
+              "id": "1314388633869152259",
+              "start": 13,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992593469978837322",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992593401561436329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 @Swathy17531761 呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 192,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 167
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T19:46:43.000Z",
+        "description": "一只MTF（跨性别），男孩/跨/女孩我是雌坠小可爱！本人有严重抑郁，但是抑郁症的时候喜欢用雌性激素扎自己才舒服才有安全感！pwq~🏳️‍⚧️pwqQWQ有很多生命中无法接受的痛苦！只想真心被爱一辈子！也希望有同类愿意现实中和我在一起走过我生命中最后的时间！对象：@Swathy17531761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "Swathy17531761"
+              }
+            ]
+          }
+        },
+        "id": "1990869239574736896",
+        "location": "520km",
+        "name": "🏳️‍⚧️猫の爪呸雌呸角🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991942147986321408/gwvUQZmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 97,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 28
+        },
+        "username": "MaoZhua520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~药娘无证含糖断续3年。没(⊙o⊙)啥会的。对象@MaoZhua520，想要咱的🚪给个心意就可以啦＋q/v，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "MaoZhua520"
+              }
+            ]
+          }
+        },
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1992242368830140537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 58,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 149
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

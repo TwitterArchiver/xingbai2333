@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2000184377112969250",
+    "created_at": "2025-12-16T04:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000786455954874586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493409182141206531",
+          "start": 0,
+          "username": "JQKAwhocares"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000786455954874586",
+    "in_reply_to_user_id": "1493409182141206531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000184377112969250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQKAwhocares 内圈贴贴喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2000184359555624960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IVE9ya8AAixi_.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2000184377112969250",
+        "created_at": "2025-12-16T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000786455954874586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493409182141206531",
+              "start": 0,
+              "username": "JQKAwhocares"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000786455954874586",
+        "in_reply_to_user_id": "1493409182141206531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000184377112969250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQKAwhocares 内圈贴贴喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000184359555624960"
+          ]
+        },
+        "author_id": "1493409182141206531",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2000184377112969250",
+        "created_at": "2025-12-14T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000184377112969250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/iUgpdGUNLa"
+            },
+            {
+              "display_url": "pic.x.com/QHchvx6yu4",
+              "end": 64,
+              "expanded_url": "https://x.com/JQKAwhocares/status/2000184377112969250/photo/1",
+              "media_key": "3_2000184359555624960",
+              "start": 41,
+              "url": "https://t.co/QHchvx6yu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000184377112969250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/iUgpdGUNLa https://t.co/QHchvx6yu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 522,
+          "like_count": 7408,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T02:18:13.000Z",
+        "description": "临床医学生/男娘/性取向也是男娘/男娘最棒了 想要🤤🤤🤤想要🤤🤤🤤好看的腿子🤤🤤🤤阴暗的怪笑🤤🤤🤤想要🤤白皙的皮肤🤤🤤想要🤤圆润的🐻🐻",
+        "id": "1493409182141206531",
+        "location": "Los Angeles, CA",
+        "name": "Cyber Coffin🫘🤤",
+        "pinned_tweet_id": "1953092266966565288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993001345067159552/EMzKICOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 166,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 601
+        },
+        "username": "JQKAwhocares",
+        "verified": false
+      }
+    ]
+  }
+}

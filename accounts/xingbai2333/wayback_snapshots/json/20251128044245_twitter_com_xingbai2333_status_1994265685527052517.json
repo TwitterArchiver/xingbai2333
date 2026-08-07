@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994248659152830603",
+    "created_at": "2025-11-28T04:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994265685527052517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838124008845492224",
+          "start": 0,
+          "username": "gan36035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994265685527052517",
+    "in_reply_to_user_id": "1838124008845492224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994248659152830603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan36035 爱你喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_1994248651351445505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z-lRma0AEfIQt.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994248659152830603",
+        "created_at": "2025-11-28T04:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994265685527052517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838124008845492224",
+              "start": 0,
+              "username": "gan36035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994265685527052517",
+        "in_reply_to_user_id": "1838124008845492224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994248659152830603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan36035 爱你喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994248651351445505"
+          ]
+        },
+        "author_id": "1838124008845492224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994248659152830603",
+        "created_at": "2025-11-28T03:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994248659152830603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1744679108737712128",
+              "start": 3,
+              "username": "xingbai2333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infintytweet.me/love-calculato…",
+              "end": 54,
+              "expanded_url": "https://infintytweet.me/love-calculator?lang=zh",
+              "start": 31,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infintytweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/uduNS0mW2X"
+            },
+            {
+              "display_url": "pic.x.com/10CYbybJVM",
+              "end": 78,
+              "expanded_url": "https://x.com/gan36035/status/1994248659152830603/photo/1",
+              "media_key": "3_1994248651351445505",
+              "start": 55,
+              "url": "https://t.co/10CYbybJVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994248659152830603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @xingbai2333 的爱兼容性为 94%\n\n➡️ https://t.co/uduNS0mW2X https://t.co/10CYbybJVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 382,
+          "like_count": 4380,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 530
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T07:51:49.000Z",
+        "description": "",
+        "id": "1838124008845492224",
+        "location": "Hino-shi, Tokyo",
+        "name": "猫望水中羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944977674213965824/PTPZqZTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 286,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "gan36035",
+        "verified": false
+      }
+    ]
+  }
+}

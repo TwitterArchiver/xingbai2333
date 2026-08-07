@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2028744174674264345",
+    "created_at": "2026-03-03T09:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T10:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028760222169514025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023948975032897536",
+          "start": 0,
+          "username": "jiiuuuu3964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028760222169514025",
+    "in_reply_to_user_id": "2023948975032897536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028744174674264345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiiuuuu3964 欢迎喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2028744174674264345",
+        "created_at": "2026-03-03T09:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028760222169514025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023948975032897536",
+              "start": 0,
+              "username": "jiiuuuu3964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028760222169514025",
+        "in_reply_to_user_id": "2023948975032897536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028744174674264345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiiuuuu3964 欢迎喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023948975032897536",
+        "conversation_id": "2028744174674264345",
+        "created_at": "2026-03-03T08:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028744174674264345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028744174674264345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是新来的，猫箱娘娘\n当我agender 可以嘞～～\n萝莉来的 可能是萝太 可能是正莉～\n\n我叫玖玖あ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 715,
+          "like_count": 9625,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2458
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T02:33:46.000Z",
+        "description": "貓箱娘｜ISFP-T｜152｜ロリ｜猫猫咪｜婦人服デス｜性別不明｜🖤🤍💚🤍🖤｜AGENDER",
+        "id": "2023948975032897536",
+        "name": "雨玖🌸📦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028743355216355328/FawlWhJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 105,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "jiiuuuu3964",
+        "verified": false
+      }
+    ]
+  }
+}

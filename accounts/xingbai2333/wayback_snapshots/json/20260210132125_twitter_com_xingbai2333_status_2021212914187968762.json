@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2020803332139282834",
+    "created_at": "2026-02-10T13:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021212914187968762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003990629135929345",
+          "start": 0,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021212914187968762",
+    "in_reply_to_user_id": "2003990629135929345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021084994790359108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzethldOfficial 好耶 (◍＞◡＜◍)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2020803332139282834",
+        "created_at": "2026-02-10T13:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021212914187968762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003990629135929345",
+              "start": 0,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021212914187968762",
+        "in_reply_to_user_id": "2003990629135929345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021084994790359108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzethldOfficial 好耶 (◍＞◡＜◍)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003990629135929345",
+        "conversation_id": "2020803332139282834",
+        "created_at": "2026-02-10T04:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021084994790359108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021084994790359108",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020803332139282834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 701,
+          "like_count": 9421,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "カウント・ゼトッド | 别名义：Cosmospïka. | 音ゲー | プロセカ創作譜面 | 病弱系男子",
+        "id": "2003990629135929345",
+        "location": "(191, 62, -34)",
+        "name": "Comte Zzethld 🍥⚡🎵🕹️🔮⛓️🗡️",
+        "pinned_tweet_id": "2020799757023605217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 734,
+          "like_count": 5034,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1287
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

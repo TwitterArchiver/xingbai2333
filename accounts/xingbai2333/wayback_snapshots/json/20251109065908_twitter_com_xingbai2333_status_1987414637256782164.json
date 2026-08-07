@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1987130115407683868",
+    "created_at": "2025-11-09T06:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987414637256782164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1442500077935759369",
+          "start": 0,
+          "username": "Base2to"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987414637256782164",
+    "in_reply_to_user_id": "1442500077935759369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987130115407683868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Base2to 恭喜哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1987130115407683868",
+        "created_at": "2025-11-09T06:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987414637256782164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1442500077935759369",
+              "start": 0,
+              "username": "Base2to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987414637256782164",
+        "in_reply_to_user_id": "1442500077935759369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987130115407683868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Base2to 恭喜哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442500077935759369",
+        "conversation_id": "1987130115407683868",
+        "created_at": "2025-11-08T12:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987130115407683868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987130115407683868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 56324,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是，已经不是男孩子了...感觉好不真实...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "不开心",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T14:43:40.000Z",
+        "description": "生物PhD在读| MTF，延毕|SRS2025.11.8（希望一切顺利）",
+        "id": "1442500077935759369",
+        "name": "嗯？诶？唉...",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870364060870696960/4VUxU17q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 35,
+          "like_count": 204,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 150
+        },
+        "username": "Base2to",
+        "verified": false
+      }
+    ]
+  }
+}

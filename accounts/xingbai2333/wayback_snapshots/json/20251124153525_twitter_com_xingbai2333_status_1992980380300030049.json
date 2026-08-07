@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992967962756845849",
+    "created_at": "2025-11-24T15:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T16:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992980380300030049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1953871555177627648",
+          "start": 0,
+          "username": "shan_zhu_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992980380300030049",
+    "in_reply_to_user_id": "1953871555177627648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992967962756845849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shan_zhu_jiang 姐姐贴贴～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1992967945673400320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hxyZKaYAAuzMh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992967962756845849",
+        "created_at": "2025-11-24T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992980380300030049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1953871555177627648",
+              "start": 0,
+              "username": "shan_zhu_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992980380300030049",
+        "in_reply_to_user_id": "1953871555177627648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992967962756845849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shan_zhu_jiang 姐姐贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992967945673400320"
+          ]
+        },
+        "author_id": "1953871555177627648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1992967962756845849",
+        "created_at": "2025-11-24T14:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992967962756845849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991408857684537345/nHDPpzzX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/kLHYBmYDkj"
+            },
+            {
+              "display_url": "pic.x.com/94qQDex37G",
+              "end": 64,
+              "expanded_url": "https://x.com/shan_zhu_jiang/status/1992967962756845849/photo/1",
+              "media_key": "3_1992967945673400320",
+              "start": 41,
+              "url": "https://t.co/94qQDex37G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992967962756845849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/kLHYBmYDkj https://t.co/94qQDex37G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 267,
+          "like_count": 1951,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 261
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T17:31:16.000Z",
+        "description": "10.3.6出厂~\n坐标江苏~有对象！！\n友跨喵~（想要面基！）\nMBTI:enfp~\n私信互fo~\n姐姐：@zhizhiaichi父&母：@3253212MCZ\nmincraft-光遇-原神-go萌新\n巴巴托斯大人的狗！~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "zhizhiaichi"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "3253212MCZ"
+              }
+            ]
+          }
+        },
+        "id": "1953871555177627648",
+        "name": "山竹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986947739285106688/z1m8ZDbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 736,
+          "like_count": 10448,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 787
+        },
+        "username": "shan_zhu_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

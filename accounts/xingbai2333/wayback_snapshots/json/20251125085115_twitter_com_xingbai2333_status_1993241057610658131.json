@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993193613543784923",
+    "created_at": "2025-11-25T08:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993241057610658131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1957900426055151618",
+          "start": 0,
+          "username": "qihai__qianqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993241057610658131",
+    "in_reply_to_user_id": "1957900426055151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993214539870122258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qihai__qianqu 去复查拿药而已啦～咱没事哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993193613543784923",
+        "created_at": "2025-11-25T08:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993241057610658131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1957900426055151618",
+              "start": 0,
+              "username": "qihai__qianqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993241057610658131",
+        "in_reply_to_user_id": "1957900426055151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993214539870122258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qihai__qianqu 去复查拿药而已啦～咱没事哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957900426055151618",
+        "conversation_id": "1993193613543784923",
+        "created_at": "2025-11-25T07:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993214539870122258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993214539870122258",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993193613543784923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 这是发生甚么事了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 326
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T20:20:21.000Z",
+        "description": "请输入文本～",
+        "id": "1957900426055151618",
+        "name": "zha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988152730142072832/-AJVR92M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "qihai__qianqu",
+        "verified": false
+      }
+    ]
+  }
+}

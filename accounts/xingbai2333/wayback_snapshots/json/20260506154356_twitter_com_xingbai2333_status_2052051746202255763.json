@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052051737113190400"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "2052051746202255763",
+    "created_at": "2026-05-06T15:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052051746202255763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eofRb9Oacl",
+          "end": 57,
+          "expanded_url": "https://x.com/xingbai2333/status/2052051746202255763/photo/1",
+          "media_key": "3_2052051737113190400",
+          "start": 34,
+          "url": "https://t.co/eofRb9Oacl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052051746202255763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷了一天题晕死咱了哇\n明天考试喵！加油加油～\n（其实是临时抱佛脚） https://t.co/eofRb9Oacl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2052051737113190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpaLsNa4AAeRj4.jpg",
+        "width": 152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052051737113190400"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "2052051746202255763",
+        "created_at": "2026-05-06T15:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052051746202255763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eofRb9Oacl",
+              "end": 57,
+              "expanded_url": "https://x.com/xingbai2333/status/2052051746202255763/photo/1",
+              "media_key": "3_2052051737113190400",
+              "start": 34,
+              "url": "https://t.co/eofRb9Oacl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052051746202255763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了一天题晕死咱了哇\n明天考试喵！加油加油～\n（其实是临时抱佛脚） https://t.co/eofRb9Oacl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 665,
+          "like_count": 9947,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 2781
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1991643286491263326",
+    "created_at": "2025-11-21T04:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T05:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991719025664311428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491722590238703617",
+          "start": 0,
+          "username": "Hane_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991719025664311428",
+    "in_reply_to_user_id": "1491722590238703617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991718539741565401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hane_Kokoro 摸摸～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1991643286491263326",
+        "created_at": "2025-11-21T04:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991719025664311428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491722590238703617",
+              "start": 0,
+              "username": "Hane_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991719025664311428",
+        "in_reply_to_user_id": "1491722590238703617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991718539741565401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hane_Kokoro 摸摸～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491722590238703617",
+        "conversation_id": "1991643286491263326",
+        "created_at": "2025-11-21T04:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991718539741565401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991718539741565401",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991715320218951805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 早₍˄·͈༝·͈˄*₎◞ ̑̑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 78,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T10:36:09.000Z",
+        "description": "可以称我小羽/心酱，现在是大学生哦。\n主推秦心，21号，小豆沢心羽。喜好玩沙盒（mc、泰拉），音游（prsk、osu），二游（双、pcr、少前、潮），单机（肉鸽、战旗、横屏动作、多人合作）。\n关于XP/雷点：本人非常杂食，各种tag都能接受，但是讨厌人身攻击。\n欢迎互fo，扩列可私聊。",
+        "id": "1491722590238703617",
+        "name": "心之羽",
+        "pinned_tweet_id": "1984775104698728634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788525712082980865/yag6f-JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 427,
+          "like_count": 16936,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 2369
+        },
+        "username": "Hane_Kokoro",
+        "verified": false
+      }
+    ]
+  }
+}

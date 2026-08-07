@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993157328666013696"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993157331803406713",
+    "created_at": "2025-11-25T03:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993157331803406713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTCXPA5OGk",
+          "end": 49,
+          "expanded_url": "https://x.com/xingbai2333/status/1993157331803406713/photo/1",
+          "media_key": "3_1993157328666013696",
+          "start": 26,
+          "url": "https://t.co/FTCXPA5OGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993157331803406713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜～咱才不是笨蛋的说！把你抓过来给咱暖被窝喵！ https://t.co/FTCXPA5OGk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_1993157328666013696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6keB7yasAAnVLN.jpg",
+        "width": 1351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993157328666013696"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993157331803406713",
+        "created_at": "2025-11-25T03:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993157331803406713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTCXPA5OGk",
+              "end": 49,
+              "expanded_url": "https://x.com/xingbai2333/status/1993157331803406713/photo/1",
+              "media_key": "3_1993157328666013696",
+              "start": 26,
+              "url": "https://t.co/FTCXPA5OGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993157331803406713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜～咱才不是笨蛋的说！把你抓过来给咱暖被窝喵！ https://t.co/FTCXPA5OGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 291,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 297
+        },
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

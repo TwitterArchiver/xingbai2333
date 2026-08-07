@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993611947045269900",
+    "created_at": "2025-11-26T09:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993619565339980065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "萌萌",
+          "probability": 0.6594,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeinokunbaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993619565339980065",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993611947045269900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeinokunbaku 萌萌！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993611947045269900].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993611947045269900",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993611947045269900"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993611947045269900",
+        "created_at": "2025-11-26T09:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993619565339980065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "萌萌",
+              "probability": 0.6594,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeinokunbaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993619565339980065",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993611947045269900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeinokunbaku 萌萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 341,
+          "like_count": 3295,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 403
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "繁简中文（粵語同普通話）/日本語/English (is not good)/廣東人/喜歡法學及社會政治研究 /政治科が大好き/人道主義邏輯法律至上\n把推特當朋友圈玩\n不讲逻辑道理听不懂人话的神支猪死远点\n简体=说梦话帖 日语や繁体=日常/锐评帖  第二人格：@kunbakusensei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 130,
+                "username": "kunbakusensei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@legalenhancem…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@legalenhancementanddevelop6753?si=NnlvS3PTt3jzb1ah",
+                "start": 0,
+                "url": "https://t.co/WYk4ajt8oa"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "PRD-GBA 🇨🇳🇭🇰🇲🇴——📍Canton",
+        "name": "空白子",
+        "pinned_tweet_id": "1992578218319352223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993547685807505411/ngtrA83A_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 404,
+          "like_count": 2613,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/WYk4ajt8oa",
+        "username": "bungeinokunbaku",
+        "verified": false
+      }
+    ]
+  }
+}

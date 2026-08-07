@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2042995942618730992",
+    "created_at": "2026-04-11T18:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043039087620403340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735017872353808385",
+          "start": 0,
+          "username": "whitecloud_ybw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043039087620403340",
+    "in_reply_to_user_id": "1735017872353808385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042995942618730992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitecloud_ybw 雯雯加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2042995942618730992",
+        "created_at": "2026-04-11T18:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043039087620403340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735017872353808385",
+              "start": 0,
+              "username": "whitecloud_ybw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043039087620403340",
+        "in_reply_to_user_id": "1735017872353808385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042995942618730992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitecloud_ybw 雯雯加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735017872353808385",
+        "conversation_id": "2042995942618730992",
+        "created_at": "2026-04-11T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042995942618730992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042995942618730992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离高考…57天\n马上56天\n今天做的深圳中学的模考\n昨天苏北二模\n…该怎么说呢\n已经睡不着了\n毕竟是从零开始\n你问我之前做什么了\n之前…毫无意义地流去了\n之前睡不着的时候会坐在窗台上半个身子挂窗外\n现在窗台上是室友的鞋和没扔的泡面桶\n怎么办呢\n不想重来了\n你问早知如此何必当初\n那才是我\n别无选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 710,
+          "like_count": 9818,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T19:24:40.000Z",
+        "description": "尹白雯/☁️ A cloud in the sky shaped like my love for you./南极洲外逃企鹅/高考区推u/已成年小朋友/hrt2025.7.23/友善回fo/🚪15纯绿(同类免费)/存在一个小号/我家猫猫@amecandy_x🥰/小海豹@HayakawaFeixue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "amecandy_x"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "HayakawaFeixue"
+              }
+            ]
+          }
+        },
+        "id": "1735017872353808385",
+        "location": "南极洲或者你家门口",
+        "name": "尹家小白雯",
+        "pinned_tweet_id": "2030152909271498764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360696917225476/5TXcHSHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 653,
+          "like_count": 8510,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1249
+        },
+        "username": "whitecloud_ybw",
+        "verified": false
+      }
+    ]
+  }
+}

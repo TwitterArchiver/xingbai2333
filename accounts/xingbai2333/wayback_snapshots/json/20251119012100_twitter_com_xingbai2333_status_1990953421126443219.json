@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1990938645696819703",
+    "created_at": "2025-11-19T01:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T02:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990953421126443219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497213290706968576",
+          "start": 0,
+          "username": "Sylvielove2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990953421126443219",
+    "in_reply_to_user_id": "1497213290706968576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990938645696819703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvielove2022 早喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990938626222665729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6E8IdGbMAEugoh.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1990938645696819703",
+        "created_at": "2025-11-19T01:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990953421126443219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497213290706968576",
+              "start": 0,
+              "username": "Sylvielove2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990953421126443219",
+        "in_reply_to_user_id": "1497213290706968576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990938645696819703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvielove2022 早喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990938626222665729"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990938645696819703",
+        "created_at": "2025-11-19T00:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990938645696819703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpOwFEtM2q",
+              "end": 32,
+              "expanded_url": "https://x.com/Sylvielove2022/status/1990938645696819703/photo/1",
+              "media_key": "3_1990938626222665729",
+              "start": 9,
+              "url": "https://t.co/IpOwFEtM2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990938645696819703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安安呐，大家~ https://t.co/IpOwFEtM2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 54,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "你好，我是白砂糖，称呼我扬扬也可以，无证且暂不含糖，平时喜欢在互联网四处游荡，不擅长发表自己的言论，但很乐意倾听，因为不是很擅长安慰人，所以有时会用AI来辅助回复，如果你对我感到有兴趣的话，我很乐意与你成为朋友，共同寻找些话题。扩Q的话，请私聊哦",
+        "id": "1497213290706968576",
+        "location": "河南郑州",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969425877261041664/Om2cjwgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1331,
+          "like_count": 11462,
+          "listed_count": 0,
+          "media_count": 1526,
+          "tweet_count": 4613
+        },
+        "username": "Sylvielove2022",
+        "verified": false
+      }
+    ]
+  }
+}

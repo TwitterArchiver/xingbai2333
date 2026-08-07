@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2002935338038444528",
+    "created_at": "2025-12-22T10:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003043856640827712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeinokunbaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003043856640827712",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002935338038444528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeinokunbaku 吓到了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2002935338038444528",
+        "created_at": "2025-12-22T10:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003043856640827712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeinokunbaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003043856640827712",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002935338038444528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeinokunbaku 吓到了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2002935338038444528",
+        "created_at": "2025-12-22T02:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002935338038444528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002935338038444528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今年不想活了\n​这或许是我做过最大的决定\n​我打算再给自己9天的时间\n​然后今年就不活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 540,
+          "like_count": 7844,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "広東省出身の高校生/政治学論理学と抹茶味の物が大好き/人道主義・邏輯・法律至上/社会民主主義 國際主義 三民主義 弁証法\nサブ人格：@kunbakusensei\nヾ(✿ﾟ▽ﾟ)ノ💗@leaderxiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "kunbakusensei"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "leaderxiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@legalenhancem…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@legalenhancementanddevelop6753?si=eoPa0tXcEjVBDsGt",
+                "start": 0,
+                "url": "https://t.co/Msrb3CGuX7"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "PRD-GBA 🇨🇳🇭🇰🇲🇴——📍Canton",
+        "name": "🌆⛩️🍵文芸の空白🇭🇰🇯🇵🇹🇼",
+        "pinned_tweet_id": "2001310569026957543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001144121629786112/XKUaAUKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 506,
+          "like_count": 5495,
+          "listed_count": 6,
+          "media_count": 417,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/Msrb3CGuX7",
+        "username": "bungeinokunbaku",
+        "verified": false
+      }
+    ]
+  }
+}

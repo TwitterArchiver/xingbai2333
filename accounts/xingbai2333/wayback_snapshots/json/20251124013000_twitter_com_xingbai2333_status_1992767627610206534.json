@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992596262638796903",
+    "created_at": "2025-11-24T01:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T02:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992767627610206534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992767627610206534",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992656723983859743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 谢谢姐姐喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-24T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992767627610206534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992767627610206534",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992656723983859743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 谢谢姐姐喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031743711737040897",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-23T18:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T19:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992656723983859743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "恭喜恭喜",
+              "probability": 0.3812,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992656723983859743",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992596262638796903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 211,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 193
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo 无糖 随时翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜唔…主人好厉害…所以是你嘛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4LnQ"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "1990805741188624633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980420086692208640/EVNlcOqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 491,
+          "like_count": 465,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/6DDlaD4LnQ",
+        "username": "LittleQiKitty",
+        "verified": false
+      }
+    ]
+  }
+}

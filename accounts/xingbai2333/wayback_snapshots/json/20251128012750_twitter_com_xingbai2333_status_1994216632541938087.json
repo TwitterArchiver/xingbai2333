@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994200602839077298",
+    "created_at": "2025-11-28T01:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994216632541938087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760877178047320064",
+          "start": 0,
+          "username": "ki_lit4717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994216632541938087",
+    "in_reply_to_user_id": "1760877178047320064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994200602839077298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_lit4717 雪糕！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994200590075957248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zS3vZaEAAskA6.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994200602839077298",
+        "created_at": "2025-11-28T01:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994216632541938087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760877178047320064",
+              "start": 0,
+              "username": "ki_lit4717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994216632541938087",
+        "in_reply_to_user_id": "1760877178047320064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994200602839077298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_lit4717 雪糕！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994200590075957248"
+          ]
+        },
+        "author_id": "1760877178047320064",
+        "conversation_id": "1994200602839077298",
+        "created_at": "2025-11-28T00:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994200602839077298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0l5nwrjeRA",
+              "end": 29,
+              "expanded_url": "https://x.com/ki_lit4717/status/1994200602839077298/photo/1",
+              "media_key": "3_1994200590075957248",
+              "start": 6,
+              "url": "https://t.co/0l5nwrjeRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994200602839077298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早八啊早八 https://t.co/0l5nwrjeRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 379,
+          "like_count": 4198,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 507
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:00:27.000Z",
+        "description": "努力出逃的籠中鳥｜07｜168/50｜重焦重抑绝赞治疗中｜深深深深柜中",
+        "id": "1760877178047320064",
+        "location": "Tokyo",
+        "name": "結綠 🏳️‍⚧️",
+        "pinned_tweet_id": "1993661173808693490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992818227114860544/h1JWiFXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 72,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "ki_lit4717",
+        "verified": false
+      }
+    ]
+  }
+}

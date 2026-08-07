@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2009934613188338101",
+    "created_at": "2026-01-10T10:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T11:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009936571932520618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009936571932520618",
+    "in_reply_to_user_id": "1744679108737712128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009934613188338101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太坏了为什么\n给我tg的链接\n缩起来了啊喂\n看着好难受喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2009934605634416642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-S43-6asAIfbEU.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2009934613188338101",
+        "created_at": "2026-01-10T10:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009936571932520618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009936571932520618",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009934613188338101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太坏了为什么\n给我tg的链接\n缩起来了啊喂\n看着好难受喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009934605634416642"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "2009934613188338101",
+        "created_at": "2026-01-10T10:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T11:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009934613188338101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @xingbai233 right away.",
+              "display_url": "t.me/xingbai233",
+              "end": 39,
+              "expanded_url": "https://t.me/xingbai233",
+              "start": 16,
+              "status": 200,
+              "title": "星白酱的社恐小窝",
+              "unwound_url": "https://t.me/xingbai233",
+              "url": "https://t.co/h4vIm6ZL6B"
+            },
+            {
+              "display_url": "pic.x.com/Vj1kBcPylN",
+              "end": 99,
+              "expanded_url": "https://x.com/xingbai2333/status/2009934613188338101/photo/1",
+              "media_key": "3_2009934605634416642",
+              "start": 76,
+              "url": "https://t.co/Vj1kBcPylN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009934613188338101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新整理一下小窝地址喵喵\ntg:https://t.co/h4vIm6ZL6B\nqq:838449921(冷清小窝喵)\ntg的咱不常看哦 尽量来qq喵 https://t.co/Vj1kBcPylN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 621,
+          "like_count": 8944,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

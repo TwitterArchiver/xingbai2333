@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995506629907992659",
+    "created_at": "2025-12-01T14:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995507452192944555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1838124008845492224",
+          "start": 0,
+          "username": "gan36035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995507452192944555",
+    "in_reply_to_user_id": "1838124008845492224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995506629907992659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gan36035 小笨蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1995506621251018752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7F2swqbYAACaeB.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995506629907992659",
+        "created_at": "2025-12-01T14:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995507452192944555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1838124008845492224",
+              "start": 0,
+              "username": "gan36035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995507452192944555",
+        "in_reply_to_user_id": "1838124008845492224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995506629907992659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gan36035 小笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995506621251018752"
+          ]
+        },
+        "author_id": "1838124008845492224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1995506629907992659",
+        "created_at": "2025-12-01T14:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995506629907992659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1744679108737712128",
+              "start": 16,
+              "username": "xingbai2333"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infinitetweet.me/secret-crush?l…",
+              "end": 56,
+              "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994932460413751298/wF5tNrrz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/Zg3m9CJlxP"
+            },
+            {
+              "display_url": "pic.x.com/iu0cTfioyk",
+              "end": 80,
+              "expanded_url": "https://x.com/gan36035/status/1995506629907992659/photo/1",
+              "media_key": "3_1995506621251018752",
+              "start": 57,
+              "url": "https://t.co/iu0cTfioyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995506629907992659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @xingbai2333\n\n➡️ https://t.co/Zg3m9CJlxP https://t.co/iu0cTfioyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 418,
+          "like_count": 5329,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 642
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T07:51:49.000Z",
+        "description": "",
+        "id": "1838124008845492224",
+        "location": "Hino-shi, Tokyo",
+        "name": "猫望水中羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944977674213965824/PTPZqZTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 297,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "username": "gan36035",
+        "verified": false
+      }
+    ]
+  }
+}

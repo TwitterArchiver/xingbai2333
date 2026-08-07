@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2011416525874606563",
+    "created_at": "2026-01-16T06:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012049515998847222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961009037040144384",
+          "start": 0,
+          "username": "snyy319763"
+        },
+        {
+          "end": 19,
+          "id": "1758399635733798912",
+          "start": 12,
+          "username": "wdlyrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012049515998847222",
+    "in_reply_to_user_id": "1961009037040144384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011726824485871764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snyy319763 @wdlyrg 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2011416525874606563",
+        "created_at": "2026-01-16T06:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012049515998847222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961009037040144384",
+              "start": 0,
+              "username": "snyy319763"
+            },
+            {
+              "end": 19,
+              "id": "1758399635733798912",
+              "start": 12,
+              "username": "wdlyrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012049515998847222",
+        "in_reply_to_user_id": "1961009037040144384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011726824485871764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snyy319763 @wdlyrg 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961009037040144384",
+        "conversation_id": "2011416525874606563",
+        "created_at": "2026-01-15T09:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011726824485871764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            },
+            {
+              "end": 20,
+              "id": "1744679108737712128",
+              "start": 8,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011726824485871764",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011711686022218171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg @xingbai2333 母上大人勃然大怒 回家准备请你吃竹笋炒肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "2009934613188338101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 648,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T10:13:02.000Z",
+        "description": "swearing by pointing at Luo Shui",
+        "id": "1961009037040144384",
+        "name": "☯️Null 空空道人夺舍版☯️",
+        "pinned_tweet_id": "1977694274130260224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975322167140319232/JG9BKIxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1144,
+          "like_count": 32542,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 12624
+        },
+        "username": "snyy319763",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 511,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 10702,
+          "tweet_count": 17687
+        },
+        "username": "wdlyrg",
+        "verified": false
+      }
+    ]
+  }
+}

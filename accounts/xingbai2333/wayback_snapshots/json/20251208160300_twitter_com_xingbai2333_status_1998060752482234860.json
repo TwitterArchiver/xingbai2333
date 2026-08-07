@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1998052731781804223",
+    "created_at": "2025-12-08T16:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998060752482234860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "xingqimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998060752482234860",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998052731781804223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingqimiao 香香软软诶嘿嘿～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998052628492906496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qCR4va8AAiFKz.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1998052731781804223",
+        "created_at": "2025-12-08T16:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998060752482234860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "xingqimiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998060752482234860",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998052731781804223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingqimiao 香香软软诶嘿嘿～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998052628492906496"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "1998052731781804223",
+        "created_at": "2025-12-08T15:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998052731781804223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1gvcfdgjk",
+              "end": 23,
+              "expanded_url": "https://x.com/xingqimiao/status/1998052731781804223/photo/1",
+              "media_key": "3_1998052628492906496",
+              "start": 0,
+              "url": "https://t.co/o1gvcfdgjk"
+            },
+            {
+              "display_url": "x.com/xingbai2333/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xingbai2333/status/1997953492858855672",
+              "start": 24,
+              "url": "https://t.co/PiJZeIR1zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998052731781804223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997953492858855672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/o1gvcfdgjk https://t.co/PiJZeIR1zO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 455,
+          "like_count": 6229,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 820
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "星绮喵🏳‍⚧ \n坐标：浙江  ENFP 🤓   含糖木桶饭 🍥家暴党🥺 数码发烧友💾 偶尔写点东西📝 主人姐姐❤️@Dizoclipine\n  成分正常可互fo，黄推和空白账号不fo😋   拒绝圆角下海，尽量弱政😷期待真正的转变🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Dizoclipine"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "星绮喵🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923021241671188480/NDy_6eyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 259,
+          "like_count": 4854,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 390
+        },
+        "username": "xingqimiao",
+        "verified": false
+      }
+    ]
+  }
+}

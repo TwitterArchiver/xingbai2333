@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2005199009024229875",
+    "created_at": "2025-12-29T06:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T07:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005524623807680624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848669752190709760",
+          "start": 0,
+          "username": "ai9633"
+        },
+        {
+          "end": 20,
+          "id": "1420072716963520520",
+          "start": 8,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005524623807680624",
+    "in_reply_to_user_id": "1848669752190709760",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005206143661158884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai9633 @meiqinyuban mp3qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2005199009024229875",
+        "created_at": "2025-12-29T06:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T07:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005524623807680624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848669752190709760",
+              "start": 0,
+              "username": "ai9633"
+            },
+            {
+              "end": 20,
+              "id": "1420072716963520520",
+              "start": 8,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005524623807680624",
+        "in_reply_to_user_id": "1848669752190709760",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005206143661158884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai9633 @meiqinyuban mp3qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848669752190709760",
+        "conversation_id": "2005199009024229875",
+        "created_at": "2025-12-28T09:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005206143661158884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005206143661158884",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005199009024229875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 等一下这是啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 568,
+          "like_count": 8294,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T10:16:40.000Z",
+        "description": "电子日记本",
+        "id": "1848669752190709760",
+        "name": "草莓芭菲",
+        "pinned_tweet_id": "1862181409659789671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005279751595065347/AieLD4-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 103,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 155
+        },
+        "username": "ai9633",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "1963997598450336007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998319493756616704/Jv6TmfWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 816,
+          "like_count": 14468,
+          "listed_count": 1,
+          "media_count": 1242,
+          "tweet_count": 7216
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

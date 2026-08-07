@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993242223237120007",
+        "3_1993242223950110720"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993242242405028280",
+    "created_at": "2025-11-25T08:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993242242405028280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GiFstblo7M",
+          "end": 43,
+          "expanded_url": "https://x.com/xingbai2333/status/1993242242405028280/photo/1",
+          "media_key": "3_1993242223237120007",
+          "start": 20,
+          "url": "https://t.co/GiFstblo7M"
+        },
+        {
+          "display_url": "pic.x.com/GiFstblo7M",
+          "end": 43,
+          "expanded_url": "https://x.com/xingbai2333/status/1993242242405028280/photo/1",
+          "media_key": "3_1993242223950110720",
+          "start": 20,
+          "url": "https://t.co/GiFstblo7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993242242405028280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃土喵。。不过好在下次是一个月后去喵～ https://t.co/GiFstblo7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993242223237120007",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lrPctbwAcVC1K.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993242223950110720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lrPfXbIAAxB_D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993242223237120007",
+            "3_1993242223950110720"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993242242405028280",
+        "created_at": "2025-11-25T08:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993242242405028280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiFstblo7M",
+              "end": 43,
+              "expanded_url": "https://x.com/xingbai2333/status/1993242242405028280/photo/1",
+              "media_key": "3_1993242223237120007",
+              "start": 20,
+              "url": "https://t.co/GiFstblo7M"
+            },
+            {
+              "display_url": "pic.x.com/GiFstblo7M",
+              "end": 43,
+              "expanded_url": "https://x.com/xingbai2333/status/1993242242405028280/photo/1",
+              "media_key": "3_1993242223950110720",
+              "start": 20,
+              "url": "https://t.co/GiFstblo7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993242242405028280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃土喵。。不过好在下次是一个月后去喵～ https://t.co/GiFstblo7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 310,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 331
+        },
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

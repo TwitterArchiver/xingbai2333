@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993462218701373562",
+    "created_at": "2025-11-26T01:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993486887261274212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491722590238703617",
+          "start": 0,
+          "username": "Hane_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993486887261274212",
+    "in_reply_to_user_id": "1491722590238703617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993485958390714879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hane_Kokoro 小羽姐姐早！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993462218701373562",
+        "created_at": "2025-11-26T01:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993486887261274212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491722590238703617",
+              "start": 0,
+              "username": "Hane_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993486887261274212",
+        "in_reply_to_user_id": "1491722590238703617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993485958390714879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hane_Kokoro 小羽姐姐早！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491722590238703617",
+        "conversation_id": "1993462218701373562",
+        "created_at": "2025-11-26T01:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993485958390714879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993485958390714879",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993485574381224247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 星白早安喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 331,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 381
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T10:36:09.000Z",
+        "description": "可以称我小羽/心酱，大学生\n主推秦心，21号，小豆沢心羽。\n沙盒，音游（烤，osu），二游，大战略，肉鸽。\n本人非常杂食，各种tag都能接受，但是讨厌人身攻击。\n欢迎互fo，扩列可私聊。\nhttps://t.co/4QB4biRPvf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hane_kokoro",
+                "end": 117,
+                "expanded_url": "http://ngl.link/hane_kokoro",
+                "start": 94,
+                "url": "https://t.co/4QB4biRPvf"
+              }
+            ]
+          }
+        },
+        "id": "1491722590238703617",
+        "name": "心之羽",
+        "pinned_tweet_id": "1984775104698728634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788525712082980865/yag6f-JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 519,
+          "like_count": 18191,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2618
+        },
+        "username": "Hane_Kokoro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1994992079873933513",
+    "created_at": "2025-11-30T04:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994994188342206516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994994188342206516",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994992079873933513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui ᗜ𖥦ᗜ给你心心♥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994992072802349056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-iuGUasAAMefx.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1994992079873933513",
+        "created_at": "2025-11-30T04:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994994188342206516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994994188342206516",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994992079873933513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui ᗜ𖥦ᗜ给你心心♥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994992072802349056"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "1994992079873933513",
+        "created_at": "2025-11-30T04:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994992079873933513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QFign6DCY",
+              "end": 48,
+              "expanded_url": "https://x.com/gdioiui/status/1994992079873933513/photo/1",
+              "media_key": "3_1994992072802349056",
+              "start": 25,
+              "url": "https://t.co/4QFign6DCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994992079873933513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "₍˄·͈༝·͈˄*₎◞ ̑̑，喜欢喜欢我的所有人 https://t.co/4QFign6DCY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 404,
+          "like_count": 5073,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 603
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 91,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

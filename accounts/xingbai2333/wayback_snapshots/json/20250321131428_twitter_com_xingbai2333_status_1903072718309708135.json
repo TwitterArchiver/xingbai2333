@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1902519442812366952",
+    "created_at": "2025-03-21T13:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T14:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903072718309708135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622987945895677954",
+          "start": 0,
+          "username": "xingkong740923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903072718309708135",
+    "in_reply_to_user_id": "1622987945895677954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902519442812366952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingkong740923 不给o不给o！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1902519442812366952",
+        "created_at": "2025-03-21T13:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903072718309708135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622987945895677954",
+              "start": 0,
+              "username": "xingkong740923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903072718309708135",
+        "in_reply_to_user_id": "1622987945895677954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902519442812366952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingkong740923 不给o不给o！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622987945895677954",
+        "conversation_id": "1902519442812366952",
+        "created_at": "2025-03-20T00:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T01:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902519442812366952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902519442812366952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想od 想od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T15:57:43.000Z",
+        "description": "星空. 持证含糖mtx（mtf？/重抑重焦 双相/可能偶尔会od/病娇/地雷女/永远单身/部分素材来源网络侵权可联系删除",
+        "id": "1622987945895677954",
+        "name": "小星空.🍥",
+        "pinned_tweet_id": "1859192967782957483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622993430799597569/QTafnAc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 280,
+          "like_count": 6063,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2343
+        },
+        "username": "xingkong740923",
+        "verified": true
+      }
+    ]
+  }
+}

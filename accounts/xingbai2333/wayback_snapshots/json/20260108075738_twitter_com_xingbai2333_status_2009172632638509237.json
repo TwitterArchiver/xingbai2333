@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2008924923935576561",
+    "created_at": "2026-01-08T07:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T08:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009172632638509237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009172632638509237",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008924923935576561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2008924923935576561",
+        "created_at": "2026-01-08T07:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009172632638509237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009172632638509237",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924923935576561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2008924923935576561",
+        "created_at": "2026-01-07T15:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008924923935576561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008924923935576561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19449,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 601,
+          "like_count": 8840,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "世界のどこかで咲く｜叫窝Moly就好了|･ω･)只是一个普通的高三女孩｜害怕一切恶意，请不要对窝恶语相向(｡•́︿•̀｡)｜ 🔭｜🎼 ｜📷 ｜🎨｜MFG Date:08/08/08 □□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□MtF🏳️‍⚧️HRT:25/05/05 |想成为自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki",
+                "start": 0,
+                "url": "https://t.co/IWtRR2Z2e8"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "location": "角落",
+        "name": "Anemoly🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999535016767004672/QT3ERmHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 1045,
+          "like_count": 12602,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/IWtRR2Z2e8",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

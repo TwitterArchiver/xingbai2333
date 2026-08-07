@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993994758000398476",
+    "created_at": "2025-11-27T11:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994003140405022795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872130736872144897",
+          "start": 0,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994003140405022795",
+    "in_reply_to_user_id": "1872130736872144897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993994758000398476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhenzhen21 睡觉觉～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993994758000398476",
+        "created_at": "2025-11-27T11:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994003140405022795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872130736872144897",
+              "start": 0,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994003140405022795",
+        "in_reply_to_user_id": "1872130736872144897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993994758000398476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhenzhen21 睡觉觉～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872130736872144897",
+        "conversation_id": "1993994758000398476",
+        "created_at": "2025-11-27T10:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993994758000398476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993994758000398476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曲唑酮让我特别困"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 377,
+          "like_count": 4075,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 487
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "好姐姐是@SnowFoxSama 世界好温柔我爱这个世界，世界支离破碎抱抱我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "SnowFoxSama"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 833,
+          "like_count": 26863,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1127
+        },
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

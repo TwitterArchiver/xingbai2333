@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1995654335154606478",
+    "created_at": "2025-12-03T04:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996079750146891987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 27,
+          "id": "1736049656608817152",
+          "start": 16,
+          "username": "azjwsr1216"
+        },
+        {
+          "end": 41,
+          "id": "1089936552694693889",
+          "start": 28,
+          "username": "KaguraKurage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996079750146891987",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995831536718151883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit @azjwsr1216 @KaguraKurage 三重人格("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1995654335154606478",
+        "created_at": "2025-12-03T04:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996079750146891987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 27,
+              "id": "1736049656608817152",
+              "start": 16,
+              "username": "azjwsr1216"
+            },
+            {
+              "end": 41,
+              "id": "1089936552694693889",
+              "start": 28,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996079750146891987",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995831536718151883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @azjwsr1216 @KaguraKurage 三重人格("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1995654335154606478",
+        "created_at": "2025-12-02T12:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995831536718151883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736049656608817152",
+              "start": 0,
+              "username": "azjwsr1216"
+            },
+            {
+              "end": 25,
+              "id": "1089936552694693889",
+              "start": 12,
+              "username": "KaguraKurage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995831536718151883",
+        "in_reply_to_user_id": "1736049656608817152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995831357994664022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azjwsr1216 @KaguraKurage 有两个神人整天上我的号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 432,
+          "like_count": 5597,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 682
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "生物学大好き！！！我是狗，猫卷和大白不是 \n无证含糖🍥/mtf🏳️‍⚧️/brat/超绝抖m/HRT 2025.11.21\n 猫卷你别改我bio 大白你可以改我bio",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "不是中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 961,
+          "like_count": 58373,
+          "listed_count": 6,
+          "media_count": 333,
+          "tweet_count": 7760
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-16T15:44:52.000Z",
+        "description": "四爱受，brat，偶尔写点小东西",
+        "id": "1736049656608817152",
+        "name": "慕白不白白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790727242773102592/Oviukzop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 64,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 254
+        },
+        "username": "azjwsr1216",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T17:21:38.000Z",
+        "description": "neko🐱: @Neko_65536 | 00后沪漂trash can主理人＆drudgery操盘手 | 🧀就是力量，法国就是🥓 | 最耀眼的战绩:在床上和两只🦈搏斗并取胜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Neko_65536"
+              }
+            ]
+          }
+        },
+        "id": "1089936552694693889",
+        "name": "神楽 くらげ （snoozing💤）（37/42复活中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978787829577891840/LHYVPwuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 359,
+          "like_count": 16620,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 4028
+        },
+        "username": "KaguraKurage",
+        "verified": false
+      }
+    ]
+  }
+}

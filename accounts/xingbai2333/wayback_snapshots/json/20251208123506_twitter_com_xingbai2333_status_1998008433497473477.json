@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1997990559529713934",
+    "created_at": "2025-12-08T12:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998008433497473477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998008433497473477",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997990559529713934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1997990546321944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pJ0OobsAAX2SS.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1997990559529713934",
+        "created_at": "2025-12-08T12:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998008433497473477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998008433497473477",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997990559529713934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997990546321944576"
+          ]
+        },
+        "author_id": "1263115394144821248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997990559529713934",
+        "created_at": "2025-12-08T11:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997990559529713934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OiZDUQume",
+              "end": 67,
+              "expanded_url": "https://x.com/sr101425448/status/1997990559529713934/photo/1",
+              "media_key": "3_1997990546321944576",
+              "start": 44,
+              "url": "https://t.co/5OiZDUQume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997990559529713934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来再战吧，先把抑郁养好，中断了一百多天的复习，全被情绪左右了，希望未来能有个好结局吧 https://t.co/5OiZDUQume"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 450,
+          "like_count": 6199,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 809
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 173/54 | 常驻南昌 | 家长党 | hrt 25.08.31 | 小证25.11.28 | 断糖保留生育能力中 | 同类请找我互fo（忘记fo了请私信我）| 重度抑郁治疗中 | 崩铁、Minecraft | （偶尔有负能量）不定期更新日常",
+        "id": "1263115394144821248",
+        "name": "鸢栀🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 88,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 172
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

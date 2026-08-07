@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002038937507004416",
+        "3_2002038941290201089"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002038943748067553",
+    "created_at": "2025-12-19T15:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002038943748067553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5Rfa9nzdR",
+          "end": 33,
+          "expanded_url": "https://x.com/xingbai2333/status/2002038943748067553/photo/1",
+          "media_key": "3_2002038937507004416",
+          "start": 10,
+          "url": "https://t.co/h5Rfa9nzdR"
+        },
+        {
+          "display_url": "pic.x.com/h5Rfa9nzdR",
+          "end": 33,
+          "expanded_url": "https://x.com/xingbai2333/status/2002038943748067553/photo/1",
+          "media_key": "3_2002038941290201089",
+          "start": 10,
+          "url": "https://t.co/h5Rfa9nzdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002038943748067553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "差点就笑不出来了( https://t.co/h5Rfa9nzdR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1646,
+        "media_key": "3_2002038937507004416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8irznCbAAARtEz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1583,
+        "media_key": "3_2002038941290201089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8irz1IaAAEGUDA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002038937507004416",
+            "3_2002038941290201089"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002038943748067553",
+        "created_at": "2025-12-19T15:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002038943748067553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5Rfa9nzdR",
+              "end": 33,
+              "expanded_url": "https://x.com/xingbai2333/status/2002038943748067553/photo/1",
+              "media_key": "3_2002038937507004416",
+              "start": 10,
+              "url": "https://t.co/h5Rfa9nzdR"
+            },
+            {
+              "display_url": "pic.x.com/h5Rfa9nzdR",
+              "end": 33,
+              "expanded_url": "https://x.com/xingbai2333/status/2002038943748067553/photo/1",
+              "media_key": "3_2002038941290201089",
+              "start": 10,
+              "url": "https://t.co/h5Rfa9nzdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002038943748067553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差点就笑不出来了( https://t.co/h5Rfa9nzdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158-1cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBpEUF"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "location": "Nya～",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 534,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/l3IDZBpEUF",
+        "username": "xingbai2333",
+        "verified": false
+      }
+    ]
+  }
+}

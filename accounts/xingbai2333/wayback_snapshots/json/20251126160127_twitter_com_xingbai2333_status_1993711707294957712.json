@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1993431257590673739",
+    "created_at": "2025-11-26T16:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993711707294957712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971210650358829056",
+          "start": 0,
+          "username": "yumeyingnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993711707294957712",
+    "in_reply_to_user_id": "1971210650358829056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993431257590673739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeyingnya 姐姐补药喵！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993431257590673739].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993431257590673739",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993431257590673739"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1993431257590673739",
+        "created_at": "2025-11-26T16:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993711707294957712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971210650358829056",
+              "start": 0,
+              "username": "yumeyingnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993711707294957712",
+        "in_reply_to_user_id": "1971210650358829056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993431257590673739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeyingnya 姐姐补药喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 358,
+          "like_count": 3721,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 435
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:50:40.000Z",
+        "description": "08年生产 | 是笨蛋 | 同类互fo | 很癫，但是在尽量避免 | 容易爆炸 | 发电机喵 | 摄政请自觉离开",
+        "id": "1971210650358829056",
+        "location": "距离你520km",
+        "name": "yumeying",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986502418713223170/MRj-hPLP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 258,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 104
+        },
+        "username": "yumeyingnya",
+        "verified": false
+      }
+    ]
+  }
+}

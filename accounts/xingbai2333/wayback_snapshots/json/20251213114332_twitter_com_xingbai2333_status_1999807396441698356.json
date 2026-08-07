@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999514749818613869",
+    "created_at": "2025-12-13T11:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999807396441698356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeinokunbaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999807396441698356",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999514749818613869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeinokunbaku (◍＞◡＜◍)萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1999514738200576000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-0D32agAAwYS0.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999514739052019712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-0D7BagAAC0xD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999514749818613869",
+        "created_at": "2025-12-13T11:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999807396441698356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeinokunbaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999807396441698356",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999514749818613869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeinokunbaku (◍＞◡＜◍)萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999514738200576000",
+            "3_1999514739052019712"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "1999514749818613869",
+        "created_at": "2025-12-12T16:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999514749818613869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMbOhgmlWl",
+              "end": 76,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/1999514749818613869/photo/1",
+              "media_key": "3_1999514738200576000",
+              "start": 53,
+              "url": "https://t.co/nMbOhgmlWl"
+            },
+            {
+              "display_url": "pic.x.com/nMbOhgmlWl",
+              "end": 76,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/1999514749818613869/photo/1",
+              "media_key": "3_1999514739052019712",
+              "start": 53,
+              "url": "https://t.co/nMbOhgmlWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999514749818613869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 374,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ε=(´ο｀*)))唉 累了 就這樣吧 拍那麼久都拍不出我滿意的 就這樣發吧\n圖1新照片 ➕ 圖2老庫存 https://t.co/nMbOhgmlWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 496,
+          "like_count": 6981,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "🇨🇳広東省出身/政治学科と抹茶味の物が大好き/人道主義・邏輯・法律至上/社会民主主義 三民主義 弁証法/☭中共改革派 改開派（共青団員 ❂中華民國派（信奉孫文國民黨派\n點讚即認同 不回fo找自己問題\nサブ人格：@kunbakusensei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 105,
+                "username": "kunbakusensei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCNGNf…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCNGNf3kdknnPU6zrPx0YpWw?si=on8r4NlWh2AQrrMU",
+                "start": 0,
+                "url": "https://t.co/8bYQiHEOH4"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "PRD-GBA 🇨🇳🇭🇰🇲🇴——📍Canton",
+        "name": "🌸⛩️🍵文芸の空白🇭🇰🇯🇵🇹🇼",
+        "pinned_tweet_id": "1997562766710943928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997968143223046144/Tu_hSWLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 495,
+          "like_count": 4491,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/8bYQiHEOH4",
+        "username": "bungeinokunbaku",
+        "verified": false
+      }
+    ]
+  }
+}

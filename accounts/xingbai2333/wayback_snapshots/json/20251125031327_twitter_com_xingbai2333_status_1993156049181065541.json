@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992596262638796903",
+    "created_at": "2025-11-25T03:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993156049181065541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912003169842040832",
+          "start": 0,
+          "username": "maika111nobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993156049181065541",
+    "in_reply_to_user_id": "1912003169842040832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992999558713102478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maika111nobu 谢谢姐姐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-25T03:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993156049181065541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912003169842040832",
+              "start": 0,
+              "username": "maika111nobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993156049181065541",
+        "in_reply_to_user_id": "1912003169842040832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992999558713102478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maika111nobu 谢谢姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912003169842040832",
+        "conversation_id": "1992596262638796903",
+        "created_at": "2025-11-24T16:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992999558713102478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992999558713102478",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992596262638796903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 おめ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 291,
+          "like_count": 2168,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 294
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T04:41:07.000Z",
+        "description": "♂/日本語を勉強中/\n最喜欢p主@maretu01/\n最喜欢术ホワイトハッピー/\n画画手残党/\n片假名狂热症/\n发过帖子不是转帖是关注我的基本上都会回/\n第二人格@asumehoda111/@maumao1272586\n推上最好的两位朋友：@Treverie_/@leaderxiu\n/对象@X16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "maretu01"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asumehoda111"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "maumao1272586"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Treverie_"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "leaderxiu"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "X16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1912003169842040832",
+        "location": "アナタノココロ",
+        "name": "脳電波NōdenPa",
+        "pinned_tweet_id": "1990398447426408509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987459621783511041/SaqGEpA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 224,
+          "like_count": 4795,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1485
+        },
+        "username": "maika111nobu",
+        "verified": false
+      }
+    ]
+  }
+}

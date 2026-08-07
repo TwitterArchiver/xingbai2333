@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999797342103609785",
+    "created_at": "2025-12-13T13:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T14:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999829414234960034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493409182141206531",
+          "start": 0,
+          "username": "JQKAwhocares"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999829414234960034",
+    "in_reply_to_user_id": "1493409182141206531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999827979258724806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JQKAwhocares 谢谢姐姐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999797342103609785",
+        "created_at": "2025-12-13T13:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999829414234960034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493409182141206531",
+              "start": 0,
+              "username": "JQKAwhocares"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999829414234960034",
+        "in_reply_to_user_id": "1493409182141206531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999827979258724806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JQKAwhocares 谢谢姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493409182141206531",
+        "conversation_id": "1999797342103609785",
+        "created_at": "2025-12-13T13:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999827979258724806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999827979258724806",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999797342103609785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 497,
+          "like_count": 7028,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T02:18:13.000Z",
+        "description": "临床医学生/男娘/性取向也是男娘/男娘最棒了 想要🤤🤤🤤想要🤤🤤🤤好看的腿子🤤🤤🤤阴暗的怪笑🤤🤤🤤想要🤤白皙的皮肤🤤🤤想要🤤圆润的🐻🐻",
+        "id": "1493409182141206531",
+        "location": "Los Angeles, CA",
+        "name": "Cyber Coffin🫘🤤",
+        "pinned_tweet_id": "1953092266966565288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993001345067159552/EMzKICOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 154,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 573
+        },
+        "username": "JQKAwhocares",
+        "verified": false
+      }
+    ]
+  }
+}

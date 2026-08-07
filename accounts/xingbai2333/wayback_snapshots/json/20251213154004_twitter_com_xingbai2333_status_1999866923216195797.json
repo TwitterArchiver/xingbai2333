@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1999854607733076183",
+    "created_at": "2025-12-13T15:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999866923216195797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "Ai_ovedose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999866923216195797",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999854607733076183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_ovedose 抱抱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_1999854598346129408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DpKVjaQAAgemK.jpg",
+        "width": 1239
+      },
+      {
+        "height": 906,
+        "media_key": "3_1999854598342037504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DpKVib0AA1Mpi.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1999854607733076183",
+        "created_at": "2025-12-13T15:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999866923216195797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "Ai_ovedose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999866923216195797",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999854607733076183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_ovedose 抱抱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999854598346129408",
+            "3_1999854598342037504"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "1999854607733076183",
+        "created_at": "2025-12-13T14:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999854607733076183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxS9mc9vqQ",
+              "end": 80,
+              "expanded_url": "https://x.com/Ai_ovedose/status/1999854607733076183/photo/1",
+              "media_key": "3_1999854598346129408",
+              "start": 57,
+              "url": "https://t.co/zxS9mc9vqQ"
+            },
+            {
+              "display_url": "pic.x.com/zxS9mc9vqQ",
+              "end": 80,
+              "expanded_url": "https://x.com/Ai_ovedose/status/1999854607733076183/photo/1",
+              "media_key": "3_1999854598342037504",
+              "start": 57,
+              "url": "https://t.co/zxS9mc9vqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999854607733076183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这么对我！我一直在哭… 你们都在霸凌我…… 你是被发现因为虚荣P图生气了？ 你发出来的时候就应该要想过这样 https://t.co/zxS9mc9vqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm ?kg(石墩子！)//无证含糖//休学ing//欢迎大家来找咱贴贴喵～//愿所有人都能被温柔对待～//同类互fo喵喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai2333",
+                "start": 0,
+                "url": "https://t.co/l3IDZBqcKd"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "pinned_tweet_id": "1992960514557886955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 502,
+          "like_count": 7173,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/l3IDZBqcKd",
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "重生版/互Fo",
+        "id": "1980612830824132609",
+        "location": "Hong Kong",
+        "name": "Vee",
+        "pinned_tweet_id": "1997642573490319755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989174075781226496/VdnzOkFe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 340,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 285
+        },
+        "username": "Ai_ovedose",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "1992221708993081788",
+    "created_at": "2025-11-22T14:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992236468547543439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992236468547543439",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992221708993081788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5034,
+        "height": 720,
+        "media_key": "7_1992221576281104384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992221576281104384/pu/img/-j-7R5jJ7BqV-vAb.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992221576281104384/pu/vid/avc1/480x270/snWrru8skaAMFlav.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992221576281104384/pu/vid/avc1/640x360/-F0-OU4rRlbT4DY0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992221576281104384/pu/vid/avc1/1280x720/NfLkILntzmICh_ee.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992221576281104384/pu/pl/K8IfSEOHPzSvRgf7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "1992221708993081788",
+        "created_at": "2025-11-22T14:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992236468547543439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992236468547543439",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992221708993081788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992221576281104384"
+          ]
+        },
+        "author_id": "1750929042008907781",
+        "conversation_id": "1992221708993081788",
+        "created_at": "2025-11-22T13:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992221708993081788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePH8dbpZZZ",
+              "end": 26,
+              "expanded_url": "https://x.com/Kawakaze_Prism/status/1992221708993081788/video/1",
+              "media_key": "7_1992221576281104384",
+              "start": 3,
+              "url": "https://t.co/ePH8dbpZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992221708993081788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖萌 https://t.co/ePH8dbpZZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "默默的视奸你们喵！//08//158cm 44kg//无证含糖//休学ing～//欢迎大家来找咱贴贴喵～～//互fo",
+        "id": "1744679108737712128",
+        "name": "星白🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744679443497615360/yjbcxihP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 140,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "username": "xingbai2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 男生不是mtf ‖ 166/56 ‖ 身体健康，无精神疾病史 ‖ 水色系重度依赖 ‖ 🚪20好友位，赞赏码在置顶 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5156,
+          "following_count": 136,
+          "like_count": 84,
+          "listed_count": 11,
+          "media_count": 138,
+          "tweet_count": 594
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}
