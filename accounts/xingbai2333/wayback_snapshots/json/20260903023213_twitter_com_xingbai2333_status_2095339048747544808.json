@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2095087555574415526",
+    "created_at": "2026-09-03T02:32:13.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T03:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095339048747544808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1608830578023071752",
+          "start": 0,
+          "username": "madokaoverdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095339048747544808",
+    "in_reply_to_user_id": "1608830578023071752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095229311121031333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madokaoverdose 那时候是在冲冷水哦  被烫伤的处理步骤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2095087555574415526",
+        "created_at": "2026-09-03T02:32:13.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T03:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095339048747544808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1608830578023071752",
+              "start": 0,
+              "username": "madokaoverdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095339048747544808",
+        "in_reply_to_user_id": "1608830578023071752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095229311121031333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madokaoverdose 那时候是在冲冷水哦  被烫伤的处理步骤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608830578023071752",
+        "conversation_id": "2095087555574415526",
+        "created_at": "2026-09-02T19:16:09.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095229311121031333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744679108737712128",
+              "start": 0,
+              "username": "xingbai2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095229311121031333",
+        "in_reply_to_user_id": "1744679108737712128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095087555574415526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingbai2333 所以你不把热水挪开，而是一直让它烫着你，直到拍完照片吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai233",
+                "start": 0,
+                "url": "https://t.co/vAqHVL18fS"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "is_identity_verified": false,
+        "location": "Nya～（匿名搞丢了…）",
+        "most_recent_tweet_id": "2095339048747544808",
+        "name": "星白🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744679108737712128/1765308476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 760,
+          "like_count": 10264,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 3157
+        },
+        "url": "https://t.co/vAqHVL18fS",
+        "username": "xingbai2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-30T14:21:26.000Z",
+        "description": "药娘0.5｜家长党｜神农尝百草｜一夫多妻制，已有老公｜混沌善良｜\n尝试减少药物依赖中。。。\n不喜欢任何形式的社交伪装",
+        "id": "1608830578023071752",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2095319451646451976",
+        "name": "✟@圆✟■",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1608830578023071752/1785060956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091505931658145793/lYepPcF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 173,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "madokaoverdose",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

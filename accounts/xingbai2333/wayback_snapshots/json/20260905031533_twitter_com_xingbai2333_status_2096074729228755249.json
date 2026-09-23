@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096074724711526400"
+      ]
+    },
+    "author_id": "1744679108737712128",
+    "conversation_id": "2096074729228755249",
+    "created_at": "2026-09-05T03:15:33.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096074729228755249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQRpfEKf4r",
+          "end": 77,
+          "expanded_url": "https://x.com/xingbai2333/status/2096074729228755249/photo/1",
+          "media_key": "3_2096074724711526400",
+          "start": 54,
+          "url": "https://t.co/vQRpfEKf4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096074729228755249",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096074724711526400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开学的第一天  有个人凑上来说带咱去注册\n咱还说这人怎么这么好…\n然后忙了半天  然后他成功给了咱张电话卡 https://t.co/vQRpfEKf4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "3_2096074724711526400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbA200a8AAuq0k.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096074724711526400"
+          ]
+        },
+        "author_id": "1744679108737712128",
+        "conversation_id": "2096074729228755249",
+        "created_at": "2026-09-05T03:15:33.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096074729228755249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQRpfEKf4r",
+              "end": 77,
+              "expanded_url": "https://x.com/xingbai2333/status/2096074729228755249/photo/1",
+              "media_key": "3_2096074724711526400",
+              "start": 54,
+              "url": "https://t.co/vQRpfEKf4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096074729228755249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096074724711526400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开学的第一天  有个人凑上来说带咱去注册\n咱还说这人怎么这么好…\n然后忙了半天  然后他成功给了咱张电话卡 https://t.co/vQRpfEKf4r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai233",
+                "start": 0,
+                "url": "https://t.co/vAqHVL18fS"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "is_identity_verified": false,
+        "location": "Nya～（匿名搞丢了…）",
+        "most_recent_tweet_id": "2096074729228755249",
+        "name": "星白🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744679108737712128/1765308476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 765,
+          "like_count": 10278,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 3170
+        },
+        "url": "https://t.co/vAqHVL18fS",
+        "username": "xingbai2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

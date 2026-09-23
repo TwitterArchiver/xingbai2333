@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2095146923531592013",
+    "created_at": "2026-09-02T15:18:54.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095169603483951552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "lovelymaodou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095169603483951552",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095146923531592013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelymaodou 咪咪喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2095146913930924032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN1BIUb0AAVO7e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2095146923531592013",
+        "created_at": "2026-09-02T15:18:54.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095169603483951552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "lovelymaodou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095169603483951552",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095146923531592013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelymaodou 咪咪喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095146913930924032"
+          ]
+        },
+        "author_id": "1794306281572118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple AirPods",
+              "id": "972151914115710976",
+              "name": "Apple AirPods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1791209962158407680",
+              "name": "Airpods Max "
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2095146923531592013",
+        "created_at": "2026-09-02T13:48:47.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095146923531592013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KFKVEH90P",
+              "end": 178,
+              "expanded_url": "https://x.com/lovelymaodou/status/2095146923531592013/photo/1",
+              "media_key": "3_2095146913930924032",
+              "start": 155,
+              "url": "https://t.co/0KFKVEH90P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095146923531592013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095146913930924032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "2000fo🍥🏳️‍⚧️福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖：\n毛豆个人自用的Airpods max二代耳机🎧（购买原价3600¥）or 毛豆的两天使用权（无任何限制，杭州外需报销路费）二选一  1份\n一等奖：\n毛豆个人自用的二手华为5G随行WiFi Pro高配版（购买原价1699¥） or  毛豆的一夜使用权（无任何限制，杭州外需报销路费）二选一 1份\n二等奖：\n全套可爱的鲨鲨抱枕 or线上遥控指挥毛豆2小时（无任何限制）二选一 3份\n三等奖：\n毛豆的原味丝袜一双 or 全套鱼板🍥挂件钥匙扣 二选一 8份\n参与奖：\n毛豆私密照片一张\n只要参与了抽奖就会获得参与奖一份！\n参与要求：评论+转发+关注+点赞\n毛豆将符合要求的人员进行排序并使用grok随机抽选出一位获奖者\n评选机制:截止时间9月4日00：00\n开奖时间为达截止后即刻抽取\n另外开奖之后，参与奖需主动找毛豆领取喵～"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 681,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo🍥🏳️‍⚧️福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖：\n毛豆个人自用的Airpods max二代耳机🎧（购买原价3600¥）or 毛豆的两天使用权（无任何限制，杭州外需报销路费）二选一  1份\n一等奖：\n毛豆个人自用的二手华为5G随行WiFi Pro高配版（购买原价1699¥） or https://t.co/0KFKVEH90P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai233",
+                "start": 0,
+                "url": "https://t.co/vAqHVL18fS"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "is_identity_verified": false,
+        "location": "Nya～（匿名搞丢了…）",
+        "most_recent_tweet_id": "2095169603483951552",
+        "name": "星白🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744679108737712128/1765308476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 758,
+          "like_count": 10264,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 3155
+        },
+        "url": "https://t.co/vAqHVL18fS",
+        "username": "xingbai2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "一只可爱的刚出炉的MTF🏳️‍⚧️喵~\n生产日期07.4|大证含糖 |HRT 26.5.4 |5.15已出柜|大二数学系一枚|家长党 |「坐标杭州」 |御姐身材 181cm 57kg |爱好穿搭与cosplay 欢迎同好交流🍥 对象：@LightSTAR_qwq\n接江浙沪线下 门槛🚪88r➕V（解锁课表➕进私密群）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 117,
+                "username": "LightSTAR_qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/genderequity",
+                "end": 23,
+                "expanded_url": "https://t.me/genderequity",
+                "start": 0,
+                "url": "https://t.co/qRPHyIUePs"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "location": "浙江 杭州",
+        "most_recent_tweet_id": "2095146923531592013",
+        "name": "毛豆酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2093918123703636081",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1777858115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069828219298017280/H6q2UkAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 158,
+          "like_count": 224,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/qRPHyIUePs",
+        "username": "lovelymaodou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

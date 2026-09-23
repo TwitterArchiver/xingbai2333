@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2099763856075837495",
+    "created_at": "2026-09-15T19:16:51.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T20:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099940528129499477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010382770649042944",
+          "start": 0,
+          "username": "AyautaAmano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099940528129499477",
+    "in_reply_to_user_id": "2010382770649042944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099763856075837495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyautaAmano 一路平安哦～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4056,
+        "media_key": "3_2099763844323405824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPcF2Ua8AA6Gx8.jpg",
+        "width": 1872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2099763856075837495",
+        "created_at": "2026-09-15T19:16:51.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099940528129499477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010382770649042944",
+              "start": 0,
+              "username": "AyautaAmano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099940528129499477",
+        "in_reply_to_user_id": "2010382770649042944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099763856075837495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyautaAmano 一路平安哦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099763844323405824"
+          ]
+        },
+        "author_id": "2010382770649042944",
+        "conversation_id": "2099763856075837495",
+        "created_at": "2026-09-15T07:34:49.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099763856075837495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjHLm95Vkm",
+              "end": 44,
+              "expanded_url": "https://x.com/AyautaAmano/status/2099763856075837495/photo/1",
+              "media_key": "3_2099763844323405824",
+              "start": 21,
+              "url": "https://t.co/hjHLm95Vkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099763856075837495",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099763844323405824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1527,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收拾东西，准备跑路，明天6点半的动车☺️ https://t.co/hjHLm95Vkm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai233",
+                "start": 0,
+                "url": "https://t.co/vAqHVL18fS"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "is_identity_verified": false,
+        "location": "Nya～（匿名搞丢了…）",
+        "most_recent_tweet_id": "2099940528129499477",
+        "name": "星白🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744679108737712128/1765308476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 774,
+          "like_count": 10271,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 3188
+        },
+        "url": "https://t.co/vAqHVL18fS",
+        "username": "xingbai2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T16:06:40.000Z",
+        "description": "2026.8.26💥柜/无证含糖🍥/被家长大四党（）/\n/🎂2008.12.4/ 173  56kg /同类互fo喵/莫谈国事/坐标重庆/日语N3水平（大概）/\nオレは運命と戦う、そして勝てみせる。\n我会和命运战斗，然后赢给你看",
+        "id": "2010382770649042944",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2099938443812024637",
+        "name": "天野綾詩🍥あやうた",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010382770649042944/1789417530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092532065136947200/J7so2L8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 252,
+          "like_count": 1064,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "AyautaAmano",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
