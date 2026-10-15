@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1744679108737712128",
+    "conversation_id": "2103773567641178128",
+    "created_at": "2026-09-26T14:48:45.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103859325081174111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103859325081174111",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103773567641178128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 原来这是 bug 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2103773529456193536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PcbMAAUzyh.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529422667776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PUboAA7nzG.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529506496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PoawAAzuBZ.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529472925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PgagAA7168.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744679108737712128",
+        "conversation_id": "2103773567641178128",
+        "created_at": "2026-09-26T14:48:45.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103859325081174111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103859325081174111",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103773567641178128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 原来这是 bug 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103773529456193536",
+            "3_2103773529422667776",
+            "3_2103773529506496512",
+            "3_2103773529472925696"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2103773567641178128",
+        "created_at": "2026-09-26T09:07:59.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103773567641178128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529456193536",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529422667776",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529506496512",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529472925696",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103773567641178128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103773529456193536"
+          },
+          {
+            "media_key": "3_2103773529422667776"
+          },
+          {
+            "media_key": "3_2103773529506496512"
+          },
+          {
+            "media_key": "3_2103773529472925696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "呜…问问，大家发推遇到过这个问题吗🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇\n\n注意到被卡的似乎都是细节丰富的风景照…例如下面几张大面积密集树叶、碎石堆和石板表面，原图都无法发送…\n\n有没有大佬知道，具体是哪个参数被怎样限制了呢，这个问题困扰咱很久了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1540,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜…问问，大家发推遇到过这个问题吗🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇 https://t.co/lPHUTEx6oR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-09T11:14:57.000Z",
+        "description": "会一直默默的视奸你们所有人喵(发现你啦!)\n//08//158-1cm?kg(石墩子!)//无证含糖qwq\n//愿所有人都能被温柔对待~//咱不涉政喵!!!\n//在家躺尸ing//欢迎大家来找咱贴贴喵~~~\n//同类互fo喵喵~~(不是也会看情况回fo啦!!)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingbai233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingbai233",
+                "start": 0,
+                "url": "https://t.co/vAqHVL18fS"
+              }
+            ]
+          }
+        },
+        "id": "1744679108737712128",
+        "is_identity_verified": false,
+        "location": "Nya～（匿名搞丢了…）",
+        "most_recent_tweet_id": "2103859325081174111",
+        "name": "星白🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1744679108737712128/1765308476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999832423627104256/Td0AZjvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 778,
+          "like_count": 10258,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/vAqHVL18fS",
+        "username": "xingbai2333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2103859107027718562",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5387,
+          "following_count": 7338,
+          "like_count": 22801,
+          "listed_count": 12,
+          "media_count": 501,
+          "tweet_count": 6904
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
